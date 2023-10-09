@@ -8,7 +8,7 @@
     "name": "Lesser Zombie",
     "model": "CuteBat",
     "lives": 1,
-    "maxhp": 400,
+    "maxhp": 300,
     "hpFactor": 3,
     "movementspeed": 3.3,
     "damageProjectile": 30,
