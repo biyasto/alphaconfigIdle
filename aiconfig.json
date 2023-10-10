@@ -213,7 +213,7 @@
     "hasTargetIndicator": false,
     "projectile": 1,
     "delay": 2,
-    "chargingtime": 1,
+    "chargingtime": 1.5,
     "attackrange": 12
   },
   {
