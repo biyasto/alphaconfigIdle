@@ -326,7 +326,7 @@
     "buffValue": 0,
     "debuff": 0,
     "debuffVale": 0,
-    "attackrange": 6
+    "attackrange": 5
   },
   {
     "id": 10,
@@ -342,8 +342,8 @@
     "isJumping": false,
     "moveOffsetAngleMin": 0,
     "moveOffsetAngleMax": 0,
-    "dashspeed": 15,
-    "dashrange": 9,
+    "dashspeed": 13,
+    "dashrange": 10,
     "jumpHeight": 0,
     "targetX": 0,
     "targetY": 0,
