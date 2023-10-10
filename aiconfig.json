@@ -364,7 +364,7 @@
     "buffValue": 0,
     "debuff": 0,
     "debuffVale": 0,
-    "delay": 2,
+    "delay": 4,
     "chargingtime": 0.5,
     "dashangle": -1,
     "targethero": true
