@@ -137,7 +137,7 @@
     "description": "Attacking slows enemies by %para2 .",
     "type": "Neutral",
     "level": 1,
-    "para1": 1,
+    "para1": 5,
     "para2": 0.2
   },
   {
@@ -146,7 +146,7 @@
     "description": "Attacking slows enemies by %para2 .",
     "type": "Neutral",
     "level": 2,
-    "para1": 1,
+    "para1": 5,
     "para2": 0.25
   },
   {
@@ -155,7 +155,7 @@
     "description": "Attacking slows enemies by %para2 .",
     "type": "Neutral",
     "level": 3,
-    "para1": 1,
+    "para1": 5,
     "para2": 0.5
   },
   {
@@ -595,5 +595,100 @@
     "para1": 5,
     "para2": 0.1,
     "para3": 2.5
+  },
+  {
+    "id": 67,
+    "name": "Turbo Charge",
+    "description": "Increase the charge speed of the railgun by %para1",
+    "type": "Unique",
+    "level": 1,
+    "para1": 0.2
+  },
+  {
+    "id": 68,
+    "name": "Turbo Charge",
+    "description": "Increase the charge speed of the railgun by  %para1",
+    "type": "Unique",
+    "level": 2,
+    "para1": 0.6
+  },
+  {
+    "id": 69,
+    "name": "Turbo Charge",
+    "description": "The gun always shoots charged laser",
+    "type": "Unique",
+    "level": 3
+  },
+  {
+    "id": 70,
+    "name": "Momentum Burst",
+    "description": "Increase %para1 damage for para2 hits after dashing",
+    "type": "Unique",
+    "level": 1,
+    "para1": 0.2,
+    "para2": 3
+  },
+  {
+    "id": 71,
+    "name": "Momentum Burst",
+    "description": "Increase %para1 damage for para2 hits after dashing",
+    "type": "Unique",
+    "level": 2,
+    "para1": 0.5,
+    "para2": 3
+  },
+  {
+    "id": 72,
+    "name": "Momentum Burst",
+    "description": "Increase %para1 damage for para2 hits after dashing",
+    "type": "Unique",
+    "level": 3,
+    "para1": 1,
+    "para2": 3
+  },
+  {
+    "id": 73,
+    "name": "Infernal Aura",
+    "description": "Dealing petty damage to enemies around the character",
+    "type": "Unique",
+    "level": 1,
+    "para1": 0.15,
+    "para2": 1
+  },
+  {
+    "id": 74,
+    "name": "Infernal Aura",
+    "description": "Dealing intermediate damage to enemies around the character",
+    "type": "Unique",
+    "level": 2,
+    "para1": 0.3,
+    "para2": 1
+  },
+  {
+    "id": 75,
+    "name": "Infernal Aura",
+    "description": "Dealing superb damage to enemies around the character",
+    "type": "Unique",
+    "level": 3,
+    "para1": 0.8,
+    "para2": 1
+  },
+  {
+    "id": 76
+  },
+  {
+    "id": 77
+  },
+  {
+    "id": 78
+  },
+  {
+    "id": 79
+  },
+  {
+    "id": 80
+  },
+  {
+    "id": 81
   }
 ]
