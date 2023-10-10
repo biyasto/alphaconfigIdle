@@ -7,13 +7,13 @@
     "id": 1,
     "name": "Red round projectile",
     "type": "SphereSkill",
-    "model": "Weapon/FlameFireball",
+    "model": "Weapon/FlameArrow",
     "livetime": 5,
     "ignorewhencollidewithhero": false,
     "ignoredamagetohero": false,
     "speedbullet": 10,
-    "modelSize": 0.3,
-    "collisionSize": 0.3
+    "modelSize": 1,
+    "collisionSize": 1
   },
   {
     "id": 2,
