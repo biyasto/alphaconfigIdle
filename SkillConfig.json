@@ -264,7 +264,9 @@
     "type": "Neutral",
     "level": 3,
     "para1": 5,
-    "para2": 0.8
+    "para2": 0.8,
+    "para3": 0.3,
+    "para4": 3
   },
   {
     "id": 25,
@@ -274,7 +276,8 @@
     "type": "Neutral",
     "level": 1,
     "para1": 2,
-    "para2": 0.1
+    "para2": 0.1,
+    "para3": false
   },
   {
     "id": 26,
@@ -284,7 +287,8 @@
     "type": "Neutral",
     "level": 2,
     "para1": 2,
-    "para2": 0.1
+    "para2": 0.1,
+    "para3": false
   },
   {
     "id": 27,
@@ -294,7 +298,8 @@
     "type": "Neutral",
     "level": 3,
     "para1": 3,
-    "para2": 0.1
+    "para2": 0.1,
+    "para3": true
   },
   {
     "id": 28,
@@ -304,7 +309,8 @@
     "type": "Neutral",
     "level": 1,
     "para1": 1,
-    "para2": 3
+    "para2": 3,
+    "para3": 0
   },
   {
     "id": 29,
@@ -314,7 +320,8 @@
     "type": "Neutral",
     "level": 2,
     "para1": 2,
-    "para2": 5
+    "para2": 5,
+    "para3": 0
   },
   {
     "id": 30,
@@ -333,8 +340,8 @@
     "description": "Dashing slightly knockbacks enemies in the way.",
     "type": "Neutral",
     "level": 1,
-    "para1": 2,
-    "para2": 1
+    "para1": 1.5,
+    "para2": 3
   },
   {
     "id": 32,
@@ -343,8 +350,8 @@
     "description": "Dashing moderately knockbacks enemies in the way.",
     "type": "Neutral",
     "level": 2,
-    "para1": 3,
-    "para2": 1
+    "para1": 2,
+    "para2": 5
   },
   {
     "id": 33,
@@ -353,8 +360,8 @@
     "description": "Dashing greatly knockbacks enemies in the way.",
     "type": "Neutral",
     "level": 3,
-    "para1": 4,
-    "para2": 1
+    "para1": 3,
+    "para2": 10
   },
   {
     "id": 34,
@@ -787,7 +794,8 @@
   {
     "id": 76,
     "weaponId": "moonlightsword",
-    "description": "Increase petty passive damage on player’s missing HP. Max at %para2 remaining HP",
+    "name": "Lunar Blessing",
+    "description": "Slightly increase critical damage based on missing HP (cap at %para2 HP)",
     "type": "Unique",
     "level": 1,
     "para1": 0.01,
@@ -796,7 +804,8 @@
   {
     "id": 77,
     "weaponId": "moonlightsword",
-    "description": "Increase intermediate passive damage on player’s missing HP. Max at %para2 remaining HP",
+    "name": "Lunar Blessing",
+    "description": "Moderately increase critical damage based missing HP (cap at %para2 HP)",
     "type": "Unique",
     "level": 2,
     "para1": 0.015,
@@ -805,7 +814,8 @@
   {
     "id": 78,
     "weaponId": "moonlightsword",
-    "description": "Increase superb passive damage on player’s missing HP. Max at %para2 remaining HP",
+    "name": "Lunar Blessing",
+    "description": "Greatly increase critical damage based missing HP (cap at %para2 HP)",
     "type": "Unique",
     "level": 3,
     "para1": 0.05,
