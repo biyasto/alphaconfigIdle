@@ -183,7 +183,7 @@
     "description": "Attacks slightly knockback enemies.",
     "type": "Neutral",
     "level": 1,
-    "para1": 2
+    "para1": 1
   },
   {
     "id": 20,
@@ -192,7 +192,7 @@
     "description": "Attacks moderately knockback enemies.",
     "type": "Neutral",
     "level": 2,
-    "para1": 3
+    "para1": 1.5
   },
   {
     "id": 21,
@@ -201,7 +201,7 @@
     "description": "Attacks greatly knockback enemies.",
     "type": "Neutral",
     "level": 3,
-    "para1": 5
+    "para1": 2
   },
   {
     "id": 22,
