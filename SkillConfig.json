@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "weaponId": "N/A",
     "name": "Attack Bonus",
     "description": "Increase attack by %para1 .",
     "type": "Basic",
@@ -9,6 +10,7 @@
   },
   {
     "id": 2,
+    "weaponId": "N/A",
     "name": "Speed Bonus",
     "description": "Increase movement speed by %para1 .",
     "type": "Basic",
@@ -17,6 +19,7 @@
   },
   {
     "id": 3,
+    "weaponId": "N/A",
     "name": "Health Bonus",
     "description": "Increase max HP by %para1 .",
     "type": "Basic",
@@ -25,6 +28,7 @@
   },
   {
     "id": 4,
+    "weaponId": "N/A",
     "name": "Critical Chance Bonus",
     "description": "Increase critical chance by %para1 .",
     "type": "Basic",
@@ -33,6 +37,7 @@
   },
   {
     "id": 5,
+    "weaponId": "N/A",
     "name": "Critical Damage Bonus",
     "description": "Increase critical damage by %para1 .",
     "type": "Basic",
@@ -41,6 +46,7 @@
   },
   {
     "id": 6,
+    "weaponId": "N/A",
     "name": "Attack Speed Bonus",
     "description": "Increase attack speed by %para1 .",
     "type": "Basic",
@@ -49,6 +55,7 @@
   },
   {
     "id": 7,
+    "weaponId": "N/A",
     "name": "Berserk",
     "description": "Gain attack speed and lifesteal based on HP lost (cap at %para2 HP).",
     "type": "Neutral",
@@ -60,6 +67,7 @@
   },
   {
     "id": 8,
+    "weaponId": "N/A",
     "name": "Berserk",
     "description": "Gain attack speed and lifesteal based on HP lost (cap at %para2 HP).",
     "type": "Neutral",
@@ -71,6 +79,7 @@
   },
   {
     "id": 9,
+    "weaponId": "N/A",
     "name": "Berserk",
     "description": "Gain attack speed and lifesteal based on HP lost (cap at %para2 HP).",
     "type": "Neutral",
@@ -82,6 +91,7 @@
   },
   {
     "id": 10,
+    "weaponId": "N/A",
     "name": "Vampirism",
     "description": "Attacking heal for %para1 damage dealt.",
     "type": "Neutral",
@@ -90,6 +100,7 @@
   },
   {
     "id": 11,
+    "weaponId": "N/A",
     "name": "Vampirism",
     "description": "Attacking heal for %para1 damage dealt.",
     "type": "Neutral",
@@ -98,6 +109,7 @@
   },
   {
     "id": 12,
+    "weaponId": "N/A",
     "name": "Vampirism",
     "description": "Attacking heal for %para1 damage dealt.",
     "type": "Neutral",
@@ -106,6 +118,7 @@
   },
   {
     "id": 13,
+    "weaponId": "N/A",
     "name": "Ignite",
     "description": "Attacking burns the enemies for %para2 attack damage over time.",
     "type": "Neutral",
@@ -115,6 +128,7 @@
   },
   {
     "id": 14,
+    "weaponId": "N/A",
     "name": "Ignite",
     "description": "Attacking burns the enemies for %para2 attack damage over time.",
     "type": "Neutral",
@@ -124,6 +138,7 @@
   },
   {
     "id": 15,
+    "weaponId": "N/A",
     "name": "Ignite",
     "description": "Attacking burns the enemies for %para2 attack damage over time.",
     "type": "Neutral",
@@ -133,6 +148,7 @@
   },
   {
     "id": 16,
+    "weaponId": "N/A",
     "name": "Chilling Touch",
     "description": "Attacking slows enemies by %para2 .",
     "type": "Neutral",
@@ -142,6 +158,7 @@
   },
   {
     "id": 17,
+    "weaponId": "N/A",
     "name": "Chilling Touch",
     "description": "Attacking slows enemies by %para2 .",
     "type": "Neutral",
@@ -151,6 +168,7 @@
   },
   {
     "id": 18,
+    "weaponId": "N/A",
     "name": "Chilling Touch",
     "description": "Attacking slows enemies by %para2 .",
     "type": "Neutral",
@@ -160,30 +178,34 @@
   },
   {
     "id": 19,
+    "weaponId": "N/A",
     "name": "Knockback",
     "description": "Attacks slightly knockback enemies.",
     "type": "Neutral",
     "level": 1,
-    "para1": 8
+    "para1": 2
   },
   {
     "id": 20,
+    "weaponId": "N/A",
     "name": "Knockback",
     "description": "Attacks moderately knockback enemies.",
     "type": "Neutral",
     "level": 2,
-    "para1": 16
+    "para1": 3
   },
   {
     "id": 21,
+    "weaponId": "N/A",
     "name": "Knockback",
     "description": "Attacks greatly knockback enemies.",
     "type": "Neutral",
     "level": 3,
-    "para1": 25
+    "para1": 5
   },
   {
     "id": 22,
+    "weaponId": "N/A",
     "name": "Blazing Trail",
     "description": "Upon dashing, leave behind a fiery trail that deals %para2 attack damage per second.",
     "type": "Neutral",
@@ -193,6 +215,7 @@
   },
   {
     "id": 23,
+    "weaponId": "N/A",
     "name": "Blazing Trail",
     "description": "Upon dashing, leave behind a fiery trail that deals %para2 attack damage per second.",
     "type": "Neutral",
@@ -202,6 +225,7 @@
   },
   {
     "id": 24,
+    "weaponId": "N/A",
     "name": "Blazing Trail",
     "description": "Upon dashing, leave behind a fiery trail that deals %para2 attack damage per second.",
     "type": "Neutral",
@@ -211,6 +235,7 @@
   },
   {
     "id": 25,
+    "weaponId": "N/A",
     "name": "Dash Stack +",
     "description": "Gain <para1 stacks of dash.",
     "type": "Neutral",
@@ -220,6 +245,7 @@
   },
   {
     "id": 26,
+    "weaponId": "N/A",
     "name": "Dash Stack +",
     "description": "Gain <para1 stacks of dash.",
     "type": "Neutral",
@@ -229,6 +255,7 @@
   },
   {
     "id": 27,
+    "weaponId": "N/A",
     "name": "Dash Stack +",
     "description": "Gain <para1 stacks of dash.",
     "type": "Neutral",
@@ -238,6 +265,7 @@
   },
   {
     "id": 28,
+    "weaponId": "N/A",
     "name": "Dash Deflect",
     "description": "Dashing deflects projectiles that deal %para1 their original damage.",
     "type": "Neutral",
@@ -246,6 +274,7 @@
   },
   {
     "id": 29,
+    "weaponId": "N/A",
     "name": "Dash Deflect",
     "description": "Dashing deflects projectiles that deal %para1 their original damage.",
     "type": "Neutral",
@@ -254,6 +283,7 @@
   },
   {
     "id": 30,
+    "weaponId": "N/A",
     "name": "Dash Deflect",
     "description": "Dashing deflects projectiles that deal %para1 their original damage.",
     "type": "Neutral",
@@ -262,6 +292,7 @@
   },
   {
     "id": 31,
+    "weaponId": "N/A",
     "name": "Dash Shockwave",
     "description": "Dashing slightly knockbacks enemies in the way.",
     "type": "Neutral",
@@ -271,6 +302,7 @@
   },
   {
     "id": 32,
+    "weaponId": "N/A",
     "name": "Dash Shockwave",
     "description": "Dashing moderately knockbacks enemies in the way.",
     "type": "Neutral",
@@ -280,6 +312,7 @@
   },
   {
     "id": 33,
+    "weaponId": "N/A",
     "name": "Dash Shockwave",
     "description": "Dashing greatly knockbacks enemies in the way.",
     "type": "Neutral",
@@ -289,6 +322,7 @@
   },
   {
     "id": 34,
+    "weaponId": "N/A",
     "name": "Conquest Smite",
     "description": "Attacking inflicts Conquest stacks that deal %para1 attack damage when they detonate.",
     "type": "Neutral",
@@ -299,6 +333,7 @@
   },
   {
     "id": 35,
+    "weaponId": "N/A",
     "name": "Conquest Smite",
     "description": "Attacking inflicts Conquest stacks that deal %para1 attack damage when they detonate.",
     "type": "Neutral",
@@ -309,6 +344,7 @@
   },
   {
     "id": 36,
+    "weaponId": "N/A",
     "name": "Conquest Smite",
     "description": "Attacking inflicts Conquest stacks that deal %para1 attack damage when they detonate.",
     "type": "Neutral",
@@ -319,6 +355,7 @@
   },
   {
     "id": 37,
+    "weaponId": "N/A",
     "name": "Multishot",
     "description": "Fire <para1 more times each attack.",
     "type": "Ranged",
@@ -329,6 +366,7 @@
   },
   {
     "id": 38,
+    "weaponId": "N/A",
     "name": "Multishot",
     "description": "Fire <para1 more times each attack.",
     "type": "Ranged",
@@ -339,6 +377,7 @@
   },
   {
     "id": 39,
+    "weaponId": "N/A",
     "name": "Multishot",
     "description": "Fire <para1 more times each attack.",
     "type": "Ranged",
@@ -349,6 +388,7 @@
   },
   {
     "id": 40,
+    "weaponId": "N/A",
     "name": "Ricochet",
     "description": "Projectiles bounce to <para1 more enemies.",
     "type": "Ranged",
@@ -358,6 +398,7 @@
   },
   {
     "id": 41,
+    "weaponId": "N/A",
     "name": "Ricochet",
     "description": "Projectiles bounce to <para1 more enemies.",
     "type": "Ranged",
@@ -367,6 +408,7 @@
   },
   {
     "id": 42,
+    "weaponId": "N/A",
     "name": "Ricochet",
     "description": "Projectiles bounce to <para1 more enemies.",
     "type": "Ranged",
@@ -376,6 +418,7 @@
   },
   {
     "id": 43,
+    "weaponId": "N/A",
     "name": "Piercing",
     "description": "Projectiles pierce through <para1 enemy.",
     "type": "Ranged",
@@ -385,6 +428,7 @@
   },
   {
     "id": 44,
+    "weaponId": "N/A",
     "name": "Piercing",
     "description": "Projectiles pierce through <para1 enemies.",
     "type": "Ranged",
@@ -394,6 +438,7 @@
   },
   {
     "id": 45,
+    "weaponId": "N/A",
     "name": "Piercing",
     "description": "Projectiles pierce through all enemies.",
     "type": "Ranged",
@@ -403,6 +448,7 @@
   },
   {
     "id": 46,
+    "weaponId": "N/A",
     "name": "Chain Lightning",
     "description": "Hitting the enemy releases lightning that deals damage to <para1 enemies with a chance to stun.",
     "type": "Ranged",
@@ -415,6 +461,7 @@
   },
   {
     "id": 47,
+    "weaponId": "N/A",
     "name": "Chain Lightning",
     "description": "Hitting the enemy releases lightning that deals damage to <para1 enemies with a chance to stun.",
     "type": "Ranged",
@@ -427,6 +474,7 @@
   },
   {
     "id": 48,
+    "weaponId": "N/A",
     "name": "Chain Lightning",
     "description": "Hitting the enemy releases lightning that deals damage to <para1 enemies with a chance to stun.",
     "type": "Ranged",
@@ -439,6 +487,7 @@
   },
   {
     "id": 49,
+    "weaponId": "N/A",
     "name": "Projectile Up",
     "description": "Fire <para1 more projectile.",
     "type": "Ranged",
@@ -448,6 +497,7 @@
   },
   {
     "id": 50,
+    "weaponId": "N/A",
     "name": "Projectile Up",
     "description": "Fire <para2 more projectiles.",
     "type": "Ranged",
@@ -457,6 +507,7 @@
   },
   {
     "id": 51,
+    "weaponId": "N/A",
     "name": "Projectile Up",
     "description": "Fire <para2 more projectiles.",
     "type": "Ranged",
@@ -466,6 +517,7 @@
   },
   {
     "id": 52,
+    "weaponId": "N/A",
     "name": "Wall Bounce",
     "description": "Projectiles bounce off walls <para1 time.",
     "type": "Ranged",
@@ -474,6 +526,7 @@
   },
   {
     "id": 53,
+    "weaponId": "N/A",
     "name": "Wall Bounce",
     "description": "Projectiles bounce off walls <para1 times.",
     "type": "Ranged",
@@ -482,6 +535,7 @@
   },
   {
     "id": 54,
+    "weaponId": "N/A",
     "name": "Wall Bounce",
     "description": "Projectiles bounce off walls <para1 times.",
     "type": "Ranged",
@@ -490,6 +544,7 @@
   },
   {
     "id": 55,
+    "weaponId": "N/A",
     "name": "Deflect",
     "description": "Attacking deflects projectiles that deal %para1 their original damage.",
     "type": "Melee",
@@ -498,6 +553,7 @@
   },
   {
     "id": 56,
+    "weaponId": "N/A",
     "name": "Deflect",
     "description": "Attacking deflects projectiles that deal %para1 their original damage.",
     "type": "Melee",
@@ -506,6 +562,7 @@
   },
   {
     "id": 57,
+    "weaponId": "N/A",
     "name": "Deflect",
     "description": "Attacking deflects projectiles that deal %para1 their original damage.",
     "type": "Melee",
@@ -514,6 +571,7 @@
   },
   {
     "id": 58,
+    "weaponId": "N/A",
     "name": "Long Reach",
     "description": "Slightly increase attack range.",
     "type": "Melee",
@@ -522,6 +580,7 @@
   },
   {
     "id": 59,
+    "weaponId": "N/A",
     "name": "Long Reach",
     "description": "Moderately increase attack range.",
     "type": "Melee",
@@ -530,6 +589,7 @@
   },
   {
     "id": 60,
+    "weaponId": "N/A",
     "name": "Long Reach",
     "description": "Greatly increase attack range.",
     "type": "Melee",
@@ -538,6 +598,7 @@
   },
   {
     "id": 61,
+    "weaponId": "N/A",
     "name": "Momentum",
     "description": "Dashing increases attack by %para2 (max <para1 stacks)",
     "type": "Melee",
@@ -548,6 +609,7 @@
   },
   {
     "id": 62,
+    "weaponId": "N/A",
     "name": "Momentum",
     "description": "Dashing increases attack by %para2 (max <para1 stacks)",
     "type": "Melee",
@@ -558,6 +620,7 @@
   },
   {
     "id": 63,
+    "weaponId": "N/A",
     "name": "Momentum",
     "description": "Dashing increases attack by %para2 (max <para1 stacks)",
     "type": "Melee",
@@ -568,6 +631,7 @@
   },
   {
     "id": 64,
+    "weaponId": "N/A",
     "name": "Rage",
     "description": "Increase attack by %para2 per attack (max <para1 stacks)",
     "type": "Melee",
@@ -578,6 +642,7 @@
   },
   {
     "id": 65,
+    "weaponId": "N/A",
     "name": "Rage",
     "description": "Increase attack by %para2 per attack (max <para1 stacks)",
     "type": "Melee",
@@ -588,6 +653,7 @@
   },
   {
     "id": 66,
+    "weaponId": "N/A",
     "name": "Rage",
     "description": "Increase attack by %para2 per attack (max <para1 stacks)",
     "type": "Melee",
@@ -598,6 +664,7 @@
   },
   {
     "id": 67,
+    "weaponId": "railgun",
     "name": "Turbo Charge",
     "description": "Increase the charge speed of the railgun by %para1",
     "type": "Unique",
@@ -606,6 +673,7 @@
   },
   {
     "id": 68,
+    "weaponId": "railgun",
     "name": "Turbo Charge",
     "description": "Increase the charge speed of the railgun by  %para1",
     "type": "Unique",
@@ -614,6 +682,7 @@
   },
   {
     "id": 69,
+    "weaponId": "railgun",
     "name": "Turbo Charge",
     "description": "The gun always shoots charged laser",
     "type": "Unique",
@@ -621,6 +690,7 @@
   },
   {
     "id": 70,
+    "weaponId": "wristcrossbow",
     "name": "Momentum Burst",
     "description": "Increase %para1 damage for para2 hits after dashing",
     "type": "Unique",
@@ -630,6 +700,7 @@
   },
   {
     "id": 71,
+    "weaponId": "wristcrossbow",
     "name": "Momentum Burst",
     "description": "Increase %para1 damage for para2 hits after dashing",
     "type": "Unique",
@@ -639,6 +710,7 @@
   },
   {
     "id": 72,
+    "weaponId": "wristcrossbow",
     "name": "Momentum Burst",
     "description": "Increase %para1 damage for para2 hits after dashing",
     "type": "Unique",
@@ -648,6 +720,7 @@
   },
   {
     "id": 73,
+    "weaponId": "firesword",
     "name": "Infernal Aura",
     "description": "Dealing petty damage to enemies around the character",
     "type": "Unique",
@@ -657,6 +730,7 @@
   },
   {
     "id": 74,
+    "weaponId": "firesword",
     "name": "Infernal Aura",
     "description": "Dealing intermediate damage to enemies around the character",
     "type": "Unique",
@@ -666,6 +740,7 @@
   },
   {
     "id": 75,
+    "weaponId": "firesword",
     "name": "Infernal Aura",
     "description": "Dealing superb damage to enemies around the character",
     "type": "Unique",
@@ -674,21 +749,151 @@
     "para2": 1
   },
   {
-    "id": 76
+    "id": 76,
+    "weaponId": "moonlightsword",
+    "description": "Increase petty passive damage on player’s missing HP. Max at %para2 remaining HP",
+    "type": "Unique",
+    "level": 1,
+    "para1": 0.01,
+    "para2": 0.3
   },
   {
-    "id": 77
+    "id": 77,
+    "weaponId": "moonlightsword",
+    "description": "Increase intermediate passive damage on player’s missing HP. Max at %para2 remaining HP",
+    "type": "Unique",
+    "level": 2,
+    "para1": 0.015,
+    "para2": 0.3
   },
   {
-    "id": 78
+    "id": 78,
+    "weaponId": "moonlightsword",
+    "description": "Increase superb passive damage on player’s missing HP. Max at %para2 remaining HP",
+    "type": "Unique",
+    "level": 3,
+    "para1": 0.05,
+    "para2": 0.3
   },
   {
-    "id": 79
+    "id": 79,
+    "weaponId": "autocrossbow",
+    "description": "Killed enemies explode and deal petty damage to surrounding areas based on the number of wounds",
+    "type": "Unique",
+    "level": 0.05,
+    "para1": 3
   },
   {
-    "id": 80
+    "id": 80,
+    "weaponId": "autocrossbow",
+    "description": "Killed enemies explode and deal intermediate damage to surrounding areas based on the number of wounds",
+    "type": "Unique",
+    "level": 0.1,
+    "para1": 4
   },
   {
-    "id": 81
+    "id": 81,
+    "weaponId": "autocrossbow",
+    "description": "Killed enemies explode and deal superb damage to surrounding areas based on the number of wounds",
+    "type": "Unique",
+    "level": 0.2,
+    "para1": 5
+  },
+  {
+    "id": 82,
+    "weaponId": "angelscythe",
+    "description": "Normal enemies has %para1 chance to drop soul when killed",
+    "type": "Unique",
+    "level": 0.02
+  },
+  {
+    "id": 83,
+    "weaponId": "angelscythe",
+    "description": "Normal enemies has %para1 chance to drop soul when killed",
+    "type": "Unique",
+    "level": 0.05
+  },
+  {
+    "id": 84,
+    "weaponId": "angelscythe",
+    "description": "Normal enemies has %para1 chance to drop soul when killed.  Heal %para2 HP when collect soul.",
+    "type": "Unique",
+    "level": 0.1,
+    "para1": 0.05
+  },
+  {
+    "id": 85,
+    "weaponId": "minigun",
+    "description": "Each attack increase attack speed by %para1 for para2 seconds, max stack at para3.",
+    "type": "Unique",
+    "level": 0.1,
+    "para1": 2,
+    "para2": 5
+  },
+  {
+    "id": 86,
+    "weaponId": "minigun",
+    "description": "Each attack increase attack speed by %para1 for para2 seconds, max stack at para3.",
+    "type": "Unique",
+    "level": 0.3,
+    "para1": 2,
+    "para2": 5
+  },
+  {
+    "id": 87,
+    "weaponId": "minigun",
+    "description": "Each attack increase attack speed by %para1 for para2 seconds, max stack at para3.",
+    "type": "Unique",
+    "level": 0.5,
+    "para1": 2,
+    "para2": 5
+  },
+  {
+    "id": 88,
+    "weaponId": "lightbow",
+    "description": "Increase area of arrow rain by %para1 and damage by %para2",
+    "type": "Unique",
+    "level": 0.2,
+    "para1": 0.3,
+    "para2": 0.1
+  },
+  {
+    "id": 89,
+    "weaponId": "lightbow",
+    "description": "Increase area of arrow rain by %para1 and damage by %para2",
+    "type": "Unique",
+    "level": 0.4,
+    "para1": 0.6,
+    "para2": 0.1
+  },
+  {
+    "id": 90,
+    "weaponId": "lightbow",
+    "description": "Increase area of arrow rain by %para1 and damage by %para2",
+    "type": "Unique",
+    "level": 0.7,
+    "para1": 1,
+    "para2": 0.1
+  },
+  {
+    "id": 91,
+    "weaponId": "lightsword",
+    "description": "Increase sword flying speed by %para1",
+    "type": "Unique",
+    "level": 0.2
+  },
+  {
+    "id": 92,
+    "weaponId": "lightsword",
+    "description": "Increase sword flying speed by %para1",
+    "type": "Unique",
+    "level": 0.5
+  },
+  {
+    "id": 93,
+    "weaponId": "lightsword",
+    "description": "Increase sword flying speed by %para1",
+    "type": "Unique",
+    "level": 1
   }
 ]
