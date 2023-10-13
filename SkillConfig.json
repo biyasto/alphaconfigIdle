@@ -371,7 +371,7 @@
     "description": "Attacking inflicts Conquest stack that deal damage on detonatio.",
     "type": "Neutral",
     "level": 1,
-    "para1": 2,
+    "para1": 10,
     "para2": 0.5
   },
   {
