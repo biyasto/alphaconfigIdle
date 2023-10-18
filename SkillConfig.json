@@ -57,7 +57,7 @@
     "id": 7,
     "weaponId": "N/A",
     "name": "Berserk",
-    "description": "Gain attack speed and lifesteal based on HP lost (cap at %para2 HP).",
+    "description": "Gain attack speed based on HP lost (cap at %para2 HP).",
     "type": "Neutral",
     "level": 1,
     "para1": 0.01,
@@ -71,7 +71,7 @@
     "id": 8,
     "weaponId": "N/A",
     "name": "Berserk",
-    "description": "Gain attack speed and lifesteal based on HP lost (cap at %para2 HP).",
+    "description": "Gain attack speed based on HP lost (cap at %para2 HP).",
     "type": "Neutral",
     "level": 2,
     "para1": 0.01,
@@ -85,7 +85,7 @@
     "id": 9,
     "weaponId": "N/A",
     "name": "Berserk",
-    "description": "Gain attack speed and lifesteal based on HP lost (cap at %para2 HP).",
+    "description": "Gain attack speed based on HP lost (cap at %para2 HP).",
     "type": "Neutral",
     "level": 3,
     "para1": 0.01,
@@ -546,7 +546,7 @@
     "type": "Ranged",
     "level": 1,
     "para1": 1,
-    "para2": 0.6
+    "para2": 0.4
   },
   {
     "id": 50,
@@ -556,7 +556,7 @@
     "type": "Ranged",
     "level": 2,
     "para1": 2,
-    "para2": 0.6
+    "para2": 0.4
   },
   {
     "id": 51,
@@ -566,7 +566,7 @@
     "type": "Ranged",
     "level": 3,
     "para1": 4,
-    "para2": 1
+    "para2": 0
   },
   {
     "id": 52,
