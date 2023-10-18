@@ -280,7 +280,7 @@
     "type": "Neutral",
     "level": 1,
     "para1": 2,
-    "para2": 0.1,
+    "para2": 0.2,
     "para3": false
   },
   {
@@ -313,8 +313,9 @@
     "type": "Neutral",
     "level": 1,
     "para1": 1,
-    "para2": 3,
-    "para3": 0
+    "para2": 7,
+    "para3": 0.2,
+    "para4": 0
   },
   {
     "id": 29,
@@ -324,8 +325,9 @@
     "type": "Neutral",
     "level": 2,
     "para1": 2,
-    "para2": 5,
-    "para3": 0
+    "para2": 7,
+    "para3": 0.5,
+    "para4": 0
   },
   {
     "id": 30,
@@ -334,9 +336,10 @@
     "description": "Dashing deflects projectiles that deal %para1 their original damage.",
     "type": "Neutral",
     "level": 3,
-    "para1": 4,
-    "para2": 10,
-    "para3": 3
+    "para1": 3,
+    "para2": 7,
+    "para3": 1,
+    "para4": 3
   },
   {
     "id": 31,
