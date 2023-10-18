@@ -8,7 +8,7 @@
     "name": "Red round projectile",
     "type": "SphereSkill",
     "model": "Weapon/FireArrow",
-    "livetime": 0.2,
+    "livetime": 1,
     "ignorewhencollidewithhero": false,
     "ignoredamagetohero": false,
     "speedbullet": 10,
