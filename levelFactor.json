@@ -9,7 +9,7 @@
   },
   {
     "level": 3,
-    "levelFactor": 0.5
+    "levelFactor": 1
   },
   {
     "level": 4,
@@ -17,66 +17,66 @@
   },
   {
     "level": 5,
-    "levelFactor": 1
+    "levelFactor": 1.5
   },
   {
     "level": 6,
-    "levelFactor": 1
+    "levelFactor": 1.5
   },
   {
     "level": 7,
-    "levelFactor": 1.5
+    "levelFactor": 2
   },
   {
     "level": 8,
-    "levelFactor": 1.5
+    "levelFactor": 2.5
   },
   {
     "level": 9,
-    "levelFactor": 1.5
+    "levelFactor": 2.5
   },
   {
     "level": 10,
-    "levelFactor": 2
+    "levelFactor": 3
   },
   {
     "level": 11,
-    "levelFactor": 2
+    "levelFactor": 3.5
   },
   {
     "level": 12,
-    "levelFactor": 2
+    "levelFactor": 3.5
   },
   {
     "level": 13,
-    "levelFactor": 2.5
+    "levelFactor": 4
   },
   {
     "level": 14,
-    "levelFactor": 2.5
+    "levelFactor": 4.5
   },
   {
     "level": 15,
-    "levelFactor": 3
+    "levelFactor": 4.5
   },
   {
     "level": 16,
-    "levelFactor": 3
+    "levelFactor": 5
   },
   {
     "level": 17,
-    "levelFactor": 3
+    "levelFactor": 5.5
   },
   {
     "level": 18,
-    "levelFactor": 4
+    "levelFactor": 5.5
   },
   {
     "level": 19,
-    "levelFactor": 4
+    "levelFactor": 6
   },
   {
     "level": 20,
-    "levelFactor": 4
+    "levelFactor": 6
   }
 ]
