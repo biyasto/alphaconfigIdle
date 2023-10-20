@@ -1,15 +1,15 @@
 [
   {
     "level": 1,
-    "levelFactor": 0.3
+    "levelFactor": 0.15
   },
   {
     "level": 2,
-    "levelFactor": 0.5
+    "levelFactor": 0.3
   },
   {
     "level": 3,
-    "levelFactor": 1
+    "levelFactor": 0.5
   },
   {
     "level": 4,
