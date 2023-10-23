@@ -321,7 +321,7 @@
     "maxOnScreen": 0,
     "maxhp": 400,
     "hpFactor": 8,
-    "movementspeed": 1,
+    "movementspeed": 5,
     "damageProjectile": 180,
     "atkFactor": 3,
     "attackInterval": 1,
