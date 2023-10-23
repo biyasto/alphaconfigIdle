@@ -33,10 +33,10 @@
     "name": "Super Fast Projectile",
     "type": "Straight",
     "model": "Weapon/FireArrow",
-    "livetime": 30,
-    "speedbullet": 10,
-    "modelSize": 3,
-    "collisionSize": 3
+    "livetime": 900,
+    "speedbullet": 13,
+    "modelSize": 2,
+    "collisionSize": 2
   },
   {
     "id": 4,
