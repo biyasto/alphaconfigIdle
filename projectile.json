@@ -34,9 +34,9 @@
     "type": "Straight",
     "model": "Weapon/FireArrow",
     "livetime": 30,
-    "speedbullet": 50,
-    "modelSize": 0.5,
-    "collisionSize": 0.3
+    "speedbullet": 10,
+    "modelSize": 3,
+    "collisionSize": 3
   },
   {
     "id": 4,
