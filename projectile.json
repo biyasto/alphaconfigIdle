@@ -21,7 +21,7 @@
     "type": "SphereSkill",
     "model": "Weapon/MutatedZombieCircle",
     "explosion": 6,
-    "livetime": 1,
+    "livetime": 0.1,
     "ignorewhencollidewithhero": false,
     "ignoredamagetohero": false,
     "speedbullet": 0,
