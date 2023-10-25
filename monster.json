@@ -129,7 +129,7 @@
   {
     "id": 5,
     "name": "Wild Boar",
-    "model": "02/Snake",
+    "model": "02/Wolf",
     "lives": 1,
     "maxOnScreen": 0,
     "maxhp": 400,
