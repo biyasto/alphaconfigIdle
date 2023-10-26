@@ -34,7 +34,7 @@
     "type": "Straight",
     "model": "Weapon/FireArrow",
     "livetime": 900,
-    "bouncingwalltimes": 5,
+    "bouncingwalltimes": 3,
     "speedbullet": 12,
     "modelSize": 1.5,
     "collisionSize": 1.5
