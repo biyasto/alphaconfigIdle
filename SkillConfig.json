@@ -110,7 +110,7 @@
     "description": "Attacking heal for %para1 damage dealt.",
     "type": "Neutral",
     "level": 1,
-    "para1": 0.1,
+    "para1": 0.05,
     "para2": 0
   },
   {
@@ -120,7 +120,7 @@
     "description": "Attacking heal for %para1 damage dealt.",
     "type": "Neutral",
     "level": 2,
-    "para1": 0.2,
+    "para1": 0.1,
     "para2": 0
   },
   {
@@ -130,7 +130,7 @@
     "description": "Attacking heal for %para1 damage dealt.",
     "type": "Neutral",
     "level": 3,
-    "para1": 0.5,
+    "para1": 0.25,
     "para2": 0.2
   },
   {
