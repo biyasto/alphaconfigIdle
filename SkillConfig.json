@@ -7,7 +7,7 @@
     "description": "Increase attack by %para1 .",
     "type": "Basic",
     "level": 0,
-    "para1": 0.1
+    "para1": 0.2
   },
   {
     "id": 2,
@@ -27,7 +27,7 @@
     "description": "Increase max HP by %para1 .",
     "type": "Basic",
     "level": 0,
-    "para1": 0.1
+    "para1": 0.3
   },
   {
     "id": 4,
@@ -47,7 +47,7 @@
     "description": "Increase critical damage by %para1 .",
     "type": "Basic",
     "level": 0,
-    "para1": 0.1
+    "para1": 0.15
   },
   {
     "id": 6,
@@ -99,8 +99,8 @@
     "para2": 0.3,
     "para3": 0.01429,
     "para4": 0,
-    "para5": 0.3,
-    "para6": 5
+    "para5": 0.25,
+    "para6": 7
   },
   {
     "id": 10,
@@ -131,7 +131,7 @@
     "type": "Neutral",
     "level": 3,
     "para1": 0.5,
-    "para2": 0.5
+    "para2": 0.2
   },
   {
     "id": 13,
@@ -223,7 +223,8 @@
     "level": 1,
     "para1": 0.5,
     "para2": 0,
-    "para3": 0
+    "para3": 0,
+    "para4": 0
   },
   {
     "id": 20,
@@ -234,7 +235,8 @@
     "level": 2,
     "para1": 0.8,
     "para2": 0,
-    "para3": 0
+    "para3": 0,
+    "para4": 0
   },
   {
     "id": 21,
@@ -245,7 +247,8 @@
     "level": 3,
     "para1": 1,
     "para2": 0.2,
-    "para3": 0.5
+    "para3": 0.5,
+    "para4": 2
   },
   {
     "id": 22,
@@ -394,7 +397,7 @@
     "weaponId": "N/A",
     "name": "Conquest Smite",
     "icon": "smite",
-    "description": "Attacking inflicts Conquest stack that deal damage on detonatio.",
+    "description": "Attacking inflicts Conquest stack that deal damage on detonation.",
     "type": "Neutral",
     "level": 1,
     "para1": 2,
@@ -406,7 +409,7 @@
     "id": 35,
     "weaponId": "N/A",
     "name": "Conquest Smite",
-    "description": "Attacking inflicts Conquest stack that deal damage on detonatio.",
+    "description": "Attacking inflicts Conquest stack that deal damage on detonation.",
     "type": "Neutral",
     "level": 2,
     "para1": 2,
@@ -418,13 +421,13 @@
     "id": 36,
     "weaponId": "N/A",
     "name": "Conquest Smite",
-    "description": "Attacking inflicts Conquest stack that deal damage on detonatio.",
+    "description": "Attacking inflicts Conquest stack that deal damage on detonation.",
     "type": "Neutral",
     "level": 3,
     "para1": 2,
     "para2": 2.5,
-    "para3": 3,
-    "para4": 1
+    "para3": 5,
+    "para4": 2
   },
   {
     "id": 37,
@@ -437,10 +440,7 @@
     "para1": 1,
     "para2": 0.35,
     "para3": 0.2,
-    "para4": 0,
-    "para6": 35,
-    "para7": 22.75,
-    "para10": 57.75
+    "para4": 0
   },
   {
     "id": 38,
@@ -452,11 +452,7 @@
     "para1": 2,
     "para2": 0.25,
     "para3": 0.15,
-    "para4": 0,
-    "para6": 35,
-    "para7": 26.25,
-    "para8": 19.6875,
-    "para10": 80.9375
+    "para4": 0
   },
   {
     "id": 39,
@@ -468,12 +464,7 @@
     "para1": 3,
     "para2": 0.1,
     "para3": 0.1,
-    "para4": 1,
-    "para6": 35,
-    "para7": 31.5,
-    "para8": 28.35,
-    "para9": 51.03,
-    "para10": 145.88
+    "para4": 1
   },
   {
     "id": 40,
@@ -485,7 +476,8 @@
     "level": 1,
     "para1": 2,
     "para2": 0.45,
-    "para3": 0
+    "para3": 0,
+    "para4": 0
   },
   {
     "id": 41,
@@ -496,7 +488,8 @@
     "level": 2,
     "para1": 3,
     "para2": 0.3,
-    "para3": 0
+    "para3": 0,
+    "para4": 0
   },
   {
     "id": 42,
@@ -596,7 +589,7 @@
     "id": 50,
     "weaponId": "N/A",
     "name": "Projectile Up",
-    "description": "Fire <para2 more projectiles.",
+    "description": "Fire <para1 more projectiles.",
     "type": "Ranged",
     "level": 2,
     "para1": 2,
@@ -606,7 +599,7 @@
     "id": 51,
     "weaponId": "N/A",
     "name": "Projectile Up",
-    "description": "Fire <para2 more projectiles.",
+    "description": "Fire <para1 more projectiles.",
     "type": "Ranged",
     "level": 3,
     "para1": 4,
