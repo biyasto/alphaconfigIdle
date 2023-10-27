@@ -378,7 +378,7 @@
     "type": "Neutral",
     "level": 2,
     "para1": 2,
-    "para2": 5,
+    "para2": 3.5,
     "para3": 0
   },
   {
@@ -388,8 +388,8 @@
     "description": "Dashing greatly knockbacks enemies in the way.",
     "type": "Neutral",
     "level": 3,
-    "para1": 3,
-    "para2": 10,
+    "para1": 2.5,
+    "para2": 5,
     "para3": 2
   },
   {
