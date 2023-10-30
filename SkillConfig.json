@@ -37,7 +37,7 @@
     "description": "Increase critical chance by %para1 .",
     "type": "Basic",
     "level": 0,
-    "para1": 0.05
+    "para1": 0.1
   },
   {
     "id": 5,
@@ -330,8 +330,8 @@
     "type": "Neutral",
     "level": 1,
     "para1": 1,
-    "para2": 7,
-    "para3": 0.2,
+    "para2": 1.5,
+    "para3": 0.3,
     "para4": 0
   },
   {
@@ -342,7 +342,7 @@
     "type": "Neutral",
     "level": 2,
     "para1": 2,
-    "para2": 7,
+    "para2": 1.5,
     "para3": 0.5,
     "para4": 0
   },
@@ -354,7 +354,7 @@
     "type": "Neutral",
     "level": 3,
     "para1": 3,
-    "para2": 7,
+    "para2": 1.5,
     "para3": 1,
     "para4": 3
   },
