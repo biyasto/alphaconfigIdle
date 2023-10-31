@@ -338,7 +338,7 @@
     "dashState": 0,
     "aimState": 0,
     "deadState": 0,
-    "size": 2.5,
+    "size": 1.25,
     "isAir": false,
     "damageMelee": 150,
     "meleeInterval": 1,
