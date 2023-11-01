@@ -367,8 +367,8 @@
     "type": "Neutral",
     "level": 1,
     "para1": 1.5,
-    "para2": 3,
-    "para3": 0.5,
+    "para2": 4,
+    "para3": 0.3,
     "para4": 0
   },
   {
@@ -379,8 +379,8 @@
     "type": "Neutral",
     "level": 2,
     "para1": 2,
-    "para2": 3.5,
-    "para3": 0.5,
+    "para2": 4.5,
+    "para3": 0.3,
     "para4": 0
   },
   {
@@ -391,8 +391,8 @@
     "type": "Neutral",
     "level": 3,
     "para1": 2.5,
-    "para2": 5,
-    "para3": 0.5,
+    "para2": 5.5,
+    "para3": 0.3,
     "para4": 2
   },
   {
@@ -430,7 +430,7 @@
     "para1": 2,
     "para2": 2.5,
     "para3": 5,
-    "para4": 2
+    "para4": 1
   },
   {
     "id": 37,
