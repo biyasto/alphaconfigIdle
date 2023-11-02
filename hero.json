@@ -3,7 +3,7 @@
     "Star": 1,
     "baseAtkbonuspercent": 0.1,
     "baseAtkbonuspercentranged": 0.1,
-    "baseAtkbonuspercentmelee": 0.1,
+    "baseAtkbonuspercentmelee": 0,
     "baseCritpercent": 0.1,
     "baseCritdmgpercent": 0.25,
     "baseAtkspdbonuspercent": 0
