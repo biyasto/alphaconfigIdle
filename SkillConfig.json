@@ -47,7 +47,7 @@
     "description": "Increase critical damage by %para1 .",
     "type": "Basic",
     "level": 0,
-    "para1": 0.15
+    "para1": 0.2
   },
   {
     "id": 6,
@@ -57,7 +57,7 @@
     "description": "Increase attack speed by %para1 .",
     "type": "Basic",
     "level": 0,
-    "para1": 0.2
+    "para1": 0.1
   },
   {
     "id": 7,
