@@ -221,7 +221,7 @@
     "description": "Attacks slightly knockback enemies.",
     "type": "Neutral",
     "level": 1,
-    "para1": 0.5,
+    "para1": 0.4,
     "para2": 0,
     "para3": 0,
     "para4": 0
@@ -233,7 +233,7 @@
     "description": "Attacks moderately knockback enemies.",
     "type": "Neutral",
     "level": 2,
-    "para1": 0.8,
+    "para1": 0.6,
     "para2": 0,
     "para3": 0,
     "para4": 0
@@ -245,7 +245,7 @@
     "description": "Attacks greatly knockback enemies.",
     "type": "Neutral",
     "level": 3,
-    "para1": 1,
+    "para1": 0.8,
     "para2": 0.2,
     "para3": 0.5,
     "para4": 2
@@ -515,7 +515,8 @@
     "type": "Ranged",
     "level": 1,
     "para1": 1,
-    "para2": 0.35
+    "para2": 0.35,
+    "para3": 0
   },
   {
     "id": 44,
@@ -525,7 +526,8 @@
     "type": "Ranged",
     "level": 2,
     "para1": 3,
-    "para2": 0.3
+    "para2": 0.3,
+    "para3": 0
   },
   {
     "id": 45,
@@ -535,7 +537,8 @@
     "type": "Ranged",
     "level": 3,
     "para1": 0,
-    "para2": 0.1
+    "para2": 0.1,
+    "para3": 5
   },
   {
     "id": 46,
