@@ -344,7 +344,7 @@
     "aimState": 0,
     "deadState": 0,
     "size": 2.5,
-    "shadowRadius": 2.5,
+    "shadowRadius": 6,
     "isAir": false,
     "damageMelee": 150,
     "meleeInterval": 1,
