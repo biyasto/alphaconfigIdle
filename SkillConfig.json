@@ -428,7 +428,7 @@
     "type": "Neutral",
     "level": 3,
     "para1": 2,
-    "para2": 2.5,
+    "para2": 2,
     "para3": 5,
     "para4": 2
   },
@@ -552,7 +552,10 @@
     "para2": 0.2,
     "para3": 3,
     "para4": 0.1,
-    "para5": 1
+    "para5": 1,
+    "para6": 0,
+    "para7": 0,
+    "para8": 0
   },
   {
     "id": 47,
@@ -565,7 +568,10 @@
     "para2": 0.2,
     "para3": 3,
     "para4": 0.2,
-    "para5": 1
+    "para5": 1,
+    "para6": 0,
+    "para7": 0,
+    "para8": 0
   },
   {
     "id": 48,
@@ -578,7 +584,10 @@
     "para2": 0.25,
     "para3": 3,
     "para4": 0.3,
-    "para5": 1
+    "para5": 1,
+    "para6": 1,
+    "para7": 5,
+    "para8": 10
   },
   {
     "id": 49,
