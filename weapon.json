@@ -1,13 +1,13 @@
 [
   {
     "level": 1,
-    "wpAtk": 50,
+    "wpAtk": 25,
     "wpAtkbonuspercentground": 0,
     "wpAtkbonuspercentair": 0,
     "wpCritpercent": 0.05,
     "wpCritdmgpercent": 1.2,
-    "wpAtkspd": 1,
-    "wpRange": 9,
+    "wpAtkspd": 0.5,
+    "wpRange": 12,
     "wpSpdmodifier": 1
   },
   {
