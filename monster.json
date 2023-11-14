@@ -136,7 +136,7 @@
     "lives": 1,
     "maxOnScreen": 0,
     "maxhp": 400,
-    "hpFactor": 6,
+    "hpFactor": 5,
     "movementspeed": 7,
     "damageProjectile": 20,
     "atkFactor": 0.75,
