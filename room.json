@@ -3,8 +3,8 @@
     "DungeonID": 1,
     "totalRoom": 19,
     "roomScale": 1,
-    "minHP": 6000,
-    "maxHP": 7000
+    "minHP": 3000,
+    "maxHP": 4000
   },
   {
     "DungeonID": 2,
