@@ -363,7 +363,7 @@
     "weaponId": "N/A",
     "name": "Dash Shockwave",
     "icon": "shockwave",
-    "description": "Dashing slightly knockbacks enemies in the way.",
+    "description": "Dashing deals damage enemies in the way.",
     "type": "Neutral",
     "level": 1,
     "para1": 1.5,
@@ -375,7 +375,7 @@
     "id": 32,
     "weaponId": "N/A",
     "name": "Dash Shockwave",
-    "description": "Dashing moderately knockbacks enemies in the way.",
+    "description": "Dashing deals damage enemies in the way.",
     "type": "Neutral",
     "level": 2,
     "para1": 2,
@@ -387,7 +387,7 @@
     "id": 33,
     "weaponId": "N/A",
     "name": "Dash Shockwave",
-    "description": "Dashing greatly knockbacks enemies in the way.",
+    "description": "Dashing deals damage enemies in the way.",
     "type": "Neutral",
     "level": 3,
     "para1": 2.5,
@@ -585,9 +585,9 @@
     "para3": 3,
     "para4": 0.3,
     "para5": 1,
-    "para6": 0.2,
+    "para6": 0.3,
     "para7": 3,
-    "para8": 5
+    "para8": 3
   },
   {
     "id": 49,
