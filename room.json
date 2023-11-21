@@ -1,10 +1,10 @@
 [
   {
     "DungeonID": 1,
-    "totalRoom": 19,
+    "totalRoom": 20,
     "roomScale": 1,
     "minHP": 3000,
-    "maxHP": 4000
+    "maxHP": 3000
   },
   {
     "DungeonID": 2,
