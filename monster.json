@@ -124,7 +124,7 @@
     "dashState": 0,
     "aimState": 0,
     "deadState": 0,
-    "size": 0.5,
+    "size": 0.7,
     "shadowRadius": 1,
     "isAir": false,
     "damageMelee": 5
