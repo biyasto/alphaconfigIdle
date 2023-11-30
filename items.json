@@ -1,0 +1,416 @@
+[
+  {
+    "id": 1,
+    "name": "Gold",
+    "rarityID": 0,
+    "rarity": "NONE"
+  },
+  {
+    "id": 2,
+    "name": "Pistal-Viper",
+    "rarityID": 1,
+    "rarity": "Common"
+  },
+  {
+    "id": 3,
+    "name": "SMG-Tomson",
+    "rarityID": 1,
+    "rarity": "Common"
+  },
+  {
+    "id": 4,
+    "name": "Shotgun-Nova",
+    "rarityID": 1,
+    "rarity": "Common"
+  },
+  {
+    "id": 5,
+    "name": "Assault rifle-M16",
+    "rarityID": 1,
+    "rarity": "Common"
+  },
+  {
+    "id": 6,
+    "name": "Machete",
+    "rarityID": 1,
+    "rarity": "Common"
+  },
+  {
+    "id": 7,
+    "name": "Pistol-Anaconda",
+    "rarityID": 2,
+    "rarity": "Rare"
+  },
+  {
+    "id": 8,
+    "name": "SMG-Thompson",
+    "rarityID": 2,
+    "rarity": "Rare"
+  },
+  {
+    "id": 9,
+    "name": "Shotgun-Supernova",
+    "rarityID": 2,
+    "rarity": "Rare"
+  },
+  {
+    "id": 10,
+    "name": "Assault rifle-M4",
+    "rarityID": 2,
+    "rarity": "Rare"
+  },
+  {
+    "id": 11,
+    "name": "Compound Bow",
+    "rarityID": 2,
+    "rarity": "Rare"
+  },
+  {
+    "id": 12,
+    "name": "Demonic Hammer",
+    "rarityID": 2,
+    "rarity": "Rare"
+  },
+  {
+    "id": 13,
+    "name": "Chainsword",
+    "rarityID": 2,
+    "rarity": "Rare"
+  },
+  {
+    "id": 14,
+    "name": "Railgun",
+    "rarityID": 3,
+    "rarity": "Epic"
+  },
+  {
+    "id": 15,
+    "name": "Wrist Crossbow",
+    "rarityID": 3,
+    "rarity": "Epic"
+  },
+  {
+    "id": 16,
+    "name": "Automatic Crossbow",
+    "rarityID": 3,
+    "rarity": "Epic"
+  },
+  {
+    "id": 17,
+    "name": "Moonlight Greatsword",
+    "rarityID": 3,
+    "rarity": "Epic"
+  },
+  {
+    "id": 18,
+    "name": "The Devil's Tail",
+    "rarityID": 3,
+    "rarity": "Epic"
+  },
+  {
+    "id": 19,
+    "name": "Angelic Scythe",
+    "rarityID": 4,
+    "rarity": "Legendary"
+  },
+  {
+    "id": 20,
+    "name": "Heavy weapon-MiniGun",
+    "rarityID": 4,
+    "rarity": "Legendary"
+  },
+  {
+    "id": 21,
+    "name": "Bow of Light",
+    "rarityID": 4,
+    "rarity": "Legendary"
+  },
+  {
+    "id": 22,
+    "name": "Sword of Light",
+    "rarityID": 4,
+    "rarity": "Legendary"
+  },
+  {
+    "id": 23,
+    "name": "Ragged armor",
+    "rarityID": 1,
+    "rarity": "Common"
+  },
+  {
+    "id": 24,
+    "name": "Ragged gloves",
+    "rarityID": 1,
+    "rarity": "Common"
+  },
+  {
+    "id": 25,
+    "name": "Ragged helmet",
+    "rarityID": 1,
+    "rarity": "Common"
+  },
+  {
+    "id": 26,
+    "name": "Ragged shoes",
+    "rarityID": 1,
+    "rarity": "Common"
+  },
+  {
+    "id": 27,
+    "name": "Alchemist helmet",
+    "rarityID": 2,
+    "rarity": "Rare"
+  },
+  {
+    "id": 28,
+    "name": "Angry Glove",
+    "rarityID": 2,
+    "rarity": "Rare"
+  },
+  {
+    "id": 29,
+    "name": "Archer armor",
+    "rarityID": 2,
+    "rarity": "Rare"
+  },
+  {
+    "id": 30,
+    "name": "Archer boot",
+    "rarityID": 2,
+    "rarity": "Rare"
+  },
+  {
+    "id": 31,
+    "name": "Archer glove",
+    "rarityID": 2,
+    "rarity": "Rare"
+  },
+  {
+    "id": 32,
+    "name": "Archer helmet",
+    "rarityID": 2,
+    "rarity": "Rare"
+  },
+  {
+    "id": 33,
+    "name": "Fighter armor",
+    "rarityID": 2,
+    "rarity": "Rare"
+  },
+  {
+    "id": 34,
+    "name": "Fighter boot",
+    "rarityID": 2,
+    "rarity": "Rare"
+  },
+  {
+    "id": 35,
+    "name": "Fighter glove",
+    "rarityID": 2,
+    "rarity": "Rare"
+  },
+  {
+    "id": 36,
+    "name": "Fighter helmet",
+    "rarityID": 2,
+    "rarity": "Rare"
+  },
+  {
+    "id": 37,
+    "name": "Magician armor",
+    "rarityID": 2,
+    "rarity": "Rare"
+  },
+  {
+    "id": 38,
+    "name": "Magician boot",
+    "rarityID": 2,
+    "rarity": "Rare"
+  },
+  {
+    "id": 39,
+    "name": "Magician glove",
+    "rarityID": 2,
+    "rarity": "Rare"
+  },
+  {
+    "id": 40,
+    "name": "Magician helmet",
+    "rarityID": 2,
+    "rarity": "Rare"
+  },
+  {
+    "id": 41,
+    "name": "Soldier helmet",
+    "rarityID": 2,
+    "rarity": "Rare"
+  },
+  {
+    "id": 42,
+    "name": "Soldier armor",
+    "rarityID": 2,
+    "rarity": "Rare"
+  },
+  {
+    "id": 43,
+    "name": "Soldier boot",
+    "rarityID": 2,
+    "rarity": "Rare"
+  },
+  {
+    "id": 44,
+    "name": "Soldier glove",
+    "rarityID": 2,
+    "rarity": "Rare"
+  },
+  {
+    "id": 45,
+    "name": "Berserker armor",
+    "rarityID": 3,
+    "rarity": "Epic"
+  },
+  {
+    "id": 46,
+    "name": "Berserker boot",
+    "rarityID": 3,
+    "rarity": "Epic"
+  },
+  {
+    "id": 47,
+    "name": "Berserker glove",
+    "rarityID": 3,
+    "rarity": "Epic"
+  },
+  {
+    "id": 48,
+    "name": "Berserker helmet",
+    "rarityID": 3,
+    "rarity": "Epic"
+  },
+  {
+    "id": 49,
+    "name": "Guardian Helmet",
+    "rarityID": 3,
+    "rarity": "Epic"
+  },
+  {
+    "id": 50,
+    "name": "Guardian Armor",
+    "rarityID": 3,
+    "rarity": "Epic"
+  },
+  {
+    "id": 51,
+    "name": "Guardian Gloves",
+    "rarityID": 3,
+    "rarity": "Epic"
+  },
+  {
+    "id": 52,
+    "name": "Guardian Boots",
+    "rarityID": 3,
+    "rarity": "Epic"
+  },
+  {
+    "id": 53,
+    "name": "Marksman Helmet",
+    "rarityID": 3,
+    "rarity": "Epic"
+  },
+  {
+    "id": 54,
+    "name": "Marksman Armor",
+    "rarityID": 3,
+    "rarity": "Epic"
+  },
+  {
+    "id": 55,
+    "name": "Marksman Gloves",
+    "rarityID": 3,
+    "rarity": "Epic"
+  },
+  {
+    "id": 56,
+    "name": "Marksman Boots",
+    "rarityID": 3,
+    "rarity": "Epic"
+  },
+  {
+    "id": 57,
+    "name": "Wizard Helmet",
+    "rarityID": 3,
+    "rarity": "Epic"
+  },
+  {
+    "id": 58,
+    "name": "Wizard Armor",
+    "rarityID": 3,
+    "rarity": "Epic"
+  },
+  {
+    "id": 59,
+    "name": "Wizard Gloves",
+    "rarityID": 3,
+    "rarity": "Epic"
+  },
+  {
+    "id": 60,
+    "name": "Wizard Boots",
+    "rarityID": 3,
+    "rarity": "Epic"
+  },
+  {
+    "id": 61,
+    "name": "Archwizard Helmet",
+    "rarityID": 4,
+    "rarity": "Legendary"
+  },
+  {
+    "id": 62,
+    "name": "Archwizard Armor",
+    "rarityID": 4,
+    "rarity": "Legendary"
+  },
+  {
+    "id": 63,
+    "name": "Archwizard Gloves",
+    "rarityID": 4,
+    "rarity": "Legendary"
+  },
+  {
+    "id": 64,
+    "name": "Archwizard Boots",
+    "rarityID": 4,
+    "rarity": "Legendary"
+  },
+  {
+    "id": 65,
+    "name": "Hand of Midas",
+    "rarityID": 4,
+    "rarity": "Legendary"
+  },
+  {
+    "id": 66,
+    "name": "Juggernaut Armor",
+    "rarityID": 4,
+    "rarity": "Legendary"
+  },
+  {
+    "id": 67,
+    "name": "Juggernaut Gloves",
+    "rarityID": 4,
+    "rarity": "Legendary"
+  },
+  {
+    "id": 68,
+    "name": "Juggernaut Boots",
+    "rarityID": 4,
+    "rarity": "Legendary"
+  },
+  {
+    "id": 69,
+    "name": "Juggernaut Helmet",
+    "rarityID": 4,
+    "rarity": "Legendary"
+  }
+]
