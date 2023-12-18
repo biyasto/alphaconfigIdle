@@ -1,0 +1,177 @@
+[
+  {
+    "Level": 1,
+    "EXP Cost": 1000,
+    "Gold Cost": 2000
+  },
+  {
+    "Level": 2,
+    "EXP Cost": 2100,
+    "Gold Cost": 4200
+  },
+  {
+    "Level": 3,
+    "EXP Cost": 3200,
+    "Gold Cost": 6400
+  },
+  {
+    "Level": 4,
+    "EXP Cost": 4300,
+    "Gold Cost": 8600
+  },
+  {
+    "Level": 5,
+    "EXP Cost": 5400,
+    "Gold Cost": 10800
+  },
+  {
+    "Level": 6,
+    "EXP Cost": 6500,
+    "Gold Cost": 13000
+  },
+  {
+    "Level": 7,
+    "EXP Cost": 7600,
+    "Gold Cost": 15200
+  },
+  {
+    "Level": 8,
+    "EXP Cost": 8700,
+    "Gold Cost": 17400
+  },
+  {
+    "Level": 9,
+    "EXP Cost": 9800,
+    "Gold Cost": 19600
+  },
+  {
+    "Level": 10,
+    "EXP Cost": 10900,
+    "Gold Cost": 21800
+  },
+  {
+    "Level": 11,
+    "EXP Cost": 12000,
+    "Gold Cost": 24000
+  },
+  {
+    "Level": 12,
+    "EXP Cost": 13100,
+    "Gold Cost": 26200
+  },
+  {
+    "Level": 13,
+    "EXP Cost": 14200,
+    "Gold Cost": 28400
+  },
+  {
+    "Level": 14,
+    "EXP Cost": 15300,
+    "Gold Cost": 30600
+  },
+  {
+    "Level": 15,
+    "EXP Cost": 16400,
+    "Gold Cost": 32800
+  },
+  {
+    "Level": 16,
+    "EXP Cost": 17500,
+    "Gold Cost": 35000
+  },
+  {
+    "Level": 17,
+    "EXP Cost": 18600,
+    "Gold Cost": 37200
+  },
+  {
+    "Level": 18,
+    "EXP Cost": 19700,
+    "Gold Cost": 39400
+  },
+  {
+    "Level": 19,
+    "EXP Cost": 20800,
+    "Gold Cost": 41600
+  },
+  {
+    "Level": 20,
+    "EXP Cost": 21900,
+    "Gold Cost": 43800
+  },
+  {
+    "Level": 21,
+    "EXP Cost": 23000,
+    "Gold Cost": 46000
+  },
+  {
+    "Level": 22,
+    "EXP Cost": 24100,
+    "Gold Cost": 48200
+  },
+  {
+    "Level": 23,
+    "EXP Cost": 25200,
+    "Gold Cost": 50400
+  },
+  {
+    "Level": 24,
+    "EXP Cost": 26300,
+    "Gold Cost": 52600
+  },
+  {
+    "Level": 25,
+    "EXP Cost": 27400,
+    "Gold Cost": 54800
+  },
+  {
+    "Level": 26,
+    "EXP Cost": 28500,
+    "Gold Cost": 57000
+  },
+  {
+    "Level": 27,
+    "EXP Cost": 29600,
+    "Gold Cost": 59200
+  },
+  {
+    "Level": 28,
+    "EXP Cost": 30700,
+    "Gold Cost": 61400
+  },
+  {
+    "Level": 29,
+    "EXP Cost": 31800,
+    "Gold Cost": 63600
+  },
+  {
+    "Level": 30,
+    "EXP Cost": 32900,
+    "Gold Cost": 65800
+  },
+  {
+    "Level": 31,
+    "EXP Cost": 34000,
+    "Gold Cost": 68000
+  },
+  {
+    "Level": 32,
+    "EXP Cost": 35100,
+    "Gold Cost": 70200
+  },
+  {
+    "Level": 33,
+    "EXP Cost": 36200,
+    "Gold Cost": 72400
+  },
+  {
+    "Level": 34,
+    "EXP Cost": 37300,
+    "Gold Cost": 74600
+  },
+  {
+    "Level": 35,
+    "EXP Cost": 38400,
+    "Gold Cost": 76800
+  }
+]
