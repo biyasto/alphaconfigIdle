@@ -1,0 +1,30 @@
+[
+  {
+    "Ascend": 0,
+    "Gold cost": 0
+  },
+  {
+    "Ascend": 1,
+    "Gold cost": 5000
+  },
+  {
+    "Ascend": 2,
+    "Gold cost": 10000
+  },
+  {
+    "Ascend": 3,
+    "Gold cost": 15000
+  },
+  {
+    "Ascend": 4,
+    "Gold cost": 20000
+  },
+  {
+    "Ascend": 5,
+    "Gold cost": 50000
+  },
+  {
+    "Ascend": 6,
+    "Gold cost": 100000
+  }
+]
