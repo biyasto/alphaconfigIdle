@@ -1,6 +1,6 @@
 [
   {
-    "id": "viper",
+    "id": 2,
     "name": "Pistol-Viper",
     "attackpattern": "Projectile",
     "value": 1,
@@ -33,7 +33,7 @@
     "rage": 0
   },
   {
-    "id": "tomson",
+    "id": 3,
     "name": "SMG-Tomson",
     "attackpattern": "Projectile",
     "value": 1,
@@ -66,7 +66,7 @@
     "rage": 0
   },
   {
-    "id": "nova",
+    "id": 4,
     "name": "Shotgun-Nova",
     "attackpattern": "Projectile",
     "value": 3,
@@ -99,7 +99,7 @@
     "rage": 0
   },
   {
-    "id": "m16",
+    "id": 5,
     "name": "Assault rifle-M16",
     "attackpattern": "Projectile",
     "value": 1,
@@ -132,7 +132,7 @@
     "rage": 0
   },
   {
-    "id": "machete",
+    "id": 6,
     "name": "Machete",
     "attackpattern": "Slash",
     "value": 45,
@@ -165,7 +165,7 @@
     "rage": 1
   },
   {
-    "id": "anaconda",
+    "id": 7,
     "name": "Pistol-Anaconda",
     "attackpattern": "Projectile",
     "value": 1,
@@ -198,7 +198,7 @@
     "rage": 0
   },
   {
-    "id": "thompson",
+    "id": 8,
     "name": "SMG-Thompson",
     "attackpattern": "Projectile",
     "value": 1,
@@ -231,7 +231,7 @@
     "rage": 0
   },
   {
-    "id": "supernova",
+    "id": 9,
     "name": "Shotgun-Supernova",
     "attackpattern": "Projectile",
     "value": 3,
@@ -264,7 +264,7 @@
     "rage": 0
   },
   {
-    "id": "m4",
+    "id": 10,
     "name": "Assault rifle-M4",
     "attackpattern": "Projectile",
     "value": 1,
@@ -297,7 +297,7 @@
     "rage": 0
   },
   {
-    "id": "combow",
+    "id": 11,
     "name": "Compound Bow",
     "attackpattern": "Projectile",
     "value": 1,
@@ -330,7 +330,7 @@
     "rage": 0
   },
   {
-    "id": "dehammer",
+    "id": 12,
     "name": "Demonic Hammer",
     "attackpattern": "Slam",
     "value": 1,
@@ -363,7 +363,7 @@
     "rage": 1
   },
   {
-    "id": "chainsword",
+    "id": 13,
     "name": "Chainsword",
     "attackpattern": "Slash",
     "value": 45,
@@ -396,7 +396,7 @@
     "rage": 1
   },
   {
-    "id": "railgun",
+    "id": 14,
     "name": "Railgun",
     "attackpattern": "Ray",
     "value": 1,
@@ -429,7 +429,7 @@
     "rage": 0
   },
   {
-    "id": "wristcrossbow",
+    "id": 15,
     "name": "Wrist Crossbow",
     "attackpattern": "Projectile",
     "value": 1,
@@ -462,7 +462,7 @@
     "rage": 0
   },
   {
-    "id": "autocrossbow",
+    "id": 16,
     "name": "Automatic Crossbow",
     "attackpattern": "Projectile",
     "value": 1,
@@ -495,7 +495,7 @@
     "rage": 0
   },
   {
-    "id": "moonlightsword",
+    "id": 17,
     "name": "Moonlight Greatsword",
     "attackpattern": "Slash",
     "value": 180,
@@ -528,7 +528,7 @@
     "rage": 1
   },
   {
-    "id": "firesword",
+    "id": 18,
     "name": "The Devil's Tail",
     "attackpattern": "Slash",
     "value": 120,
@@ -561,7 +561,7 @@
     "rage": 1
   },
   {
-    "id": "angelscythe",
+    "id": 19,
     "name": "Angelic Scythe",
     "attackpattern": "Slash",
     "value": 360,
@@ -594,7 +594,7 @@
     "rage": 1
   },
   {
-    "id": "minigun",
+    "id": 20,
     "name": "Heavy weapon-MiniGun",
     "attackpattern": "Projectile",
     "value": 1,
@@ -627,7 +627,7 @@
     "rage": 0
   },
   {
-    "id": "lightbow",
+    "id": 21,
     "name": "Bow of Light",
     "attackpattern": "Projectile",
     "value": 1,
@@ -660,7 +660,7 @@
     "rage": 0
   },
   {
-    "id": "lightsword",
+    "id": 22,
     "name": "Sword of Light",
     "attackpattern": "AI",
     "dataId": "1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|1|0|0|0|0|0|0|0|0|0|0",
