@@ -1,30 +1,30 @@
 [
   {
-    "Ascend": 0,
-    "Gold cost": 0
+    "ascend": 0,
+    "goldCost": 5000
   },
   {
-    "Ascend": 1,
-    "Gold cost": 5000
+    "ascend": 1,
+    "goldCost": 10000
   },
   {
-    "Ascend": 2,
-    "Gold cost": 10000
+    "ascend": 2,
+    "goldCost": 15000
   },
   {
-    "Ascend": 3,
-    "Gold cost": 15000
+    "ascend": 3,
+    "goldCost": 20000
   },
   {
-    "Ascend": 4,
-    "Gold cost": 20000
+    "ascend": 4,
+    "goldCost": 50000
   },
   {
-    "Ascend": 5,
-    "Gold cost": 50000
+    "ascend": 5,
+    "goldCost": 100000
   },
   {
-    "Ascend": 6,
-    "Gold cost": 100000
+    "ascend": 6,
+    "goldCost": 0
   }
 ]
