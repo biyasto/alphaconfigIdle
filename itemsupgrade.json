@@ -2965,7 +2965,7 @@
     "healthBonusPercent": 0,
     "projectileAmt": 1,
     "projectileAmt2": 0,
-    "range": 2,
+    "range": 7,
     "spdModifier": 1,
     "projectileRange": 16,
     "projectileSpd": 20,
