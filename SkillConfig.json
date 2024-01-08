@@ -599,7 +599,7 @@
     "description": "Fire <para1 more projectile.",
     "type": "Ranged",
     "level": 1,
-    "para1": 1,
+    "para1": 2,
     "para2": 0.4
   },
   {
@@ -609,7 +609,7 @@
     "description": "Fire <para1 more projectiles.",
     "type": "Ranged",
     "level": 2,
-    "para1": 2,
+    "para1": 4,
     "para2": 0.4
   },
   {
