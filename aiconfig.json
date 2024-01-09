@@ -107,7 +107,7 @@
     "targetZ": 0,
     "hasTargetIndicator": false,
     "areaAttackRange": 360,
-    "areaAttackRadius": 3,
+    "areaAttackRadius": 3.5,
     "nProjectiles": 0,
     "projectileSPD": 0,
     "projectile": 2,
@@ -121,7 +121,7 @@
     "buffValue": 0,
     "debuff": 0,
     "debuffVale": 0,
-    "chargingtime": 2,
+    "chargingtime": 1.5,
     "attackrange": 4.5
   },
   {
