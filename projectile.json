@@ -25,8 +25,8 @@
     "ignorewhencollidewithhero": false,
     "ignoredamagetohero": false,
     "speedbullet": 0,
-    "modelSize": 6,
-    "collisionSize": 6
+    "modelSize": 7,
+    "collisionSize": 7
   },
   {
     "id": 3,
