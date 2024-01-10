@@ -1,7 +1,7 @@
 [
   {
     "id": 0,
-    "Type": "N/A",
+    "type": "N/A",
     "Meelee/Range": "N/A"
   },
   {
@@ -9,8 +9,8 @@
     "name": "Gold",
     "rarityID": 0,
     "rarity": "N/A",
-    "Type ID": 6,
-    "Type": "Currency",
+    "typeID": 6,
+    "type": "Currency",
     "Meelee/Range": "N/A"
   },
   {
@@ -18,8 +18,8 @@
     "name": "Pistol-Viper",
     "rarityID": 1,
     "rarity": "Common",
-    "Type ID": 1,
-    "Type": "Weapon",
+    "typeID": 1,
+    "type": "Weapon",
     "Meelee/Range": "Range"
   },
   {
@@ -27,8 +27,8 @@
     "name": "SMG-Tomson",
     "rarityID": 1,
     "rarity": "Common",
-    "Type ID": 1,
-    "Type": "Weapon",
+    "typeID": 1,
+    "type": "Weapon",
     "Meelee/Range": "Range"
   },
   {
@@ -36,8 +36,8 @@
     "name": "Shotgun-Nova",
     "rarityID": 1,
     "rarity": "Common",
-    "Type ID": 1,
-    "Type": "Weapon",
+    "typeID": 1,
+    "type": "Weapon",
     "Meelee/Range": "Range"
   },
   {
@@ -45,8 +45,8 @@
     "name": "Assault rifle-M16",
     "rarityID": 1,
     "rarity": "Common",
-    "Type ID": 1,
-    "Type": "Weapon",
+    "typeID": 1,
+    "type": "Weapon",
     "Meelee/Range": "Range"
   },
   {
@@ -54,8 +54,8 @@
     "name": "Machete",
     "rarityID": 1,
     "rarity": "Common",
-    "Type ID": 1,
-    "Type": "Weapon",
+    "typeID": 1,
+    "type": "Weapon",
     "Meelee/Range": "Melee"
   },
   {
@@ -63,8 +63,8 @@
     "name": "Pistol-Anaconda",
     "rarityID": 2,
     "rarity": "Rare",
-    "Type ID": 1,
-    "Type": "Weapon",
+    "typeID": 1,
+    "type": "Weapon",
     "Meelee/Range": "Range"
   },
   {
@@ -72,8 +72,8 @@
     "name": "SMG-Thompson",
     "rarityID": 2,
     "rarity": "Rare",
-    "Type ID": 1,
-    "Type": "Weapon",
+    "typeID": 1,
+    "type": "Weapon",
     "Meelee/Range": "Range"
   },
   {
@@ -81,8 +81,8 @@
     "name": "Shotgun-Supernova",
     "rarityID": 2,
     "rarity": "Rare",
-    "Type ID": 1,
-    "Type": "Weapon",
+    "typeID": 1,
+    "type": "Weapon",
     "Meelee/Range": "Range"
   },
   {
@@ -90,8 +90,8 @@
     "name": "Assault rifle-M4",
     "rarityID": 2,
     "rarity": "Rare",
-    "Type ID": 1,
-    "Type": "Weapon",
+    "typeID": 1,
+    "type": "Weapon",
     "Meelee/Range": "Range"
   },
   {
@@ -99,8 +99,8 @@
     "name": "Compound Bow",
     "rarityID": 2,
     "rarity": "Rare",
-    "Type ID": 1,
-    "Type": "Weapon",
+    "typeID": 1,
+    "type": "Weapon",
     "Meelee/Range": "Range"
   },
   {
@@ -108,8 +108,8 @@
     "name": "Demonic Hammer",
     "rarityID": 2,
     "rarity": "Rare",
-    "Type ID": 1,
-    "Type": "Weapon",
+    "typeID": 1,
+    "type": "Weapon",
     "Meelee/Range": "Melee"
   },
   {
@@ -117,8 +117,8 @@
     "name": "Chainsword",
     "rarityID": 2,
     "rarity": "Rare",
-    "Type ID": 1,
-    "Type": "Weapon",
+    "typeID": 1,
+    "type": "Weapon",
     "Meelee/Range": "Melee"
   },
   {
@@ -126,8 +126,8 @@
     "name": "Railgun",
     "rarityID": 3,
     "rarity": "Epic",
-    "Type ID": 1,
-    "Type": "Weapon",
+    "typeID": 1,
+    "type": "Weapon",
     "Meelee/Range": "Range"
   },
   {
@@ -135,8 +135,8 @@
     "name": "Wrist Crossbow",
     "rarityID": 3,
     "rarity": "Epic",
-    "Type ID": 1,
-    "Type": "Weapon",
+    "typeID": 1,
+    "type": "Weapon",
     "Meelee/Range": "Range"
   },
   {
@@ -144,8 +144,8 @@
     "name": "Automatic Crossbow",
     "rarityID": 3,
     "rarity": "Epic",
-    "Type ID": 1,
-    "Type": "Weapon",
+    "typeID": 1,
+    "type": "Weapon",
     "Meelee/Range": "Range"
   },
   {
@@ -153,8 +153,8 @@
     "name": "Moonlight Greatsword",
     "rarityID": 3,
     "rarity": "Epic",
-    "Type ID": 1,
-    "Type": "Weapon",
+    "typeID": 1,
+    "type": "Weapon",
     "Meelee/Range": "Melee"
   },
   {
@@ -162,8 +162,8 @@
     "name": "The Devil's Tail",
     "rarityID": 3,
     "rarity": "Epic",
-    "Type ID": 1,
-    "Type": "Weapon",
+    "typeID": 1,
+    "type": "Weapon",
     "Meelee/Range": "Melee"
   },
   {
@@ -171,8 +171,8 @@
     "name": "Angelic Scythe",
     "rarityID": 4,
     "rarity": "Legendary",
-    "Type ID": 1,
-    "Type": "Weapon",
+    "typeID": 1,
+    "type": "Weapon",
     "Meelee/Range": "Melee"
   },
   {
@@ -180,8 +180,8 @@
     "name": "Heavy weapon-MiniGun",
     "rarityID": 4,
     "rarity": "Legendary",
-    "Type ID": 1,
-    "Type": "Weapon",
+    "typeID": 1,
+    "type": "Weapon",
     "Meelee/Range": "Range"
   },
   {
@@ -189,8 +189,8 @@
     "name": "Bow of Light",
     "rarityID": 4,
     "rarity": "Legendary",
-    "Type ID": 1,
-    "Type": "Weapon",
+    "typeID": 1,
+    "type": "Weapon",
     "Meelee/Range": "Range"
   },
   {
@@ -198,8 +198,8 @@
     "name": "Sword of Light",
     "rarityID": 4,
     "rarity": "Legendary",
-    "Type ID": 1,
-    "Type": "Weapon",
+    "typeID": 1,
+    "type": "Weapon",
     "Meelee/Range": "Range"
   },
   {
@@ -207,8 +207,8 @@
     "name": "Ragged armor",
     "rarityID": 1,
     "rarity": "Common",
-    "Type ID": 2,
-    "Type": "Armor",
+    "typeID": 2,
+    "type": "Armor",
     "Meelee/Range": "N/A"
   },
   {
@@ -216,8 +216,8 @@
     "name": "Ragged gloves",
     "rarityID": 1,
     "rarity": "Common",
-    "Type ID": 3,
-    "Type": "Gloves",
+    "typeID": 3,
+    "type": "Gloves",
     "Meelee/Range": "N/A"
   },
   {
@@ -225,8 +225,8 @@
     "name": "Ragged helmet",
     "rarityID": 1,
     "rarity": "Common",
-    "Type ID": 4,
-    "Type": "Helmet",
+    "typeID": 4,
+    "type": "Helmet",
     "Meelee/Range": "N/A"
   },
   {
@@ -234,8 +234,8 @@
     "name": "Ragged shoes",
     "rarityID": 1,
     "rarity": "Common",
-    "Type ID": 5,
-    "Type": "Boots",
+    "typeID": 5,
+    "type": "Boots",
     "Meelee/Range": "N/A"
   },
   {
@@ -243,8 +243,8 @@
     "name": "Alchemist helmet",
     "rarityID": 2,
     "rarity": "Rare",
-    "Type ID": 4,
-    "Type": "Helmet",
+    "typeID": 4,
+    "type": "Helmet",
     "Meelee/Range": "N/A"
   },
   {
@@ -252,8 +252,8 @@
     "name": "Angry Glove",
     "rarityID": 2,
     "rarity": "Rare",
-    "Type ID": 3,
-    "Type": "Gloves",
+    "typeID": 3,
+    "type": "Gloves",
     "Meelee/Range": "N/A"
   },
   {
@@ -261,8 +261,8 @@
     "name": "Archer armor",
     "rarityID": 2,
     "rarity": "Rare",
-    "Type ID": 2,
-    "Type": "Armor",
+    "typeID": 2,
+    "type": "Armor",
     "Meelee/Range": "N/A"
   },
   {
@@ -270,8 +270,8 @@
     "name": "Archer boot",
     "rarityID": 2,
     "rarity": "Rare",
-    "Type ID": 5,
-    "Type": "Boots",
+    "typeID": 5,
+    "type": "Boots",
     "Meelee/Range": "N/A"
   },
   {
@@ -279,8 +279,8 @@
     "name": "Archer glove",
     "rarityID": 2,
     "rarity": "Rare",
-    "Type ID": 3,
-    "Type": "Gloves",
+    "typeID": 3,
+    "type": "Gloves",
     "Meelee/Range": "N/A"
   },
   {
@@ -288,8 +288,8 @@
     "name": "Archer helmet",
     "rarityID": 2,
     "rarity": "Rare",
-    "Type ID": 4,
-    "Type": "Helmet",
+    "typeID": 4,
+    "type": "Helmet",
     "Meelee/Range": "N/A"
   },
   {
@@ -297,8 +297,8 @@
     "name": "Fighter armor",
     "rarityID": 2,
     "rarity": "Rare",
-    "Type ID": 2,
-    "Type": "Armor",
+    "typeID": 2,
+    "type": "Armor",
     "Meelee/Range": "N/A"
   },
   {
@@ -306,8 +306,8 @@
     "name": "Fighter boot",
     "rarityID": 2,
     "rarity": "Rare",
-    "Type ID": 5,
-    "Type": "Boots",
+    "typeID": 5,
+    "type": "Boots",
     "Meelee/Range": "N/A"
   },
   {
@@ -315,8 +315,8 @@
     "name": "Fighter glove",
     "rarityID": 2,
     "rarity": "Rare",
-    "Type ID": 3,
-    "Type": "Gloves",
+    "typeID": 3,
+    "type": "Gloves",
     "Meelee/Range": "N/A"
   },
   {
@@ -324,8 +324,8 @@
     "name": "Fighter helmet",
     "rarityID": 2,
     "rarity": "Rare",
-    "Type ID": 4,
-    "Type": "Helmet",
+    "typeID": 4,
+    "type": "Helmet",
     "Meelee/Range": "N/A"
   },
   {
@@ -333,8 +333,8 @@
     "name": "Magician armor",
     "rarityID": 2,
     "rarity": "Rare",
-    "Type ID": 2,
-    "Type": "Armor",
+    "typeID": 2,
+    "type": "Armor",
     "Meelee/Range": "N/A"
   },
   {
@@ -342,8 +342,8 @@
     "name": "Magician boot",
     "rarityID": 2,
     "rarity": "Rare",
-    "Type ID": 5,
-    "Type": "Boots",
+    "typeID": 5,
+    "type": "Boots",
     "Meelee/Range": "N/A"
   },
   {
@@ -351,8 +351,8 @@
     "name": "Magician glove",
     "rarityID": 2,
     "rarity": "Rare",
-    "Type ID": 3,
-    "Type": "Gloves",
+    "typeID": 3,
+    "type": "Gloves",
     "Meelee/Range": "N/A"
   },
   {
@@ -360,8 +360,8 @@
     "name": "Magician helmet",
     "rarityID": 2,
     "rarity": "Rare",
-    "Type ID": 4,
-    "Type": "Helmet",
+    "typeID": 4,
+    "type": "Helmet",
     "Meelee/Range": "N/A"
   },
   {
@@ -369,8 +369,8 @@
     "name": "Soldier helmet",
     "rarityID": 2,
     "rarity": "Rare",
-    "Type ID": 4,
-    "Type": "Helmet",
+    "typeID": 4,
+    "type": "Helmet",
     "Meelee/Range": "N/A"
   },
   {
@@ -378,8 +378,8 @@
     "name": "Soldier armor",
     "rarityID": 2,
     "rarity": "Rare",
-    "Type ID": 2,
-    "Type": "Armor",
+    "typeID": 2,
+    "type": "Armor",
     "Meelee/Range": "N/A"
   },
   {
@@ -387,8 +387,8 @@
     "name": "Soldier boot",
     "rarityID": 2,
     "rarity": "Rare",
-    "Type ID": 5,
-    "Type": "Boots",
+    "typeID": 5,
+    "type": "Boots",
     "Meelee/Range": "N/A"
   },
   {
@@ -396,8 +396,8 @@
     "name": "Soldier glove",
     "rarityID": 2,
     "rarity": "Rare",
-    "Type ID": 3,
-    "Type": "Gloves",
+    "typeID": 3,
+    "type": "Gloves",
     "Meelee/Range": "N/A"
   },
   {
@@ -405,8 +405,8 @@
     "name": "Berserker armor",
     "rarityID": 3,
     "rarity": "Epic",
-    "Type ID": 2,
-    "Type": "Armor",
+    "typeID": 2,
+    "type": "Armor",
     "Meelee/Range": "N/A"
   },
   {
@@ -414,8 +414,8 @@
     "name": "Berserker boot",
     "rarityID": 3,
     "rarity": "Epic",
-    "Type ID": 5,
-    "Type": "Boots",
+    "typeID": 5,
+    "type": "Boots",
     "Meelee/Range": "N/A"
   },
   {
@@ -423,8 +423,8 @@
     "name": "Berserker glove",
     "rarityID": 3,
     "rarity": "Epic",
-    "Type ID": 3,
-    "Type": "Gloves",
+    "typeID": 3,
+    "type": "Gloves",
     "Meelee/Range": "N/A"
   },
   {
@@ -432,8 +432,8 @@
     "name": "Berserker helmet",
     "rarityID": 3,
     "rarity": "Epic",
-    "Type ID": 4,
-    "Type": "Helmet",
+    "typeID": 4,
+    "type": "Helmet",
     "Meelee/Range": "N/A"
   },
   {
@@ -441,8 +441,8 @@
     "name": "Guardian Helmet",
     "rarityID": 3,
     "rarity": "Epic",
-    "Type ID": 4,
-    "Type": "Helmet",
+    "typeID": 4,
+    "type": "Helmet",
     "Meelee/Range": "N/A"
   },
   {
@@ -450,8 +450,8 @@
     "name": "Guardian Armor",
     "rarityID": 3,
     "rarity": "Epic",
-    "Type ID": 2,
-    "Type": "Armor",
+    "typeID": 2,
+    "type": "Armor",
     "Meelee/Range": "N/A"
   },
   {
@@ -459,8 +459,8 @@
     "name": "Guardian Gloves",
     "rarityID": 3,
     "rarity": "Epic",
-    "Type ID": 3,
-    "Type": "Gloves",
+    "typeID": 3,
+    "type": "Gloves",
     "Meelee/Range": "N/A"
   },
   {
@@ -468,8 +468,8 @@
     "name": "Guardian Boots",
     "rarityID": 3,
     "rarity": "Epic",
-    "Type ID": 5,
-    "Type": "Boots",
+    "typeID": 5,
+    "type": "Boots",
     "Meelee/Range": "N/A"
   },
   {
@@ -477,8 +477,8 @@
     "name": "Marksman Helmet",
     "rarityID": 3,
     "rarity": "Epic",
-    "Type ID": 4,
-    "Type": "Helmet",
+    "typeID": 4,
+    "type": "Helmet",
     "Meelee/Range": "N/A"
   },
   {
@@ -486,8 +486,8 @@
     "name": "Marksman Armor",
     "rarityID": 3,
     "rarity": "Epic",
-    "Type ID": 2,
-    "Type": "Armor",
+    "typeID": 2,
+    "type": "Armor",
     "Meelee/Range": "N/A"
   },
   {
@@ -495,8 +495,8 @@
     "name": "Marksman Gloves",
     "rarityID": 3,
     "rarity": "Epic",
-    "Type ID": 3,
-    "Type": "Gloves",
+    "typeID": 3,
+    "type": "Gloves",
     "Meelee/Range": "N/A"
   },
   {
@@ -504,8 +504,8 @@
     "name": "Marksman Boots",
     "rarityID": 3,
     "rarity": "Epic",
-    "Type ID": 5,
-    "Type": "Boots",
+    "typeID": 5,
+    "type": "Boots",
     "Meelee/Range": "N/A"
   },
   {
@@ -513,8 +513,8 @@
     "name": "Wizard Helmet",
     "rarityID": 3,
     "rarity": "Epic",
-    "Type ID": 4,
-    "Type": "Helmet",
+    "typeID": 4,
+    "type": "Helmet",
     "Meelee/Range": "N/A"
   },
   {
@@ -522,8 +522,8 @@
     "name": "Wizard Armor",
     "rarityID": 3,
     "rarity": "Epic",
-    "Type ID": 2,
-    "Type": "Armor",
+    "typeID": 2,
+    "type": "Armor",
     "Meelee/Range": "N/A"
   },
   {
@@ -531,8 +531,8 @@
     "name": "Wizard Gloves",
     "rarityID": 3,
     "rarity": "Epic",
-    "Type ID": 3,
-    "Type": "Gloves",
+    "typeID": 3,
+    "type": "Gloves",
     "Meelee/Range": "N/A"
   },
   {
@@ -540,8 +540,8 @@
     "name": "Wizard Boots",
     "rarityID": 3,
     "rarity": "Epic",
-    "Type ID": 5,
-    "Type": "Boots",
+    "typeID": 5,
+    "type": "Boots",
     "Meelee/Range": "N/A"
   },
   {
@@ -549,8 +549,8 @@
     "name": "Archwizard Helmet",
     "rarityID": 4,
     "rarity": "Legendary",
-    "Type ID": 4,
-    "Type": "Helmet",
+    "typeID": 4,
+    "type": "Helmet",
     "Meelee/Range": "N/A"
   },
   {
@@ -558,8 +558,8 @@
     "name": "Archwizard Armor",
     "rarityID": 4,
     "rarity": "Legendary",
-    "Type ID": 2,
-    "Type": "Armor",
+    "typeID": 2,
+    "type": "Armor",
     "Meelee/Range": "N/A"
   },
   {
@@ -567,8 +567,8 @@
     "name": "Archwizard Gloves",
     "rarityID": 4,
     "rarity": "Legendary",
-    "Type ID": 3,
-    "Type": "Gloves",
+    "typeID": 3,
+    "type": "Gloves",
     "Meelee/Range": "N/A"
   },
   {
@@ -576,8 +576,8 @@
     "name": "Archwizard Boots",
     "rarityID": 4,
     "rarity": "Legendary",
-    "Type ID": 5,
-    "Type": "Boots",
+    "typeID": 5,
+    "type": "Boots",
     "Meelee/Range": "N/A"
   },
   {
@@ -585,8 +585,8 @@
     "name": "Hand of Midas",
     "rarityID": 4,
     "rarity": "Legendary",
-    "Type ID": 3,
-    "Type": "Gloves",
+    "typeID": 3,
+    "type": "Gloves",
     "Meelee/Range": "N/A"
   },
   {
@@ -594,8 +594,8 @@
     "name": "Juggernaut Armor",
     "rarityID": 4,
     "rarity": "Legendary",
-    "Type ID": 2,
-    "Type": "Armor",
+    "typeID": 2,
+    "type": "Armor",
     "Meelee/Range": "N/A"
   },
   {
@@ -603,8 +603,8 @@
     "name": "Juggernaut Gloves",
     "rarityID": 4,
     "rarity": "Legendary",
-    "Type ID": 3,
-    "Type": "Gloves",
+    "typeID": 3,
+    "type": "Gloves",
     "Meelee/Range": "N/A"
   },
   {
@@ -612,8 +612,8 @@
     "name": "Juggernaut Boots",
     "rarityID": 4,
     "rarity": "Legendary",
-    "Type ID": 5,
-    "Type": "Boots",
+    "typeID": 5,
+    "type": "Boots",
     "Meelee/Range": "N/A"
   },
   {
@@ -621,8 +621,8 @@
     "name": "Juggernaut Helmet",
     "rarityID": 4,
     "rarity": "Legendary",
-    "Type ID": 4,
-    "Type": "Helmet",
+    "typeID": 4,
+    "type": "Helmet",
     "Meelee/Range": "N/A"
   },
   {
@@ -630,8 +630,8 @@
     "name": "Sniper Helmet",
     "rarityID": 4,
     "rarity": "Legendary",
-    "Type ID": 4,
-    "Type": "Helmet",
+    "typeID": 4,
+    "type": "Helmet",
     "Meelee/Range": "N/A"
   },
   {
@@ -639,8 +639,8 @@
     "name": "Sniper Armor",
     "rarityID": 4,
     "rarity": "Legendary",
-    "Type ID": 2,
-    "Type": "Armor",
+    "typeID": 2,
+    "type": "Armor",
     "Meelee/Range": "N/A"
   },
   {
@@ -648,8 +648,8 @@
     "name": "Sniper Gloves",
     "rarityID": 4,
     "rarity": "Legendary",
-    "Type ID": 3,
-    "Type": "Gloves",
+    "typeID": 3,
+    "type": "Gloves",
     "Meelee/Range": "N/A"
   },
   {
@@ -657,8 +657,8 @@
     "name": "Sniper Boots",
     "rarityID": 4,
     "rarity": "Legendary",
-    "Type ID": 5,
-    "Type": "Boots",
+    "typeID": 5,
+    "type": "Boots",
     "Meelee/Range": "N/A"
   },
   {
@@ -666,8 +666,8 @@
     "name": "Titan Helmet",
     "rarityID": 4,
     "rarity": "Legendary",
-    "Type ID": 4,
-    "Type": "Helmet",
+    "typeID": 4,
+    "type": "Helmet",
     "Meelee/Range": "N/A"
   },
   {
@@ -675,8 +675,8 @@
     "name": "Titan Armor",
     "rarityID": 4,
     "rarity": "Legendary",
-    "Type ID": 2,
-    "Type": "Armor",
+    "typeID": 2,
+    "type": "Armor",
     "Meelee/Range": "N/A"
   },
   {
@@ -684,8 +684,8 @@
     "name": "Titan Gloves",
     "rarityID": 4,
     "rarity": "Legendary",
-    "Type ID": 3,
-    "Type": "Gloves",
+    "typeID": 3,
+    "type": "Gloves",
     "Meelee/Range": "N/A"
   },
   {
@@ -693,8 +693,8 @@
     "name": "Titan Boots",
     "rarityID": 4,
     "rarity": "Legendary",
-    "Type ID": 5,
-    "Type": "Boots",
+    "typeID": 5,
+    "type": "Boots",
     "Meelee/Range": "N/A"
   },
   {
@@ -702,8 +702,8 @@
     "name": "Iron Dust",
     "rarityID": 1,
     "rarity": "Common",
-    "Type ID": 7,
-    "Type": "Misc",
+    "typeID": 7,
+    "type": "Misc",
     "Meelee/Range": "N/A"
   },
   {
@@ -711,8 +711,8 @@
     "name": "Kar-98",
     "rarityID": 2,
     "rarity": "Rare",
-    "Type ID": 1,
-    "Type": "Weapon",
+    "typeID": 1,
+    "type": "Weapon",
     "Meelee/Range": "Range"
   },
   {
@@ -720,8 +720,8 @@
     "name": "Dead Dance",
     "rarityID": 4,
     "rarity": "Legendary",
-    "Type ID": 1,
-    "Type": "Weapon",
+    "typeID": 1,
+    "type": "Weapon",
     "Meelee/Range": "Range"
   }
 ]
