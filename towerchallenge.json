@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "ModifyStat",
-    "description": "Traps will deal x times damage to player for the next 3 rooms.",
+    "description": "Traps will deal 4 times damage to player for the next 3 rooms.",
     "": "Challenge",
     "type": "Floor",
     "rarity": 1,
@@ -25,7 +25,7 @@
   {
     "id": 3,
     "name": "ModifyStat",
-    "description": "Player’s dash distance will be reduced to x for the next 3 rooms.",
+    "description": "Player’s dash distance will be reduced 50% for the next 3 rooms.",
     "": "Challenge",
     "type": "Floor",
     "rarity": 2,
@@ -71,16 +71,19 @@
   {
     "id": 7,
     "name": "ModifyMaxSkillPoint",
+    "": "Reward",
+    "type": "Floor",
+    "rarity": 1,
     "target": "player",
     "para1": 2
   },
   {
     "id": 8,
     "name": "ResistAll",
-    "description": "Player will receive x times damage from all damage source for the next 3 rooms.",
+    "description": "Player will receive 3 times damage from all damage source for the next 3 rooms.",
     "": "Challenge",
     "type": "Floor",
-    "rarity": 1,
+    "rarity": 3,
     "rewardID": 10,
     "target": "player",
     "para1": -3
@@ -124,7 +127,7 @@
     "description": "Player will move 2 times slower for the next 3 rooms.",
     "": "Challenge",
     "type": "Floor",
-    "rarity": 3,
+    "rarity": 2,
     "rewardID": 14,
     "target": "player",
     "para1": "spdModifier",
@@ -314,7 +317,7 @@
   {
     "id": 30,
     "name": "ModifyStat",
-    "description": "Player’s max health will be increased by x%.",
+    "description": "Player’s max health will be increased by x% & fully heal.",
     "": "Reward",
     "type": "Mid",
     "rarity": 1,
@@ -325,13 +328,14 @@
   {
     "id": 31,
     "name": "ResistAll",
-    "description": "Player receive x% dmg from all source.",
+    "description": "Player receive 10% dmg from all source.",
     "": "Challenge",
     "type": "Mid",
     "rarity": 1,
     "rewardID": 29,
     "target": "player",
-    "para1": -0.1
+    "para1": "resistAll",
+    "para2": -0.1
   },
   {
     "id": 32,
@@ -347,19 +351,19 @@
   {
     "id": 33,
     "name": "ModifyStat",
-    "description": "Enemies' attack will be increased by x%.",
+    "description": "Player receive 5% dmg from monster",
     "": "Challenge",
     "type": "Mid",
-    "rarity": 1,
+    "rarity": 2,
     "rewardID": 31,
     "target": "monster",
-    "para1": "atkBonusPercent",
+    "para1": "resistMob",
     "para2": 0.05
   },
   {
     "id": 34,
     "name": "ModifyStat",
-    "description": "Player’s attack will be increased by x%.",
+    "description": "Player’s attack will be increased by 25%.",
     "": "Reward",
     "type": "Mid",
     "rarity": 1,
@@ -370,10 +374,10 @@
   {
     "id": 35,
     "name": "ModifyStat",
-    "description": "Enemies will move x% faster.",
+    "description": "Enemies will move 25% faster.",
     "": "Challenge",
     "type": "Mid",
-    "rarity": 1,
+    "rarity": 2,
     "rewardID": 33,
     "target": "monster",
     "para1": "spdModifier",
@@ -381,13 +385,12 @@
   },
   {
     "id": 36,
-    "name": "ResistAll",
+    "name": "ModifyStat",
     "description": "Bonus 100% Player's Damage from all sources.",
     "": "Reward",
     "type": "Mid",
     "rarity": 1,
-    "target": "monster",
-    "para1": -1
+    "target": "monster"
   },
   {
     "id": 37,
@@ -423,7 +426,7 @@
   },
   {
     "id": 40,
-    "description": "Enemies have x% to revive as a zombie, increase +y% speed, deal DMG to player, exist in z seconds. Explode after t second.",
+    "description": "Enemies have 50% to revive as a zombie, increase +50% speed, deal DMG to player, exist in 10 seconds. Explode after 1 second.",
     "": "Challenge",
     "type": "Mid",
     "rarity": 1,
@@ -460,20 +463,24 @@
   },
   {
     "id": 43,
-    "description": "Increase x% attack.",
-    "": "Challenge",
-    "type": "Mid",
-    "rarity": 1,
-    "target": "combo",
-    "para1": 0.15
-  },
-  {
-    "id": 44,
-    "description": "Player will attack in the moving direction.",
+    "name": "ModifyStat",
+    "description": "Increase 15% attack.",
     "": "Reward",
     "type": "Mid",
     "rarity": 1,
-    "target": "combo"
+    "target": "player",
+    "para1": "atkBonusPercent",
+    "para2": 0.15
+  },
+  {
+    "id": 44,
+    "name": "AttackOneDirection",
+    "description": "Player will attack in the moving direction.",
+    "": "Challenge",
+    "type": "Mid",
+    "rarity": 1,
+    "rewardID": 43,
+    "target": "player"
   },
   {
     "id": 45,
