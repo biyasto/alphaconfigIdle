@@ -219,7 +219,10 @@
     "attackState": 14,
     "dashState": 0,
     "aimState": 0,
-    "deadState": 0
+    "deadState": 0,
+    "size": 1,
+    "shadowRadius": 1,
+    "isAir": false
   },
   {
     "id": 8,
