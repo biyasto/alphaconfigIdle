@@ -196,7 +196,8 @@
   {
     "id": 7,
     "name": "Jumping Spider",
-    "model": "string",
+    "model": "CuteSpider",
+    "behaviorTree": "07_JumpingSpider",
     "lives": 1,
     "maxOnScreen": 0,
     "maxhp": 0,
