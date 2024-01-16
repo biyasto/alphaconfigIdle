@@ -215,5 +215,68 @@
     "MonsterName": "Lesser Zombie",
     "Rate": 0.5,
     "maxOnScreen": 30
+  },
+  {
+    "PatternID": 14,
+    "MonsterID": 8,
+    "MonsterName": "Mutated Mole",
+    "Rate": 0.2,
+    "maxOnScreen": 6
+  },
+  {
+    "PatternID": 14,
+    "MonsterID": 7,
+    "MonsterName": "Jumping Spider",
+    "Rate": 0.5,
+    "maxOnScreen": 10
+  },
+  {
+    "PatternID": 14,
+    "MonsterID": 1,
+    "MonsterName": "Lesser Zombie",
+    "Rate": 0.5,
+    "maxOnScreen": 30
+  },
+  {
+    "PatternID": 15,
+    "MonsterID": 7,
+    "MonsterName": "Jumping Spider",
+    "Rate": 0.3,
+    "maxOnScreen": 10
+  },
+  {
+    "PatternID": 15,
+    "MonsterID": 1,
+    "MonsterName": "Lesser Zombie",
+    "Rate": 0.5,
+    "maxOnScreen": 30
+  },
+  {
+    "PatternID": 15,
+    "MonsterID": 2,
+    "MonsterName": "Mutated Zombie",
+    "Rate": 0.2,
+    "maxOnScreen": 10
+  },
+  {
+    "PatternID": 16,
+    "MonsterID": 7,
+    "MonsterName": "Jumping Spider",
+    "Rate": 0.4,
+    "maxOnScreen": 10
+  },
+  {
+    "PatternID": 16,
+    "MonsterID": 3,
+    "MonsterName": "Flaming Skull",
+    "Rate": 0.4,
+    "maxOnScreen": 10
+  },
+  {
+    "PatternID": 16,
+    "MonsterID": 2,
+    "MonsterName": "Mutated Zombie",
+    "Rate": 0.2,
+    "maxOnScreen": 15
   }
 ]
