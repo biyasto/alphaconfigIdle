@@ -16,7 +16,7 @@
   {
     "PatternID": 2,
     "MonsterID": 8,
-    "MonsterName": "Mutated Bat",
+    "MonsterName": "Mutated Mole",
     "Rate": 0.2,
     "maxOnScreen": 3
   },
@@ -30,7 +30,7 @@
   {
     "PatternID": 3,
     "MonsterID": 8,
-    "MonsterName": "Mutated Bat",
+    "MonsterName": "Mutated Mole",
     "Rate": 0.1,
     "maxOnScreen": 3
   },
@@ -51,7 +51,7 @@
   {
     "PatternID": 4,
     "MonsterID": 8,
-    "MonsterName": "Mutated Bat",
+    "MonsterName": "Mutated Mole",
     "Rate": 0.1,
     "maxOnScreen": 10
   },
@@ -65,7 +65,7 @@
   {
     "PatternID": 5,
     "MonsterID": 8,
-    "MonsterName": "Mutated Bat",
+    "MonsterName": "Mutated Mole",
     "Rate": 0.2,
     "maxOnScreen": 10
   },
@@ -79,7 +79,7 @@
   {
     "PatternID": 6,
     "MonsterID": 8,
-    "MonsterName": "Mutated Bat",
+    "MonsterName": "Mutated Mole",
     "Rate": 0.3,
     "maxOnScreen": 5
   },
@@ -93,7 +93,7 @@
   {
     "PatternID": 7,
     "MonsterID": 8,
-    "MonsterName": "Mutated Bat",
+    "MonsterName": "Mutated Mole",
     "Rate": 0.4,
     "maxOnScreen": 10
   },
@@ -107,7 +107,7 @@
   {
     "PatternID": 8,
     "MonsterID": 8,
-    "MonsterName": "Mutated Bat",
+    "MonsterName": "Mutated Mole",
     "Rate": 0.1,
     "maxOnScreen": 5
   },
@@ -128,7 +128,7 @@
   {
     "PatternID": 9,
     "MonsterID": 8,
-    "MonsterName": "Mutated Bat",
+    "MonsterName": "Mutated Mole",
     "Rate": 0.5,
     "maxOnScreen": 10
   },
@@ -142,7 +142,7 @@
   {
     "PatternID": 10,
     "MonsterID": 8,
-    "MonsterName": "Mutated Bat",
+    "MonsterName": "Mutated Mole",
     "Rate": 0.7,
     "maxOnScreen": 30
   },
@@ -156,7 +156,7 @@
   {
     "PatternID": 10,
     "MonsterID": 8,
-    "MonsterName": "Mutated Bat",
+    "MonsterName": "Mutated Mole",
     "Rate": 0.1,
     "maxOnScreen": 5
   },
@@ -170,7 +170,7 @@
   {
     "PatternID": 11,
     "MonsterID": 8,
-    "MonsterName": "Mutated Bat",
+    "MonsterName": "Mutated Mole",
     "Rate": 0.95,
     "maxOnScreen": 35
   },
@@ -184,7 +184,7 @@
   {
     "PatternID": 12,
     "MonsterID": 8,
-    "MonsterName": "Mutated Bat",
+    "MonsterName": "Mutated Mole",
     "Rate": 0.5,
     "maxOnScreen": 30
   },
@@ -198,7 +198,7 @@
   {
     "PatternID": 13,
     "MonsterID": 8,
-    "MonsterName": "Mutated Bat",
+    "MonsterName": "Mutated Mole",
     "Rate": 0.2,
     "maxOnScreen": 5
   },
@@ -212,7 +212,7 @@
   {
     "PatternID": 13,
     "MonsterID": 8,
-    "MonsterName": "Mutated Bat",
+    "MonsterName": "Mutated Mole",
     "Rate": 0.5,
     "maxOnScreen": 30
   },
@@ -226,7 +226,7 @@
   {
     "PatternID": 14,
     "MonsterID": 8,
-    "MonsterName": "Mutated Bat",
+    "MonsterName": "Mutated Mole",
     "Rate": 0.5,
     "maxOnScreen": 10
   },
@@ -240,7 +240,7 @@
   {
     "PatternID": 15,
     "MonsterID": 8,
-    "MonsterName": "Mutated Bat",
+    "MonsterName": "Mutated Mole",
     "Rate": 0.3,
     "maxOnScreen": 10
   },
@@ -254,7 +254,7 @@
   {
     "PatternID": 15,
     "MonsterID": 8,
-    "MonsterName": "Mutated Bat",
+    "MonsterName": "Mutated Mole",
     "Rate": 0.2,
     "maxOnScreen": 10
   },
@@ -268,7 +268,7 @@
   {
     "PatternID": 16,
     "MonsterID": 8,
-    "MonsterName": "Mutated Bat",
+    "MonsterName": "Mutated Mole",
     "Rate": 0.4,
     "maxOnScreen": 10
   },
