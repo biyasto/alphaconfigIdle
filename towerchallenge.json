@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
+    "": "Challenge",
     "name": "ModifyStat",
     "description": "Traps will deal 4 times damage to player for the next 3 rooms.",
-    "": "Challenge",
     "type": "Floor",
     "rarity": 1,
     "rewardID": 2,
@@ -13,9 +13,9 @@
   },
   {
     "id": 2,
+    "": "Reward",
     "name": "ModifyStat",
     "description": "Add more 25% resist trap dmg.",
-    "": "Reward",
     "type": "Floor",
     "rarity": 1,
     "target": "player",
@@ -24,9 +24,9 @@
   },
   {
     "id": 3,
+    "": "Challenge",
     "name": "ModifyStat",
     "description": "Player’s dash distance will be reduced 50% for the next 3 rooms.",
-    "": "Challenge",
     "type": "Floor",
     "rarity": 2,
     "rewardID": 4,
@@ -36,9 +36,9 @@
   },
   {
     "id": 4,
+    "": "Reward",
     "name": "ModifyStat",
     "description": "Dash’s cooldown will reduce by 25%.",
-    "": "Reward",
     "type": "Floor",
     "rarity": 1,
     "target": "player",
@@ -47,21 +47,21 @@
   },
   {
     "id": 5,
+    "": "Challenge",
     "name": "ModifyNextSkillPoint",
     "description": "Player choose 0 skill in the next 3 room.",
-    "": "Challenge",
     "type": "Floor",
     "rarity": 1,
-    "rewardID": 6,
+    "rewardID": 8,
     "target": "player",
     "para1": 0,
     "para2": 3
   },
   {
     "id": 6,
-    "name": "ModifyNextSkillPoint",
-    "description": "Player will choose x skills. Bonus y skills points.",
     "": "Reward",
+    "name": "ModifyNextSkillPoint",
+    "description": "Player will choose skills 3 times.",
     "type": "Floor",
     "rarity": 1,
     "target": "player",
@@ -70,8 +70,9 @@
   },
   {
     "id": 7,
-    "name": "ModifyMaxSkillPoint",
     "": "Reward",
+    "name": "ModifyMaxSkillPoint",
+    "description": "Bonus 2 skills points.",
     "type": "Floor",
     "rarity": 1,
     "target": "player",
@@ -79,31 +80,41 @@
   },
   {
     "id": 8,
-    "name": "ResistAll",
-    "description": "Player will receive 3 times damage from all damage source for the next 3 rooms.",
+    "name": "Combo",
+    "": "Reward",
+    "type": "Floor",
+    "rarity": 1,
+    "target": "combo",
+    "para1": 6,
+    "para2": 7
+  },
+  {
+    "id": 9,
     "": "Challenge",
+    "name": "ModifyStat",
+    "description": "Player will receive 3 times damage from all damage source for the next 3 rooms.",
     "type": "Floor",
     "rarity": 3,
     "rewardID": 10,
     "target": "player",
-    "para1": -3
-  },
-  {
-    "id": 9,
-    "name": "ModifyStat",
-    "description": "Fully heal the character.",
-    "": "Reward",
-    "type": "Floor",
-    "rarity": 1,
-    "target": "player",
-    "para1": "currentHP",
-    "para2": 1
+    "para1": "resistAll",
+    "para2": -3
   },
   {
     "id": 10,
+    "": "Reward",
+    "name": "Heal",
+    "description": "Fully heal the character.",
+    "type": "Floor",
+    "rarity": 1,
+    "target": "player",
+    "para1": 1
+  },
+  {
+    "id": 11,
+    "": "Reward",
     "name": "ModifyAttackPattern",
     "description": "3rd shot x3 dmg.",
-    "": "Reward",
     "type": "Floor",
     "rarity": 1,
     "target": "player",
@@ -111,10 +122,10 @@
     "para2": 3
   },
   {
-    "id": 11,
+    "id": 12,
+    "": "Reward",
     "name": "Combo",
     "description": "Fully heal + 3rd shot x3 dmg",
-    "": "Reward",
     "type": "Floor",
     "rarity": 1,
     "target": "combo",
@@ -122,22 +133,22 @@
     "para2": 9
   },
   {
-    "id": 12,
+    "id": 13,
+    "": "Challenge",
     "name": "ModifyStat",
     "description": "Player will move 2 times slower for the next 3 rooms.",
-    "": "Challenge",
     "type": "Floor",
     "rarity": 2,
-    "rewardID": 14,
+    "rewardID": 15,
     "target": "player",
     "para1": "spdModifier",
     "para2": -2
   },
   {
-    "id": 13,
+    "id": 14,
+    "": "Reward",
     "name": "Aura",
     "description": "An area around player (2m)",
-    "": "Reward",
     "type": "Floor",
     "rarity": 1,
     "target": "player",
@@ -148,20 +159,21 @@
     "para5": 0
   },
   {
-    "id": 14,
+    "id": 15,
+    "": "Reward",
     "name": "ModifyStat",
     "description": "Enemies slow down",
-    "": "Reward",
     "type": "Floor",
     "rarity": 1,
     "target": "monster",
-    "para1": 0.15
+    "para1": "spdModifier",
+    "para2": 0.15
   },
   {
-    "id": 15,
+    "id": 16,
+    "": "Reward",
     "name": "Combo",
     "description": "Enemies slow down around player 2m",
-    "": "Reward",
     "type": "Floor",
     "rarity": 1,
     "target": "combo",
@@ -169,7 +181,7 @@
     "para2": 13
   },
   {
-    "id": 16,
+    "id": 17,
     "description": "Decrease vision field to x m in the next 3 room.",
     "": "Challenge",
     "type": "Floor",
@@ -178,7 +190,7 @@
     "para1": 5
   },
   {
-    "id": 17,
+    "id": 18,
     "description": "Damaging field around player.10s cooldown, remains for 5s.",
     "": "Reward",
     "type": "Floor",
@@ -191,7 +203,7 @@
     "para5": 1
   },
   {
-    "id": 18,
+    "id": 19,
     "description": "Every while, thunders will drop onto the game area, causing damage to the player if it hits within the next 3 rooms.",
     "": "Challenge",
     "type": "Floor",
@@ -206,7 +218,7 @@
     "para7": 1
   },
   {
-    "id": 19,
+    "id": 20,
     "description": "The third strike will explode, dealing damage equal to 25% of the player's damage within a circle.",
     "": "Reward",
     "type": "Floor",
@@ -216,7 +228,7 @@
     "para2": 1
   },
   {
-    "id": 20,
+    "id": 21,
     "description": "Every x seconds, all of enemies will be invincible for y seconds for the next 3 rooms.",
     "": "Challenge",
     "type": "Floor",
@@ -226,7 +238,7 @@
     "para2": 2
   },
   {
-    "id": 21,
+    "id": 22,
     "description": "Player will be invincible for x second every y seconds.",
     "": "Reward",
     "type": "Floor",
@@ -236,7 +248,7 @@
     "para2": 15
   },
   {
-    "id": 22,
+    "id": 23,
     "description": "The wind will blow in a random direction and change direction randomly every while, affected player & enemies' speed.",
     "": "Challenge",
     "type": "Floor",
@@ -247,7 +259,7 @@
     "para3": 4
   },
   {
-    "id": 23,
+    "id": 24,
     "description": "Every x seconds, the player will be engulfed in a whirlwind, moving faster and dealing continuous damage to nearby enemies.",
     "": "Reward",
     "type": "Floor",
@@ -260,7 +272,7 @@
     "para5": 1.5
   },
   {
-    "id": 24,
+    "id": 25,
     "description": "Player cannot heal from any sources in this floor.",
     "": "Challenge",
     "type": "Floor",
@@ -269,7 +281,7 @@
     "para1": 0
   },
   {
-    "id": 25,
+    "id": 26,
     "description": "Heal from all sources will increase 50% effect.",
     "": "Reward",
     "type": "Floor",
@@ -278,7 +290,7 @@
     "para1": 0.5
   },
   {
-    "id": 26,
+    "id": 27,
     "description": "Player cannot attack in first x seconds in the next 3 rooms.",
     "": "Challenge",
     "type": "Floor",
@@ -287,7 +299,7 @@
     "para1": 15
   },
   {
-    "id": 27,
+    "id": 28,
     "description": "Enemies will be freezed for x second when they are spawned.",
     "": "Reward",
     "type": "Floor",
@@ -296,7 +308,7 @@
     "para1": 1
   },
   {
-    "id": 28,
+    "id": 29,
     "description": "Enemies will spawn a x HP Factors enemy on death.",
     "": "Challenge",
     "type": "Floor",
@@ -305,7 +317,7 @@
     "para1": 2
   },
   {
-    "id": 29,
+    "id": 30,
     "description": "The enemy will explode on death, dealing damage equal to x% of the player's damage within a y metre radius.",
     "": "Reward",
     "type": "Floor",
@@ -315,10 +327,10 @@
     "para2": 1
   },
   {
-    "id": 30,
+    "id": 31,
+    "": "Reward",
     "name": "ModifyStat",
     "description": "Player’s max health will be increased by x% & fully heal.",
-    "": "Reward",
     "type": "Mid",
     "rarity": 1,
     "target": "player",
@@ -326,22 +338,22 @@
     "para2": 0.15
   },
   {
-    "id": 31,
+    "id": 32,
+    "": "Challenge",
     "name": "ResistAll",
     "description": "Player receive 10% dmg from all source.",
-    "": "Challenge",
     "type": "Mid",
     "rarity": 1,
-    "rewardID": 29,
+    "rewardID": 31,
     "target": "player",
     "para1": "resistAll",
     "para2": -0.1
   },
   {
-    "id": 32,
+    "id": 33,
+    "": "Reward",
     "name": "ModifyStat",
     "description": "Player’s crit chance +10%",
-    "": "Reward",
     "type": "Mid",
     "rarity": 1,
     "target": "player",
@@ -349,22 +361,22 @@
     "para2": 0.1
   },
   {
-    "id": 33,
+    "id": 34,
+    "": "Challenge",
     "name": "ModifyStat",
     "description": "Player receive 5% dmg from monster",
-    "": "Challenge",
     "type": "Mid",
     "rarity": 2,
-    "rewardID": 31,
-    "target": "monster",
+    "rewardID": 33,
+    "target": "player",
     "para1": "resistMob",
     "para2": 0.05
   },
   {
-    "id": 34,
+    "id": 35,
+    "": "Reward",
     "name": "ModifyStat",
     "description": "Player’s attack will be increased by 25%.",
-    "": "Reward",
     "type": "Mid",
     "rarity": 1,
     "target": "player",
@@ -372,41 +384,43 @@
     "para2": 0.25
   },
   {
-    "id": 35,
+    "id": 36,
+    "": "Challenge",
     "name": "ModifyStat",
     "description": "Enemies will move 25% faster.",
-    "": "Challenge",
     "type": "Mid",
     "rarity": 2,
-    "rewardID": 33,
+    "rewardID": 35,
     "target": "monster",
     "para1": "spdModifier",
     "para2": 0.25
   },
   {
-    "id": 36,
+    "id": 37,
+    "": "Reward",
     "name": "ModifyStat",
     "description": "Bonus 100% Player's Damage from all sources.",
-    "": "Reward",
     "type": "Mid",
     "rarity": 1,
-    "target": "monster"
-  },
-  {
-    "id": 37,
-    "name": "ReverseJoyStick",
-    "description": "Reverse joystick.",
-    "": "Challenge",
-    "type": "Mid",
-    "rarity": 1,
-    "rewardID": 36,
-    "target": "player"
+    "target": "monster",
+    "para1": "atkBonusPercent",
+    "para2": 1
   },
   {
     "id": 38,
+    "": "Challenge",
+    "name": "ReverseJoyStick",
+    "description": "Reverse joystick.",
+    "type": "Mid",
+    "rarity": 1,
+    "rewardID": 37,
+    "target": "player"
+  },
+  {
+    "id": 39,
+    "": "Reward",
     "name": "ModifyStat",
     "description": "Player's crit dmg +50%",
-    "": "Reward",
     "type": "Mid",
     "rarity": 1,
     "target": "player",
@@ -414,7 +428,7 @@
     "para2": 0.5
   },
   {
-    "id": 39,
+    "id": 40,
     "name": "Combo",
     "description": "Player's crit chance +10% & crit dmg +50%",
     "": "Reward",
@@ -425,12 +439,12 @@
     "para2": 38
   },
   {
-    "id": 40,
+    "id": 41,
     "description": "Enemies have 50% to revive as a zombie, increase +50% speed, deal DMG to player, exist in 10 seconds. Explode after 1 second.",
     "": "Challenge",
     "type": "Mid",
     "rarity": 1,
-    "rewardID": 39,
+    "rewardID": 40,
     "target": "combo",
     "para1": 0.5,
     "para2": 0.5,
@@ -438,21 +452,9 @@
     "para4": 1
   },
   {
-    "id": 41,
-    "description": "Each x to y seconds, the wind will blow in a random direction and change direction randomly every while, affected player & enemies' speed. The wind will remain for z seconds each time.",
-    "": "Challenge",
-    "type": "Mid",
-    "rarity": 1,
-    "target": "combo",
-    "para1": 5,
-    "para2": 7,
-    "para3": 5,
-    "para4": 4
-  },
-  {
     "id": 42,
     "description": "Each x to y seconds, the wind will blow in a random direction and change direction randomly every while, affected player & enemies' speed. The wind will remain for z seconds each time.",
-    "": "Reward",
+    "": "Challenge",
     "type": "Mid",
     "rarity": 1,
     "target": "combo",
@@ -463,9 +465,21 @@
   },
   {
     "id": 43,
+    "description": "Each x to y seconds, the wind will blow in a random direction and change direction randomly every while, affected player & enemies' speed. The wind will remain for z seconds each time.",
+    "": "Reward",
+    "type": "Mid",
+    "rarity": 1,
+    "target": "combo",
+    "para1": 5,
+    "para2": 7,
+    "para3": 5,
+    "para4": 4
+  },
+  {
+    "id": 44,
+    "": "Reward",
     "name": "ModifyStat",
     "description": "Increase 15% attack.",
-    "": "Reward",
     "type": "Mid",
     "rarity": 1,
     "target": "player",
@@ -473,17 +487,17 @@
     "para2": 0.15
   },
   {
-    "id": 44,
+    "id": 45,
+    "": "Challenge",
     "name": "AttackOneDirection",
     "description": "Player will attack in the moving direction.",
-    "": "Challenge",
     "type": "Mid",
     "rarity": 1,
-    "rewardID": 43,
+    "rewardID": 44,
     "target": "player"
   },
   {
-    "id": 45,
+    "id": 46,
     "description": "Completely change all of the player's current skills into randomly different skills with an additional level.",
     "": "Challenge",
     "type": "Mid",
@@ -491,7 +505,7 @@
     "target": "combo"
   },
   {
-    "id": 46,
+    "id": 47,
     "description": "Completely change all of the player's current skills into randomly different skills with an additional level.",
     "": "Reward",
     "type": "Mid",
@@ -499,7 +513,7 @@
     "target": "combo"
   },
   {
-    "id": 47,
+    "id": 48,
     "description": "All skill levels of the player will be reset to 1. The player's damage will increase by x% for each level 1 skill.",
     "": "Challenge",
     "type": "Mid",
@@ -508,7 +522,7 @@
     "para1": 0.1
   },
   {
-    "id": 48,
+    "id": 49,
     "description": "All skill levels of the player will be reset to 1. The player's damage will increase by x% for each level 1 skill.",
     "": "Reward",
     "type": "Mid",
