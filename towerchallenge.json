@@ -80,8 +80,8 @@
   },
   {
     "id": 8,
-    "name": "Combo",
     "": "Reward",
+    "name": "Combo",
     "type": "Floor",
     "rarity": 1,
     "target": "combo",
@@ -435,8 +435,8 @@
     "type": "Mid",
     "rarity": 1,
     "target": "combo",
-    "para1": 32,
-    "para2": 38
+    "para1": 33,
+    "para2": 39
   },
   {
     "id": 41,
