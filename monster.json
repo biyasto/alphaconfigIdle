@@ -106,8 +106,9 @@
   },
   {
     "id": 4,
-    "name": "Mutated Spiders",
+    "name": "Mutated Spider",
     "model": "CuteSpider",
+    "behaviorTree": "04_MutatedSpider",
     "lives": 1,
     "maxOnScreen": 0,
     "maxhp": 400,
