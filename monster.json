@@ -7,6 +7,7 @@
     "id": 1,
     "name": "Lesser Zombie",
     "model": "CuteBat",
+    "behaviorTree": "01_LesserZombie",
     "lives": 1,
     "maxOnScreen": 0,
     "maxhp": 400,
