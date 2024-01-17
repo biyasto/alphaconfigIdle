@@ -74,6 +74,7 @@
     "id": 3,
     "name": "Flaming Skull",
     "model": "06/Fire Mage",
+    "behaviorTree": "03_FlamingSkull",
     "lives": 1,
     "maxOnScreen": 5,
     "maxhp": 400,
