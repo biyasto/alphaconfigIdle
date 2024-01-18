@@ -1,10 +1,10 @@
 [
   {
-    "sxzx": 0,
+    "id": 0,
     "isAutoTriggered": false
   },
   {
-    "sxzx": 1,
+    "id": 1,
     "name": "Lesser Zombie",
     "model": "CuteBat",
     "behaviorTree": "01_LesserZombie",
@@ -26,13 +26,13 @@
     "vfxYOffset": 0.5
   },
   {
-    "sxzx": 2,
+    "id": 2,
     "name": "Mutated Zombie",
     "model": "CuteGhost",
     "lives": 1,
     "hpFactor": 5,
     "movementspeed": 3,
-    "attackrange": 3,
+    "attackRange": 3,
     "atkFactorTouch": 0.8,
     "atkFactorProjectile": 1.5,
     "attackInterval": 1,
@@ -48,14 +48,14 @@
     "vfxYOffset": 0.5
   },
   {
-    "sxzx": 3,
+    "id": 3,
     "name": "Flaming Skull",
     "model": "06/Fire Mage",
     "behaviorTree": "03_FlamingSkull",
     "lives": 1,
     "hpFactor": 1.5,
     "movementspeed": 3,
-    "attackrange": 12,
+    "attackRange": 12,
     "atkFactorTouch": 0,
     "atkFactorProjectile": 1.5,
     "attackInterval": 0.5,
@@ -71,7 +71,7 @@
     "vfxYOffset": 0.5
   },
   {
-    "sxzx": 4,
+    "id": 4,
     "name": "Mutated Spider",
     "model": "CuteSpider",
     "behaviorTree": "04_MutatedSpider",
@@ -91,13 +91,13 @@
     "isAir": false
   },
   {
-    "sxzx": 5,
+    "id": 5,
     "name": "Wild Boar",
     "model": "02/Snake",
     "lives": 1,
     "hpFactor": 3,
     "movementspeed": 3.5,
-    "attackrange": 5,
+    "attackRange": 5,
     "atkFactorTouch": 2,
     "atkFactorProjectile": 0,
     "attackInterval": 1,
@@ -113,7 +113,7 @@
     "vfxYOffset": 0.5
   },
   {
-    "sxzx": 6,
+    "id": 6,
     "name": "Speed Hurricane",
     "model": "string",
     "lives": 1,
@@ -129,7 +129,7 @@
     "description": "- Randomly choose a direction and keep moving in that direction.\n- Bounce when colliding against the walls. \n- Buff SPD for other enemies within regions. (not stacking but reseting)"
   },
   {
-    "sxzx": 7,
+    "id": 7,
     "name": "Jumping Spider",
     "model": "CuteSpider",
     "behaviorTree": "07_JumpingSpider",
@@ -149,7 +149,7 @@
     "isAir": false
   },
   {
-    "sxzx": 8,
+    "id": 8,
     "name": "Mutated Mole",
     "model": "Mole Rat",
     "behaviorTree": "08_MutatedMole",
@@ -169,7 +169,7 @@
     "isAir": false
   },
   {
-    "sxzx": 9,
+    "id": 9,
     "name": "Bomb Thrower",
     "model": "string",
     "lives": 2,
@@ -185,7 +185,7 @@
     "description": "- Immobile.\n- Super high health.\n- Shoot a bomb to player's position. The bomb can bounce 2 times. Explode immediately when collided."
   },
   {
-    "sxzx": 10,
+    "id": 10,
     "name": "Novice Necromancer",
     "model": "string",
     "lives": 1,
@@ -201,7 +201,7 @@
     "description": "- Stay at the spawn location.\n- Run away when character gets in detect region.\n- For seconds, spawn 2 - 3 Novice Summoned. "
   },
   {
-    "sxzx": 11,
+    "id": 11,
     "name": "Healing Spider",
     "model": "string",
     "lives": 1,
@@ -217,7 +217,7 @@
     "description": "- For each 5 seconds, approaches the character with random offset. \n- Throw 3 - 5 Bombs around its position.\n- The bomb will explode when hitting the ground. Dealing damage to player and heal other enemies within region."
   },
   {
-    "sxzx": 12,
+    "id": 12,
     "name": "[Boss]Super Shy Ghost",
     "model": "02/Werewolf",
     "behaviorTree": "DemonBoarTree",
@@ -239,7 +239,7 @@
     "vfxYOffset": 0.5
   },
   {
-    "sxzx": 13,
+    "id": 13,
     "name": "Novice Summoned",
     "model": "string",
     "lives": 1,
