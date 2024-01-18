@@ -95,6 +95,7 @@
     "id": 5,
     "name": "Wild Boar",
     "model": "02/Snake",
+    "behaviorTree": "05_WildBoar",
     "lives": 1,
     "hpFactor": 3,
     "movementspeed": 3.5,
