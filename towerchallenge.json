@@ -142,7 +142,7 @@
     "rewardID": 15,
     "target": "player",
     "para1": "spdModifier",
-    "para2": -2
+    "para2": -0.5
   },
   {
     "id": 14,
@@ -429,9 +429,9 @@
   },
   {
     "id": 40,
+    "": "Reward",
     "name": "Combo",
     "description": "Player's crit chance +10% & crit dmg +50%",
-    "": "Reward",
     "type": "Mid",
     "rarity": 1,
     "target": "combo",
