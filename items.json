@@ -12,6 +12,15 @@
     "Meelee/Range": "N/A"
   },
   {
+    "id": 2,
+    "name": "Pistol-Viper",
+    "rarityID": 1,
+    "rarity": "Common",
+    "typeID": 1,
+    "type": "Weapon",
+    "Meelee/Range": "Range"
+  },
+  {
     "id": 6,
     "name": "Machete",
     "rarityID": 1,
