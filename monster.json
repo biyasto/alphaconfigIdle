@@ -129,7 +129,11 @@
     "detectRange": 0,
     "isAutoTriggered": true,
     "triggerBehavior": 12,
-    "description": "- Randomly choose a direction and keep moving in that direction.\n- Bounce when colliding against the walls. \n- Buff SPD for other enemies within regions. (not stacking but reseting)"
+    "description": "- Randomly choose a direction and keep moving in that direction.\n- Bounce when colliding against the walls. \n- Buff SPD for other enemies within regions. (not stacking but reseting)",
+    "size": 1,
+    "shadowRadius": 1,
+    "isAir": false,
+    "meleeInterval": 1
   },
   {
     "id": 7,
@@ -175,13 +179,13 @@
     "id": 9,
     "name": "Bomb Thrower",
     "model": "string",
-    "lives": 2,
-    "hpFactor": 2,
-    "movementspeed": 3,
+    "lives": 1,
+    "hpFactor": 10,
+    "movementspeed": 0,
     "atkFactorTouch": 1,
-    "atkFactorProjectile": 0,
+    "atkFactorProjectile": 2,
     "attackInterval": 0,
-    "attackspeed": 1,
+    "attackspeed": 5,
     "detectRange": 0,
     "isAutoTriggered": false,
     "triggerBehavior": 0,
@@ -200,7 +204,7 @@
     "attackspeed": 2,
     "detectRange": 10,
     "isAutoTriggered": true,
-    "triggerBehavior": 22,
+    "triggerBehavior": 0,
     "description": "- Stay at the spawn location.\n- Run away when character gets in detect region.\n- For seconds, spawn 2 - 3 Novice Summoned. "
   },
   {
@@ -216,7 +220,7 @@
     "attackspeed": 3,
     "detectRange": 10,
     "isAutoTriggered": true,
-    "triggerBehavior": 26,
+    "triggerBehavior": 0,
     "description": "- For each 5 seconds, approaches the character with random offset. \n- Throw 3 - 5 Bombs around its position.\n- The bomb will explode when hitting the ground. Dealing damage to player and heal other enemies within region."
   },
   {
@@ -246,15 +250,15 @@
     "name": "Novice Summoned",
     "model": "string",
     "lives": 1,
-    "hpFactor": 4,
+    "hpFactor": 2,
     "movementspeed": 3,
-    "atkFactorTouch": 0,
+    "atkFactorTouch": 1,
     "atkFactorProjectile": 0,
     "attackInterval": 0,
-    "attackspeed": 3,
+    "attackspeed": 1,
     "detectRange": 10,
     "isAutoTriggered": true,
-    "triggerBehavior": 26,
+    "triggerBehavior": 0,
     "description": "- For each 5 seconds, approaches the character with random offset. \n- Gradually heal surrounding enemies."
   }
 ]
