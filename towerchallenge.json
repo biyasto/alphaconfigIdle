@@ -204,6 +204,7 @@
   },
   {
     "id": 19,
+    "name": "SummonThunder",
     "description": "Every while, thunders will drop onto the game area, causing damage to the player if it hits within the next 3 rooms.",
     "": "Challenge",
     "type": "Floor",
