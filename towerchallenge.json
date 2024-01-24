@@ -209,6 +209,7 @@
     "": "Challenge",
     "type": "Floor",
     "rarity": 1,
+    "rewardID": 2,
     "target": "combo",
     "para1": 3,
     "para2": 5,
