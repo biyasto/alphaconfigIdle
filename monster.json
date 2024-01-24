@@ -117,7 +117,8 @@
   {
     "id": 6,
     "name": "Speed Hurricane",
-    "model": "string",
+    "model": "CuteBat",
+    "behaviorTree": "06_SpeedHurricane",
     "lives": 1,
     "hpFactor": 4,
     "movementspeed": 4.5,
