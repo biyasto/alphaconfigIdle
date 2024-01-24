@@ -121,7 +121,7 @@
     "behaviorTree": "06_SpeedHurricane",
     "lives": 1,
     "hpFactor": 4,
-    "movementspeed": 4.5,
+    "movementspeed": 1,
     "atkFactorTouch": 0,
     "atkFactorProjectile": 0,
     "attackInterval": 0,
