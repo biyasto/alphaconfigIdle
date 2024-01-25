@@ -176,13 +176,13 @@
     "description": "Enemies slow down around player 2m",
     "type": "Floor",
     "rarity": 1,
-    "target": "combo",
+    "target": "monster",
     "para1": 12,
     "para2": 13
   },
   {
     "id": 17,
-    "description": "Decrease vision field to x m in the next 3 room.",
+    "description": "Decrease vision field to 2 m in the next 3 room.",
     "": "Challenge",
     "type": "Floor",
     "rarity": 1,
@@ -252,6 +252,7 @@
   },
   {
     "id": 23,
+    "name": "RedirectWind",
     "description": "The wind will blow in a random direction and change direction randomly every while, affected player & enemies' speed.",
     "": "Challenge",
     "type": "Floor",
