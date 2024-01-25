@@ -84,7 +84,7 @@
     "name": "Combo",
     "type": "Floor",
     "rarity": 1,
-    "target": "combo",
+    "target": "player",
     "para1": 6,
     "para2": 7
   },
@@ -128,7 +128,7 @@
     "description": "Fully heal + 3rd shot x3 dmg",
     "type": "Floor",
     "rarity": 1,
-    "target": "combo",
+    "target": "player",
     "para1": 8,
     "para2": 9
   },
@@ -204,9 +204,9 @@
   },
   {
     "id": 19,
+    "": "Challenge",
     "name": "SummonThunder",
     "description": "Every while, thunders will drop onto the game area, causing damage to the player if it hits within the next 3 rooms.",
-    "": "Challenge",
     "type": "Floor",
     "rarity": 1,
     "rewardID": 2,
@@ -217,7 +217,8 @@
     "para4": 4,
     "para5": 0.2,
     "para6": 2,
-    "para7": 1
+    "para7": 1,
+    "para8": 1
   },
   {
     "id": 20,
@@ -436,7 +437,7 @@
     "description": "Player's crit chance +10% & crit dmg +50%",
     "type": "Mid",
     "rarity": 1,
-    "target": "combo",
+    "target": "player",
     "para1": 33,
     "para2": 39
   },
