@@ -217,7 +217,7 @@
     "para4": 4,
     "para5": 0.2,
     "para6": 2,
-    "para7": 1,
+    "para7": 3,
     "para8": 1
   },
   {
@@ -493,11 +493,12 @@
     "id": 45,
     "": "Challenge",
     "name": "AttackOneDirection",
-    "description": "Player will attack in the moving direction.",
+    "description": "Player will attack in 1 random direction every 15 seconds",
     "type": "Mid",
     "rarity": 1,
     "rewardID": 44,
-    "target": "player"
+    "target": "player",
+    "para1": 15
   },
   {
     "id": 46,
