@@ -59,7 +59,7 @@
     "PatternID": 5,
     "MonsterID": 1,
     "MonsterName": "Lesser Zombie",
-    "Rate": 0.8,
+    "Rate": 0.7,
     "maxOnScreen": 35
   },
   {
@@ -70,10 +70,17 @@
     "maxOnScreen": 10
   },
   {
+    "PatternID": 5,
+    "MonsterID": 6,
+    "MonsterName": "Speed Hurricane",
+    "Rate": 0.1,
+    "maxOnScreen": 5
+  },
+  {
     "PatternID": 6,
     "MonsterID": 1,
     "MonsterName": "Lesser Zombie",
-    "Rate": 0.7,
+    "Rate": 0.6,
     "maxOnScreen": 35
   },
   {
@@ -84,10 +91,17 @@
     "maxOnScreen": 5
   },
   {
+    "PatternID": 6,
+    "MonsterID": 6,
+    "MonsterName": "Speed Hurricane",
+    "Rate": 0.1,
+    "maxOnScreen": 5
+  },
+  {
     "PatternID": 7,
     "MonsterID": 5,
     "MonsterName": "Wild Boar",
-    "Rate": 0.6,
+    "Rate": 0.5,
     "maxOnScreen": 15
   },
   {
@@ -96,6 +110,13 @@
     "MonsterName": "Flaming Skull",
     "Rate": 0.4,
     "maxOnScreen": 10
+  },
+  {
+    "PatternID": 7,
+    "MonsterID": 6,
+    "MonsterName": "Speed Hurricane",
+    "Rate": 0.1,
+    "maxOnScreen": 5
   },
   {
     "PatternID": 8,
@@ -278,5 +299,26 @@
     "MonsterName": "Mutated Zombie",
     "Rate": 0.2,
     "maxOnScreen": 15
+  },
+  {
+    "PatternID": 17,
+    "MonsterID": 6,
+    "MonsterName": "Speed Hurricane",
+    "Rate": 0.1,
+    "maxOnScreen": 4
+  },
+  {
+    "PatternID": 17,
+    "MonsterID": 2,
+    "MonsterName": "Mutated Zombie",
+    "Rate": 0.2,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 17,
+    "MonsterID": 1,
+    "MonsterName": "Lesser Zombie",
+    "Rate": 0.7,
+    "maxOnScreen": 30
   }
 ]
