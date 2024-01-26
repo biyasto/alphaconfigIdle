@@ -261,7 +261,9 @@
     "target": "player",
     "para1": 8,
     "para2": 16,
-    "para3": 4
+    "para3": 1,
+    "para4": 2,
+    "para5": 4
   },
   {
     "id": 24,
