@@ -19,7 +19,7 @@
     "maxPower": 5625,
     "minDPS": 50,
     "maxDPS": 62.5,
-    "enemyAtk": 20
+    "enemyAtk": 11
   },
   {
     "DungeonID": 3,
@@ -30,7 +30,7 @@
     "maxPower": 8212.5,
     "minDPS": 60,
     "maxDPS": 91.25,
-    "enemyAtk": 30
+    "enemyAtk": 12
   },
   {
     "DungeonID": 4,
@@ -41,7 +41,7 @@
     "maxPower": 13106.25,
     "minDPS": 100,
     "maxDPS": 145.625,
-    "enemyAtk": 40
+    "enemyAtk": 14
   },
   {
     "DungeonID": 5,
@@ -52,7 +52,7 @@
     "maxPower": 15868.125,
     "minDPS": 103.5,
     "maxDPS": 176.3125,
-    "enemyAtk": 50
+    "enemyAtk": 14
   },
   {
     "DungeonID": 6,
@@ -63,7 +63,7 @@
     "maxPower": 17691.0625,
     "minDPS": 108.41111111111111,
     "maxDPS": 196.5673611111111,
-    "enemyAtk": 60
+    "enemyAtk": 14
   },
   {
     "DungeonID": 7,
@@ -74,7 +74,7 @@
     "maxPower": 19191.53125,
     "minDPS": 114.95555555555555,
     "maxDPS": 213.2392361111111,
-    "enemyAtk": 70
+    "enemyAtk": 14
   },
   {
     "DungeonID": 8,
@@ -85,7 +85,7 @@
     "maxPower": 28939.765625,
     "minDPS": 214.93333333333334,
     "maxDPS": 321.5529513888889,
-    "enemyAtk": 80
+    "enemyAtk": 18
   },
   {
     "DungeonID": 9,
@@ -96,7 +96,7 @@
     "maxPower": 43000.8828125,
     "minDPS": 317.0111111111111,
     "maxDPS": 477.7875868055556,
-    "enemyAtk": 90
+    "enemyAtk": 21
   },
   {
     "DungeonID": 10,
@@ -107,7 +107,7 @@
     "maxPower": 59428.44140625,
     "minDPS": 421.4222222222222,
     "maxDPS": 660.316015625,
-    "enemyAtk": 100
+    "enemyAtk": 24
   },
   {
     "DungeonID": 11,
@@ -118,7 +118,7 @@
     "maxPower": 77271.220703125,
     "minDPS": 528.4111111111112,
     "maxDPS": 858.5691189236111,
-    "enemyAtk": 110
+    "enemyAtk": 28
   },
   {
     "DungeonID": 12,
@@ -129,7 +129,7 @@
     "maxPower": 100867.6103515625,
     "minDPS": 691.4666666666667,
     "maxDPS": 1120.7512261284721,
-    "enemyAtk": 120
+    "enemyAtk": 33
   },
   {
     "DungeonID": 13,
@@ -140,7 +140,7 @@
     "maxPower": 127613.80517578125,
     "minDPS": 857.5555555555555,
     "maxDPS": 1417.9311686197916,
-    "enemyAtk": 130
+    "enemyAtk": 38
   },
   {
     "DungeonID": 14,
@@ -151,7 +151,7 @@
     "maxPower": 156228.90258789062,
     "minDPS": 1026.911111111111,
     "maxDPS": 1735.8766954210068,
-    "enemyAtk": 140
+    "enemyAtk": 44
   },
   {
     "DungeonID": 15,
@@ -162,7 +162,7 @@
     "maxPower": 186093.4512939453,
     "minDPS": 1199.7666666666667,
     "maxDPS": 2067.7050143771703,
-    "enemyAtk": 150
+    "enemyAtk": 49
   },
   {
     "DungeonID": 16,
@@ -173,7 +173,7 @@
     "maxPower": 233402.72564697266,
     "minDPS": 1559.5111111111112,
     "maxDPS": 2593.363618299696,
-    "enemyAtk": 160
+    "enemyAtk": 61
   },
   {
     "DungeonID": 17,
@@ -184,7 +184,7 @@
     "maxPower": 289790.3628234863,
     "minDPS": 1923.2111111111112,
     "maxDPS": 3219.8929202609593,
-    "enemyAtk": 170
+    "enemyAtk": 72
   },
   {
     "DungeonID": 18,
@@ -195,7 +195,7 @@
     "maxPower": 351097.18141174316,
     "minDPS": 2291.133333333333,
     "maxDPS": 3901.079793463813,
-    "enemyAtk": 180
+    "enemyAtk": 84
   },
   {
     "DungeonID": 19,
@@ -206,7 +206,7 @@
     "maxPower": 415261.5907058716,
     "minDPS": 2663.4777777777776,
     "maxDPS": 4614.017674509684,
-    "enemyAtk": 190
+    "enemyAtk": 96
   },
   {
     "DungeonID": 20,
@@ -217,7 +217,7 @@
     "maxPower": 489264.7953529358,
     "minDPS": 3129.266666666667,
     "maxDPS": 5436.275503921509,
-    "enemyAtk": 200
+    "enemyAtk": 111
   },
   {
     "DungeonID": 21,
@@ -228,7 +228,7 @@
     "maxPower": 568629.3976764679,
     "minDPS": 3599.9666666666667,
     "maxDPS": 6318.104418627421,
-    "enemyAtk": 210
+    "enemyAtk": 126
   },
   {
     "DungeonID": 22,
@@ -239,7 +239,7 @@
     "maxPower": 651136.698838234,
     "minDPS": 4075.8,
     "maxDPS": 7234.852209313711,
-    "enemyAtk": 220
+    "enemyAtk": 141
   },
   {
     "DungeonID": 23,
@@ -250,7 +250,7 @@
     "maxPower": 735699.349419117,
     "minDPS": 4557.011111111111,
     "maxDPS": 8174.437215767966,
-    "enemyAtk": 230
+    "enemyAtk": 157
   },
   {
     "DungeonID": 24,
@@ -261,7 +261,7 @@
     "maxPower": 846517.6747095585,
     "minDPS": 5318.533333333334,
     "maxDPS": 9405.751941217317,
-    "enemyAtk": 240
+    "enemyAtk": 181
   },
   {
     "DungeonID": 25,
@@ -272,7 +272,7 @@
     "maxPower": 970988.8373547792,
     "minDPS": 6085.888888888889,
     "maxDPS": 10788.764859497547,
-    "enemyAtk": 250
+    "enemyAtk": 206
   },
   {
     "DungeonID": 26,
@@ -283,7 +283,7 @@
     "maxPower": 1102833.4186773896,
     "minDPS": 6859.322222222222,
     "maxDPS": 12253.704651970997,
-    "enemyAtk": 260
+    "enemyAtk": 230
   },
   {
     "DungeonID": 27,
@@ -294,7 +294,7 @@
     "maxPower": 1238932.7093386948,
     "minDPS": 7639.066666666667,
     "maxDPS": 13765.918992652165,
-    "enemyAtk": 270
+    "enemyAtk": 255
   },
   {
     "DungeonID": 28,
@@ -305,7 +305,7 @@
     "maxPower": 1388932.3546693474,
     "minDPS": 8549.622222222222,
     "maxDPS": 15432.581718548305,
-    "enemyAtk": 280
+    "enemyAtk": 284
   },
   {
     "DungeonID": 29,
@@ -316,7 +316,7 @@
     "maxPower": 1546492.1773346737,
     "minDPS": 9466.955555555556,
     "maxDPS": 17183.246414829708,
-    "enemyAtk": 290
+    "enemyAtk": 314
   },
   {
     "DungeonID": 30,
@@ -327,7 +327,7 @@
     "maxPower": 1708462.0886673369,
     "minDPS": 10391.288888888888,
     "maxDPS": 18982.912096303742,
-    "enemyAtk": 300
+    "enemyAtk": 343
   },
   {
     "DungeonID": 31,
@@ -338,7 +338,7 @@
     "maxPower": 1873290.0443336684,
     "minDPS": 11322.877777777778,
     "maxDPS": 20814.33382592965,
-    "enemyAtk": 310
+    "enemyAtk": 373
   },
   {
     "DungeonID": 32,
@@ -349,7 +349,7 @@
     "maxPower": 2073184.0221668342,
     "minDPS": 12628.211111111112,
     "maxDPS": 23035.378024075937,
-    "enemyAtk": 320
+    "enemyAtk": 415
   },
   {
     "DungeonID": 33,
@@ -360,7 +360,7 @@
     "maxPower": 2291304.011083417,
     "minDPS": 13941.244444444445,
     "maxDPS": 25458.933456482413,
-    "enemyAtk": 330
+    "enemyAtk": 457
   },
   {
     "DungeonID": 34,
@@ -371,7 +371,7 @@
     "maxPower": 2519253.0055417083,
     "minDPS": 15262.233333333334,
     "maxDPS": 27991.70006157454,
-    "enemyAtk": 340
+    "enemyAtk": 499
   },
   {
     "DungeonID": 35,
@@ -382,7 +382,7 @@
     "maxPower": 2752851.502770854,
     "minDPS": 16591.38888888889,
     "maxDPS": 30587.238919676158,
-    "enemyAtk": 350
+    "enemyAtk": 542
   },
   {
     "DungeonID": 36,
@@ -393,7 +393,7 @@
     "maxPower": 3004412.751385427,
     "minDPS": 18088.744444444445,
     "maxDPS": 33382.36390428252,
-    "enemyAtk": 360
+    "enemyAtk": 590
   },
   {
     "DungeonID": 37,
@@ -404,7 +404,7 @@
     "maxPower": 3265732.3756927135,
     "minDPS": 19594.733333333334,
     "maxDPS": 36285.91528547459,
-    "enemyAtk": 370
+    "enemyAtk": 638
   },
   {
     "DungeonID": 38,
@@ -415,7 +415,7 @@
     "maxPower": 3532730.187846357,
     "minDPS": 21109.6,
     "maxDPS": 39252.5576427373,
-    "enemyAtk": 380
+    "enemyAtk": 686
   },
   {
     "DungeonID": 39,
@@ -426,7 +426,7 @@
     "maxPower": 3803387.0939231785,
     "minDPS": 22633.577777777777,
     "maxDPS": 42259.85659914643,
-    "enemyAtk": 390
+    "enemyAtk": 735
   },
   {
     "DungeonID": 40,
@@ -437,7 +437,7 @@
     "maxPower": 4117920.5469615893,
     "minDPS": 24624.744444444445,
     "maxDPS": 45754.67274401766,
-    "enemyAtk": 400
+    "enemyAtk": 799
   },
   {
     "DungeonID": 41,
@@ -448,7 +448,7 @@
     "maxPower": 4455255.273480794,
     "minDPS": 26625.5,
     "maxDPS": 49502.836372008824,
-    "enemyAtk": 410
+    "enemyAtk": 863
   },
   {
     "DungeonID": 42,
@@ -459,7 +459,7 @@
     "maxPower": 4804872.636740398,
     "minDPS": 28636.055555555555,
     "maxDPS": 53387.473741559974,
-    "enemyAtk": 420
+    "enemyAtk": 927
   },
   {
     "DungeonID": 43,
@@ -470,7 +470,7 @@
     "maxPower": 5161535.318370199,
     "minDPS": 30656.655555555557,
     "maxDPS": 57350.392426335544,
-    "enemyAtk": 430
+    "enemyAtk": 992
   },
   {
     "DungeonID": 44,
@@ -481,7 +481,7 @@
     "maxPower": 5540221.659185099,
     "minDPS": 32882.822222222225,
     "maxDPS": 61558.01843539,
-    "enemyAtk": 440
+    "enemyAtk": 1063
   },
   {
     "DungeonID": 45,
@@ -492,7 +492,7 @@
     "maxPower": 5930865.82959255,
     "minDPS": 35119.5,
     "maxDPS": 65898.509217695,
-    "enemyAtk": 450
+    "enemyAtk": 1135
   },
   {
     "DungeonID": 46,
@@ -503,7 +503,7 @@
     "maxPower": 6328456.914796275,
     "minDPS": 37366.933333333334,
     "maxDPS": 70316.18794218084,
-    "enemyAtk": 460
+    "enemyAtk": 1207
   },
   {
     "DungeonID": 47,
@@ -514,7 +514,7 @@
     "maxPower": 6730508.457398137,
     "minDPS": 39625.333333333336,
     "maxDPS": 74783.42730442375,
-    "enemyAtk": 470
+    "enemyAtk": 1279
   },
   {
     "DungeonID": 48,
@@ -525,7 +525,7 @@
     "maxPower": 7185247.228699069,
     "minDPS": 42444.36666666667,
     "maxDPS": 79836.08031887854,
-    "enemyAtk": 480
+    "enemyAtk": 1369
   },
   {
     "DungeonID": 49,
@@ -536,7 +536,7 @@
     "maxPower": 7667359.614349535,
     "minDPS": 45274.84444444445,
     "maxDPS": 85192.88460388372,
-    "enemyAtk": 490
+    "enemyAtk": 1460
   },
   {
     "DungeonID": 50,
@@ -547,7 +547,7 @@
     "maxPower": 8164210.807174767,
     "minDPS": 48117.01111111111,
     "maxDPS": 90713.45341305296,
-    "enemyAtk": 500
+    "enemyAtk": 1551
   },
   {
     "DungeonID": 51,
@@ -558,7 +558,7 @@
     "maxPower": 8669502.403587384,
     "minDPS": 50971.07777777778,
     "maxDPS": 96327.80448430427,
-    "enemyAtk": 510
+    "enemyAtk": 1642
   },
   {
     "DungeonID": 52,
@@ -569,7 +569,7 @@
     "maxPower": 9200879.201793693,
     "minDPS": 54068.08888888889,
     "maxDPS": 102231.99113104104,
-    "enemyAtk": 520
+    "enemyAtk": 1741
   },
   {
     "DungeonID": 53,
@@ -580,7 +580,7 @@
     "maxPower": 9746413.600896847,
     "minDPS": 57177.48888888889,
     "maxDPS": 108293.48445440941,
-    "enemyAtk": 530
+    "enemyAtk": 1840
   },
   {
     "DungeonID": 54,
@@ -591,7 +591,7 @@
     "maxPower": 10300160.800448423,
     "minDPS": 60299.48888888889,
     "maxDPS": 114446.2311160936,
-    "enemyAtk": 540
+    "enemyAtk": 1940
   },
   {
     "DungeonID": 55,
@@ -602,7 +602,7 @@
     "maxPower": 10859171.400224213,
     "minDPS": 63434.34444444445,
     "maxDPS": 120657.46000249125,
-    "enemyAtk": 550
+    "enemyAtk": 2041
   },
   {
     "DungeonID": 56,
@@ -613,7 +613,7 @@
     "maxPower": 11479679.700112106,
     "minDPS": 67223.26666666666,
     "maxDPS": 127551.99666791229,
-    "enemyAtk": 560
+    "enemyAtk": 2162
   },
   {
     "DungeonID": 57,
@@ -624,7 +624,7 @@
     "maxPower": 12132135.850056052,
     "minDPS": 71025.51111111112,
     "maxDPS": 134801.50944506723,
-    "enemyAtk": 570
+    "enemyAtk": 2284
   },
   {
     "DungeonID": 58,
@@ -635,7 +635,7 @@
     "maxPower": 12801783.925028026,
     "minDPS": 74841.28888888888,
     "maxDPS": 142242.0436114225,
-    "enemyAtk": 580
+    "enemyAtk": 2406
   },
   {
     "DungeonID": 59,
@@ -646,7 +646,7 @@
     "maxPower": 13481269.962514013,
     "minDPS": 78670.86666666667,
     "maxDPS": 149791.88847237793,
-    "enemyAtk": 590
+    "enemyAtk": 2528
   },
   {
     "DungeonID": 60,
@@ -657,7 +657,7 @@
     "maxPower": 14190901.981257007,
     "minDPS": 82780.74444444444,
     "maxDPS": 157676.6886806334,
-    "enemyAtk": 600
+    "enemyAtk": 2660
   },
   {
     "DungeonID": 61,
@@ -668,7 +668,7 @@
     "maxPower": 14916889.990628503,
     "minDPS": 86904.87777777777,
     "maxDPS": 165743.22211809448,
-    "enemyAtk": 610
+    "enemyAtk": 2792
   },
   {
     "DungeonID": 62,
@@ -679,7 +679,7 @@
     "maxPower": 15652358.995314252,
     "minDPS": 91043.48888888888,
     "maxDPS": 173915.09994793613,
-    "enemyAtk": 620
+    "enemyAtk": 2924
   },
   {
     "DungeonID": 63,
@@ -690,7 +690,7 @@
     "maxPower": 16393893.497657126,
     "minDPS": 95196.82222222222,
     "maxDPS": 182154.3721961903,
-    "enemyAtk": 630
+    "enemyAtk": 3057
   },
   {
     "DungeonID": 64,
@@ -701,6 +701,6 @@
     "maxPower": 17205736.748828564,
     "minDPS": 100097.66666666667,
     "maxDPS": 191174.85276476183,
-    "enemyAtk": 640
+    "enemyAtk": 3214
   }
 ]
