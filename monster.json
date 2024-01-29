@@ -122,7 +122,7 @@
     "lives": 1,
     "hpFactor": 4,
     "movementspeed": 4.5,
-    "atkFactorTouch": 0,
+    "atkFactorTouch": 1,
     "atkFactorProjectile": 0,
     "attackInterval": 0,
     "attackspeed": 3,
