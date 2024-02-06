@@ -252,9 +252,9 @@
   },
   {
     "id": 23,
+    "": "Challenge",
     "name": "RedirectWind",
     "description": "The wind will blow in a random direction and change direction randomly every while, affected player & enemies' speed.",
-    "": "Challenge",
     "type": "Floor",
     "rarity": 1,
     "rewardID": 2,
@@ -298,8 +298,9 @@
   },
   {
     "id": 27,
-    "description": "Player cannot attack in first x seconds in the next 3 rooms.",
     "": "Challenge",
+    "name": "NullifyAttack",
+    "description": "Player cannot attack in first x seconds in the next 3 rooms.",
     "type": "Floor",
     "rarity": 1,
     "target": "combo",
@@ -347,7 +348,7 @@
   {
     "id": 32,
     "": "Challenge",
-    "name": "ResistAll",
+    "name": "ModifyStat",
     "description": "Player receive 10% dmg from all source.",
     "type": "Mid",
     "rarity": 1,
