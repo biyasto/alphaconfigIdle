@@ -205,9 +205,11 @@
     "name": "Curve Spawn Devil Tree Stump",
     "type": "CurveProjectile",
     "model": "Weapon/Sphere",
+    "explosion": 6,
     "livetime": 30,
-    "ignorewhencollidewithhero": true,
-    "ignoredamagetohero": true,
+    "bouncingwalltimes": 2,
+    "ignorewhencollidewithhero": false,
+    "ignoredamagetohero": false,
     "summonmonster": 6,
     "speedbullet": 5
   },
