@@ -21,7 +21,7 @@
     "description": "Chases the character, deal damage on touch.",
     "size": 0.85,
     "shadowRadius": 1,
-    "isAir": true,
+    "isAir": false,
     "meleeInterval": 1,
     "vfxYOffset": 0.5
   },
