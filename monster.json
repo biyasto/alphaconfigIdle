@@ -19,7 +19,7 @@
     "isAutoTriggered": false,
     "triggerBehavior": 0,
     "description": "Chases the character, deal damage on touch.",
-    "size": 0.85,
+    "size": 1,
     "shadowRadius": 1,
     "isAir": false,
     "meleeInterval": 1,
