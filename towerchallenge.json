@@ -82,6 +82,7 @@
     "id": 8,
     "": "Reward",
     "name": "Combo",
+    "description": "Player will choose skills 3 times and receive 2 extra skill points.",
     "type": "Floor",
     "rarity": 1,
     "target": "player",
