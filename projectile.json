@@ -33,8 +33,10 @@
     "name": "Super Fast Projectile",
     "type": "Straight",
     "model": "Weapon/FireArrow",
-    "livetime": 900,
-    "bouncingwalltimes": 2,
+    "livetime": 30,
+    "ignorewhencollidewithhero": true,
+    "ignoredamagetohero": false,
+    "ignoreobstacle": true,
     "speedbullet": 10,
     "modelSize": 1.5,
     "collisionSize": 1.5
@@ -211,7 +213,8 @@
     "ignorewhencollidewithhero": false,
     "ignoredamagetohero": false,
     "summonmonster": 6,
-    "speedbullet": 5
+    "speedbullet": 5,
+    "shadowGraphic": "Projectile/Giant Fire Spirit"
   },
   {
     "id": 23,
