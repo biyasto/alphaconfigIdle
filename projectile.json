@@ -38,8 +38,8 @@
     "ignoredamagetohero": false,
     "ignoreobstacle": true,
     "speedbullet": 7.5,
-    "modelSize": 12,
-    "collisionSize": 12
+    "modelSize": 7,
+    "collisionSize": 7
   },
   {
     "id": 4,
