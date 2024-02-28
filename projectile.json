@@ -32,7 +32,7 @@
     "id": 3,
     "name": "Demon Boar Projectile",
     "type": "Straight",
-    "model": "Weapon/FlameFireball",
+    "model": "Weapon/FireArrow",
     "livetime": 30,
     "ignorewhencollidewithhero": true,
     "ignoredamagetohero": false,
