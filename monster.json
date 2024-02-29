@@ -14,7 +14,7 @@
     "attackRange": 2,
     "atkFactorTouch": 1,
     "atkFactorProjectile": 0,
-    "attackInterval": 0.833,
+    "attackInterval": 0.3,
     "attackspeed": 1,
     "detectRange": 0,
     "isAutoTriggered": false,
