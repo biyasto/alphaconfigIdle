@@ -224,6 +224,7 @@
     "detectRange": 0,
     "isAutoTriggered": true,
     "triggerBehavior": 0,
+    "size": 1,
     "description": "- For each 5 seconds, approaches the character with random offset. \n- Throw 3 - 5 Bombs around its position.\n- The bomb will explode when hitting the ground. Dealing damage to player and heal other enemies within region."
   },
   {
