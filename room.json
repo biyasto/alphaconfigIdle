@@ -8,7 +8,7 @@
     "maxPower": 2250,
     "minDPS": 25,
     "maxDPS": 25,
-    "enemyAtk": 10
+    "enemyAtk": 20
   },
   {
     "DungeonID": 2,
@@ -18,8 +18,8 @@
     "minPower": 4500,
     "maxPower": 5625,
     "minDPS": 50,
-    "maxDPS": 62.5,
-    "enemyAtk": 11
+    "maxDPS": 62,
+    "enemyAtk": 22
   },
   {
     "DungeonID": 3,
@@ -27,10 +27,10 @@
     "roomScale": 1,
     "bossScale": 3.5,
     "minPower": 5400,
-    "maxPower": 8212.5,
+    "maxPower": 8212,
     "minDPS": 60,
-    "maxDPS": 91.25,
-    "enemyAtk": 12
+    "maxDPS": 91,
+    "enemyAtk": 24
   },
   {
     "DungeonID": 4,
@@ -38,10 +38,10 @@
     "roomScale": 1,
     "bossScale": 4.2,
     "minPower": 9000,
-    "maxPower": 13106.25,
+    "maxPower": 13106,
     "minDPS": 100,
-    "maxDPS": 145.625,
-    "enemyAtk": 14
+    "maxDPS": 145,
+    "enemyAtk": 28
   },
   {
     "DungeonID": 5,
@@ -49,10 +49,10 @@
     "roomScale": 1,
     "bossScale": 4.2,
     "minPower": 9315,
-    "maxPower": 15868.125,
-    "minDPS": 103.5,
-    "maxDPS": 176.3125,
-    "enemyAtk": 14
+    "maxPower": 15868,
+    "minDPS": 103,
+    "maxDPS": 176,
+    "enemyAtk": 29
   },
   {
     "DungeonID": 6,
@@ -60,10 +60,10 @@
     "roomScale": 1,
     "bossScale": 4.3,
     "minPower": 9757,
-    "maxPower": 17691.0625,
-    "minDPS": 108.41111111111111,
-    "maxDPS": 196.5673611111111,
-    "enemyAtk": 14
+    "maxPower": 17691,
+    "minDPS": 108,
+    "maxDPS": 196,
+    "enemyAtk": 30
   },
   {
     "DungeonID": 7,
@@ -71,10 +71,10 @@
     "roomScale": 1,
     "bossScale": 4.3,
     "minPower": 10346,
-    "maxPower": 19191.53125,
-    "minDPS": 114.95555555555555,
-    "maxDPS": 213.2392361111111,
-    "enemyAtk": 14
+    "maxPower": 19191,
+    "minDPS": 114,
+    "maxDPS": 213,
+    "enemyAtk": 31
   },
   {
     "DungeonID": 8,
@@ -82,10 +82,10 @@
     "roomScale": 1,
     "bossScale": 4.4,
     "minPower": 19344,
-    "maxPower": 28939.765625,
-    "minDPS": 214.93333333333334,
-    "maxDPS": 321.5529513888889,
-    "enemyAtk": 18
+    "maxPower": 28939,
+    "minDPS": 214,
+    "maxDPS": 321,
+    "enemyAtk": 36
   },
   {
     "DungeonID": 9,
@@ -93,10 +93,10 @@
     "roomScale": 1,
     "bossScale": 4.4,
     "minPower": 28531,
-    "maxPower": 43000.8828125,
-    "minDPS": 317.0111111111111,
-    "maxDPS": 477.7875868055556,
-    "enemyAtk": 21
+    "maxPower": 43000,
+    "minDPS": 317,
+    "maxDPS": 477,
+    "enemyAtk": 42
   },
   {
     "DungeonID": 10,
@@ -104,10 +104,10 @@
     "roomScale": 1,
     "bossScale": 4.5,
     "minPower": 37928,
-    "maxPower": 59428.44140625,
-    "minDPS": 421.4222222222222,
-    "maxDPS": 660.316015625,
-    "enemyAtk": 24
+    "maxPower": 59428,
+    "minDPS": 421,
+    "maxDPS": 660,
+    "enemyAtk": 49
   },
   {
     "DungeonID": 11,
@@ -115,10 +115,10 @@
     "roomScale": 1,
     "bossScale": 4.5,
     "minPower": 47557,
-    "maxPower": 77271.220703125,
-    "minDPS": 528.4111111111112,
-    "maxDPS": 858.5691189236111,
-    "enemyAtk": 28
+    "maxPower": 77271,
+    "minDPS": 528,
+    "maxDPS": 858,
+    "enemyAtk": 57
   },
   {
     "DungeonID": 12,
@@ -126,10 +126,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 62232,
-    "maxPower": 100867.6103515625,
-    "minDPS": 691.4666666666667,
-    "maxDPS": 1120.7512261284721,
-    "enemyAtk": 33
+    "maxPower": 100867,
+    "minDPS": 691,
+    "maxDPS": 1120,
+    "enemyAtk": 67
   },
   {
     "DungeonID": 13,
@@ -137,10 +137,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 77180,
-    "maxPower": 127613.80517578125,
-    "minDPS": 857.5555555555555,
-    "maxDPS": 1417.9311686197916,
-    "enemyAtk": 38
+    "maxPower": 127613,
+    "minDPS": 857,
+    "maxDPS": 1417,
+    "enemyAtk": 78
   },
   {
     "DungeonID": 14,
@@ -148,10 +148,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 92422,
-    "maxPower": 156228.90258789062,
-    "minDPS": 1026.911111111111,
-    "maxDPS": 1735.8766954210068,
-    "enemyAtk": 44
+    "maxPower": 156228,
+    "minDPS": 1026,
+    "maxDPS": 1735,
+    "enemyAtk": 90
   },
   {
     "DungeonID": 15,
@@ -159,10 +159,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 107979,
-    "maxPower": 186093.4512939453,
-    "minDPS": 1199.7666666666667,
-    "maxDPS": 2067.7050143771703,
-    "enemyAtk": 49
+    "maxPower": 186093,
+    "minDPS": 1199,
+    "maxDPS": 2067,
+    "enemyAtk": 103
   },
   {
     "DungeonID": 16,
@@ -170,10 +170,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 140356,
-    "maxPower": 233402.72564697266,
-    "minDPS": 1559.5111111111112,
-    "maxDPS": 2593.363618299696,
-    "enemyAtk": 61
+    "maxPower": 233402,
+    "minDPS": 1559,
+    "maxDPS": 2593,
+    "enemyAtk": 124
   },
   {
     "DungeonID": 17,
@@ -181,10 +181,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 173089,
-    "maxPower": 289790.3628234863,
-    "minDPS": 1923.2111111111112,
-    "maxDPS": 3219.8929202609593,
-    "enemyAtk": 72
+    "maxPower": 289790,
+    "minDPS": 1923,
+    "maxDPS": 3219,
+    "enemyAtk": 146
   },
   {
     "DungeonID": 18,
@@ -192,10 +192,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 206202,
-    "maxPower": 351097.18141174316,
-    "minDPS": 2291.133333333333,
-    "maxDPS": 3901.079793463813,
-    "enemyAtk": 84
+    "maxPower": 351097,
+    "minDPS": 2291,
+    "maxDPS": 3901,
+    "enemyAtk": 169
   },
   {
     "DungeonID": 19,
@@ -203,10 +203,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 239713,
-    "maxPower": 415261.5907058716,
-    "minDPS": 2663.4777777777776,
-    "maxDPS": 4614.017674509684,
-    "enemyAtk": 96
+    "maxPower": 415261,
+    "minDPS": 2663,
+    "maxDPS": 4614,
+    "enemyAtk": 195
   },
   {
     "DungeonID": 20,
@@ -214,10 +214,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 281634,
-    "maxPower": 489264.7953529358,
-    "minDPS": 3129.266666666667,
-    "maxDPS": 5436.275503921509,
-    "enemyAtk": 111
+    "maxPower": 489264,
+    "minDPS": 3129,
+    "maxDPS": 5436,
+    "enemyAtk": 223
   },
   {
     "DungeonID": 21,
@@ -225,10 +225,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 323997,
-    "maxPower": 568629.3976764679,
-    "minDPS": 3599.9666666666667,
-    "maxDPS": 6318.104418627421,
-    "enemyAtk": 126
+    "maxPower": 568629,
+    "minDPS": 3599,
+    "maxDPS": 6318,
+    "enemyAtk": 254
   },
   {
     "DungeonID": 22,
@@ -236,10 +236,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 366822,
-    "maxPower": 651136.698838234,
-    "minDPS": 4075.8,
-    "maxDPS": 7234.852209313711,
-    "enemyAtk": 141
+    "maxPower": 651136,
+    "minDPS": 4075,
+    "maxDPS": 7234,
+    "enemyAtk": 286
   },
   {
     "DungeonID": 23,
@@ -247,10 +247,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 410131,
-    "maxPower": 735699.349419117,
-    "minDPS": 4557.011111111111,
-    "maxDPS": 8174.437215767966,
-    "enemyAtk": 157
+    "maxPower": 735699,
+    "minDPS": 4557,
+    "maxDPS": 8174,
+    "enemyAtk": 321
   },
   {
     "DungeonID": 24,
@@ -258,10 +258,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 478668,
-    "maxPower": 846517.6747095585,
-    "minDPS": 5318.533333333334,
-    "maxDPS": 9405.751941217317,
-    "enemyAtk": 181
+    "maxPower": 846517,
+    "minDPS": 5318,
+    "maxDPS": 9405,
+    "enemyAtk": 366
   },
   {
     "DungeonID": 25,
@@ -269,10 +269,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 547730,
-    "maxPower": 970988.8373547792,
-    "minDPS": 6085.888888888889,
-    "maxDPS": 10788.764859497547,
-    "enemyAtk": 206
+    "maxPower": 970988,
+    "minDPS": 6085,
+    "maxDPS": 10788,
+    "enemyAtk": 413
   },
   {
     "DungeonID": 26,
@@ -280,10 +280,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 617339,
-    "maxPower": 1102833.4186773896,
-    "minDPS": 6859.322222222222,
-    "maxDPS": 12253.704651970997,
-    "enemyAtk": 230
+    "maxPower": 1102833,
+    "minDPS": 6859,
+    "maxDPS": 12253,
+    "enemyAtk": 462
   },
   {
     "DungeonID": 27,
@@ -291,10 +291,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 687516,
-    "maxPower": 1238932.7093386948,
-    "minDPS": 7639.066666666667,
-    "maxDPS": 13765.918992652165,
-    "enemyAtk": 255
+    "maxPower": 1238932,
+    "minDPS": 7639,
+    "maxDPS": 13765,
+    "enemyAtk": 514
   },
   {
     "DungeonID": 28,
@@ -302,10 +302,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 769466,
-    "maxPower": 1388932.3546693474,
-    "minDPS": 8549.622222222222,
-    "maxDPS": 15432.581718548305,
-    "enemyAtk": 284
+    "maxPower": 1388932,
+    "minDPS": 8549,
+    "maxDPS": 15432,
+    "enemyAtk": 571
   },
   {
     "DungeonID": 29,
@@ -313,10 +313,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 852026,
-    "maxPower": 1546492.1773346737,
-    "minDPS": 9466.955555555556,
-    "maxDPS": 17183.246414829708,
-    "enemyAtk": 314
+    "maxPower": 1546492,
+    "minDPS": 9466,
+    "maxDPS": 17183,
+    "enemyAtk": 630
   },
   {
     "DungeonID": 30,
@@ -324,10 +324,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 935216,
-    "maxPower": 1708462.0886673369,
-    "minDPS": 10391.288888888888,
-    "maxDPS": 18982.912096303742,
-    "enemyAtk": 343
+    "maxPower": 1708462,
+    "minDPS": 10391,
+    "maxDPS": 18982,
+    "enemyAtk": 691
   },
   {
     "DungeonID": 31,
@@ -335,10 +335,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 1019059,
-    "maxPower": 1873290.0443336684,
-    "minDPS": 11322.877777777778,
-    "maxDPS": 20814.33382592965,
-    "enemyAtk": 373
+    "maxPower": 1873290,
+    "minDPS": 11322,
+    "maxDPS": 20814,
+    "enemyAtk": 756
   },
   {
     "DungeonID": 32,
@@ -346,10 +346,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 1136539,
-    "maxPower": 2073184.0221668342,
-    "minDPS": 12628.211111111112,
-    "maxDPS": 23035.378024075937,
-    "enemyAtk": 415
+    "maxPower": 2073184,
+    "minDPS": 12628,
+    "maxDPS": 23035,
+    "enemyAtk": 834
   },
   {
     "DungeonID": 33,
@@ -357,10 +357,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 1254712,
-    "maxPower": 2291304.011083417,
-    "minDPS": 13941.244444444445,
-    "maxDPS": 25458.933456482413,
-    "enemyAtk": 457
+    "maxPower": 2291304,
+    "minDPS": 13941,
+    "maxDPS": 25458,
+    "enemyAtk": 916
   },
   {
     "DungeonID": 34,
@@ -368,10 +368,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 1373601,
-    "maxPower": 2519253.0055417083,
-    "minDPS": 15262.233333333334,
-    "maxDPS": 27991.70006157454,
-    "enemyAtk": 499
+    "maxPower": 2519253,
+    "minDPS": 15262,
+    "maxDPS": 27991,
+    "enemyAtk": 1000
   },
   {
     "DungeonID": 35,
@@ -379,10 +379,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 1493225,
-    "maxPower": 2752851.502770854,
-    "minDPS": 16591.38888888889,
-    "maxDPS": 30587.238919676158,
-    "enemyAtk": 542
+    "maxPower": 2752851,
+    "minDPS": 16591,
+    "maxDPS": 30587,
+    "enemyAtk": 1087
   },
   {
     "DungeonID": 36,
@@ -390,10 +390,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 1627987,
-    "maxPower": 3004412.751385427,
-    "minDPS": 18088.744444444445,
-    "maxDPS": 33382.36390428252,
-    "enemyAtk": 590
+    "maxPower": 3004412,
+    "minDPS": 18088,
+    "maxDPS": 33382,
+    "enemyAtk": 1181
   },
   {
     "DungeonID": 37,
@@ -401,10 +401,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 1763526,
-    "maxPower": 3265732.3756927135,
-    "minDPS": 19594.733333333334,
-    "maxDPS": 36285.91528547459,
-    "enemyAtk": 638
+    "maxPower": 3265732,
+    "minDPS": 19594,
+    "maxDPS": 36285,
+    "enemyAtk": 1278
   },
   {
     "DungeonID": 38,
@@ -412,10 +412,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 1899864,
-    "maxPower": 3532730.187846357,
-    "minDPS": 21109.6,
-    "maxDPS": 39252.5576427373,
-    "enemyAtk": 686
+    "maxPower": 3532730,
+    "minDPS": 21109,
+    "maxDPS": 39252,
+    "enemyAtk": 1378
   },
   {
     "DungeonID": 39,
@@ -423,10 +423,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 2037022,
-    "maxPower": 3803387.0939231785,
-    "minDPS": 22633.577777777777,
-    "maxDPS": 42259.85659914643,
-    "enemyAtk": 735
+    "maxPower": 3803387,
+    "minDPS": 22633,
+    "maxDPS": 42259,
+    "enemyAtk": 1481
   },
   {
     "DungeonID": 40,
@@ -434,10 +434,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 2216227,
-    "maxPower": 4117920.5469615893,
-    "minDPS": 24624.744444444445,
-    "maxDPS": 45754.67274401766,
-    "enemyAtk": 799
+    "maxPower": 4117920,
+    "minDPS": 24624,
+    "maxDPS": 45754,
+    "enemyAtk": 1602
   },
   {
     "DungeonID": 41,
@@ -445,10 +445,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 2396295,
-    "maxPower": 4455255.273480794,
-    "minDPS": 26625.5,
-    "maxDPS": 49502.836372008824,
-    "enemyAtk": 863
+    "maxPower": 4455255,
+    "minDPS": 26625,
+    "maxDPS": 49502,
+    "enemyAtk": 1727
   },
   {
     "DungeonID": 42,
@@ -456,10 +456,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 2577245,
-    "maxPower": 4804872.636740398,
-    "minDPS": 28636.055555555555,
-    "maxDPS": 53387.473741559974,
-    "enemyAtk": 927
+    "maxPower": 4804872,
+    "minDPS": 28636,
+    "maxDPS": 53387,
+    "enemyAtk": 1855
   },
   {
     "DungeonID": 43,
@@ -467,10 +467,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 2759099,
-    "maxPower": 5161535.318370199,
-    "minDPS": 30656.655555555557,
-    "maxDPS": 57350.392426335544,
-    "enemyAtk": 992
+    "maxPower": 5161535,
+    "minDPS": 30656,
+    "maxDPS": 57350,
+    "enemyAtk": 1987
   },
   {
     "DungeonID": 44,
@@ -478,10 +478,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 2959454,
-    "maxPower": 5540221.659185099,
-    "minDPS": 32882.822222222225,
-    "maxDPS": 61558.01843539,
-    "enemyAtk": 1063
+    "maxPower": 5540221,
+    "minDPS": 32882,
+    "maxDPS": 61558,
+    "enemyAtk": 2127
   },
   {
     "DungeonID": 45,
@@ -489,10 +489,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 3160755,
-    "maxPower": 5930865.82959255,
-    "minDPS": 35119.5,
-    "maxDPS": 65898.509217695,
-    "enemyAtk": 1135
+    "maxPower": 5930865,
+    "minDPS": 35119,
+    "maxDPS": 65898,
+    "enemyAtk": 2270
   },
   {
     "DungeonID": 46,
@@ -500,10 +500,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 3363024,
-    "maxPower": 6328456.914796275,
-    "minDPS": 37366.933333333334,
-    "maxDPS": 70316.18794218084,
-    "enemyAtk": 1207
+    "maxPower": 6328456,
+    "minDPS": 37366,
+    "maxDPS": 70316,
+    "enemyAtk": 2418
   },
   {
     "DungeonID": 47,
@@ -511,10 +511,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 3566280,
-    "maxPower": 6730508.457398137,
-    "minDPS": 39625.333333333336,
-    "maxDPS": 74783.42730442375,
-    "enemyAtk": 1279
+    "maxPower": 6730508,
+    "minDPS": 39625,
+    "maxDPS": 74783,
+    "enemyAtk": 2569
   },
   {
     "DungeonID": 48,
@@ -522,10 +522,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 3819993,
-    "maxPower": 7185247.228699069,
-    "minDPS": 42444.36666666667,
-    "maxDPS": 79836.08031887854,
-    "enemyAtk": 1369
+    "maxPower": 7185247,
+    "minDPS": 42444,
+    "maxDPS": 79836,
+    "enemyAtk": 2742
   },
   {
     "DungeonID": 49,
@@ -533,10 +533,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 4074736,
-    "maxPower": 7667359.614349535,
-    "minDPS": 45274.84444444445,
-    "maxDPS": 85192.88460388372,
-    "enemyAtk": 1460
+    "maxPower": 7667359,
+    "minDPS": 45274,
+    "maxDPS": 85192,
+    "enemyAtk": 2919
   },
   {
     "DungeonID": 50,
@@ -544,10 +544,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 4330531,
-    "maxPower": 8164210.807174767,
-    "minDPS": 48117.01111111111,
-    "maxDPS": 90713.45341305296,
-    "enemyAtk": 1551
+    "maxPower": 8164210,
+    "minDPS": 48117,
+    "maxDPS": 90713,
+    "enemyAtk": 3100
   },
   {
     "DungeonID": 51,
@@ -555,10 +555,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 4587397,
-    "maxPower": 8669502.403587384,
-    "minDPS": 50971.07777777778,
-    "maxDPS": 96327.80448430427,
-    "enemyAtk": 1642
+    "maxPower": 8669502,
+    "minDPS": 50971,
+    "maxDPS": 96327,
+    "enemyAtk": 3286
   },
   {
     "DungeonID": 52,
@@ -566,10 +566,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 4866128,
-    "maxPower": 9200879.201793693,
-    "minDPS": 54068.08888888889,
-    "maxDPS": 102231.99113104104,
-    "enemyAtk": 1741
+    "maxPower": 9200879,
+    "minDPS": 54068,
+    "maxDPS": 102231,
+    "enemyAtk": 3481
   },
   {
     "DungeonID": 53,
@@ -577,10 +577,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 5145974,
-    "maxPower": 9746413.600896847,
-    "minDPS": 57177.48888888889,
-    "maxDPS": 108293.48445440941,
-    "enemyAtk": 1840
+    "maxPower": 9746413,
+    "minDPS": 57177,
+    "maxDPS": 108293,
+    "enemyAtk": 3680
   },
   {
     "DungeonID": 54,
@@ -588,10 +588,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 5426954,
-    "maxPower": 10300160.800448423,
-    "minDPS": 60299.48888888889,
-    "maxDPS": 114446.2311160936,
-    "enemyAtk": 1940
+    "maxPower": 10300160,
+    "minDPS": 60299,
+    "maxDPS": 114446,
+    "enemyAtk": 3884
   },
   {
     "DungeonID": 55,
@@ -599,10 +599,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 5709091,
-    "maxPower": 10859171.400224213,
-    "minDPS": 63434.34444444445,
-    "maxDPS": 120657.46000249125,
-    "enemyAtk": 2041
+    "maxPower": 10859171,
+    "minDPS": 63434,
+    "maxDPS": 120657,
+    "enemyAtk": 4093
   },
   {
     "DungeonID": 56,
@@ -610,10 +610,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 6050094,
-    "maxPower": 11479679.700112106,
-    "minDPS": 67223.26666666666,
-    "maxDPS": 127551.99666791229,
-    "enemyAtk": 2162
+    "maxPower": 11479679,
+    "minDPS": 67223,
+    "maxDPS": 127551,
+    "enemyAtk": 4326
   },
   {
     "DungeonID": 57,
@@ -621,10 +621,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 6392296,
-    "maxPower": 12132135.850056052,
-    "minDPS": 71025.51111111112,
-    "maxDPS": 134801.50944506723,
-    "enemyAtk": 2284
+    "maxPower": 12132135,
+    "minDPS": 71025,
+    "maxDPS": 134801,
+    "enemyAtk": 4565
   },
   {
     "DungeonID": 58,
@@ -632,10 +632,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 6735716,
-    "maxPower": 12801783.925028026,
-    "minDPS": 74841.28888888888,
-    "maxDPS": 142242.0436114225,
-    "enemyAtk": 2406
+    "maxPower": 12801783,
+    "minDPS": 74841,
+    "maxDPS": 142242,
+    "enemyAtk": 4808
   },
   {
     "DungeonID": 59,
@@ -643,10 +643,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 7080378,
-    "maxPower": 13481269.962514013,
-    "minDPS": 78670.86666666667,
-    "maxDPS": 149791.88847237793,
-    "enemyAtk": 2528
+    "maxPower": 13481269,
+    "minDPS": 78670,
+    "maxDPS": 149791,
+    "enemyAtk": 5057
   },
   {
     "DungeonID": 60,
@@ -654,10 +654,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 7450267,
-    "maxPower": 14190901.981257007,
-    "minDPS": 82780.74444444444,
-    "maxDPS": 157676.6886806334,
-    "enemyAtk": 2660
+    "maxPower": 14190901,
+    "minDPS": 82780,
+    "maxDPS": 157676,
+    "enemyAtk": 5316
   },
   {
     "DungeonID": 61,
@@ -665,10 +665,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 7821439,
-    "maxPower": 14916889.990628503,
-    "minDPS": 86904.87777777777,
-    "maxDPS": 165743.22211809448,
-    "enemyAtk": 2792
+    "maxPower": 14916889,
+    "minDPS": 86904,
+    "maxDPS": 165743,
+    "enemyAtk": 5580
   },
   {
     "DungeonID": 62,
@@ -676,10 +676,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 8193914,
-    "maxPower": 15652358.995314252,
-    "minDPS": 91043.48888888888,
-    "maxDPS": 173915.09994793613,
-    "enemyAtk": 2924
+    "maxPower": 15652358,
+    "minDPS": 91043,
+    "maxDPS": 173915,
+    "enemyAtk": 5850
   },
   {
     "DungeonID": 63,
@@ -687,10 +687,10 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 8567714,
-    "maxPower": 16393893.497657126,
-    "minDPS": 95196.82222222222,
-    "maxDPS": 182154.3721961903,
-    "enemyAtk": 3057
+    "maxPower": 16393893,
+    "minDPS": 95196,
+    "maxDPS": 182154,
+    "enemyAtk": 6125
   },
   {
     "DungeonID": 64,
@@ -698,9 +698,9 @@
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 9008790,
-    "maxPower": 17205736.748828564,
-    "minDPS": 100097.66666666667,
-    "maxDPS": 191174.85276476183,
-    "enemyAtk": 3214
+    "maxPower": 17205736,
+    "minDPS": 100097,
+    "maxDPS": 191174,
+    "enemyAtk": 6428
   }
 ]
