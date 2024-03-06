@@ -221,7 +221,7 @@
     "atkFactorProjectile": 1,
     "attackInterval": 0,
     "attackspeed": 3,
-    "detectRange": 0,
+    "detectRange": 7,
     "isAutoTriggered": true,
     "triggerBehavior": 0,
     "size": 1,
