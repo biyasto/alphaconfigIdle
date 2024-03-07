@@ -11,15 +11,14 @@
     "lives": 1,
     "hpFactor": 1.5,
     "movementspeed": 2.5,
-    "attackRange": 2,
     "atkFactorTouch": 1,
     "atkFactorProjectile": 0,
-    "attackInterval": 0.3,
+    "attackInterval": 0,
     "attackspeed": 1,
     "detectRange": 0,
     "isAutoTriggered": false,
     "triggerBehavior": 0,
-    "description": "Chases the character, deal damage on touch.",
+    "description": "- Chases the character.\n- Attack if the character is in front of it.",
     "size": 1,
     "shadowRadius": 1,
     "isAir": false,
@@ -65,7 +64,7 @@
     "detectRange": 6,
     "isAutoTriggered": true,
     "triggerBehavior": 0,
-    "description": "- Fire a projectile that deals damage to character on hit.\n- Run away when character gets in detect region.",
+    "description": "- Chases the character.\n- Fire a projectile that deals damage to character on hit.\n- Run away when character gets in detect region.",
     "size": 0.8,
     "shadowRadius": 1,
     "isAir": true,
@@ -88,7 +87,7 @@
     "detectRange": 0,
     "isAutoTriggered": false,
     "triggerBehavior": 0,
-    "description": "- Spawn in group of 3 - 5. Less HP but faster.\n- Chases the character, deal damage on touch.\n- When dead, leave a toxic area that deals damage on second.",
+    "description": "- Spawn in group of 3 - 5. Less HP but faster.\n- Chases the character.\n- Attack if the character is in front of it.\n- When dead, leave a toxic area that deals damage on second.",
     "size": 0.5,
     "shadowRadius": 1,
     "isAir": false
@@ -118,7 +117,7 @@
   },
   {
     "id": 6,
-    "name": "Speed Hurricane",
+    "name": "Cheering Boar",
     "model": "Death",
     "behaviorTree": "06_SpeedHurricane",
     "lives": 1,
@@ -131,7 +130,7 @@
     "detectRange": 0,
     "isAutoTriggered": true,
     "triggerBehavior": 12,
-    "description": "- Randomly choose a direction and keep moving in that direction.\n- Bounce when colliding against the walls. \n- Buff SPD for other enemies within regions. (not stacking but reseting)",
+    "description": "- Randomly choose a direction and keep moving in that direction.\n- Bounce when colliding against the walls. \n- Buff SPD for other enemies within regions. (not stacking but reseting)\n- Other enemies will have speed buff while within region and 1 second after leaving the region.",
     "size": 1,
     "shadowRadius": 1,
     "isAir": false,
@@ -152,7 +151,7 @@
     "detectRange": 0,
     "isAutoTriggered": false,
     "triggerBehavior": 0,
-    "description": "- Chases the character. \n- Each 5 seconds, the spider will jump into the air and drop at player's position after a while.\n- It will jump no matter how far the player is.\n- There will be indicators to notice the player.",
+    "description": "- Chases the character. \n- Attack if the character is in front of it.\n- Each 5 seconds, the spider will jump into the air and drop at player's position after a while.\n- It will jump no matter how far the player is.\n- There will be indicators to notice the player.",
     "size": 1,
     "shadowRadius": 1,
     "isAir": false
@@ -172,7 +171,7 @@
     "detectRange": 0,
     "isAutoTriggered": false,
     "triggerBehavior": 0,
-    "description": "- Every 3 seconds, Mutated Mole will burrow into the ground. \n- After 2 seconds, it will resurface at a location 4 to 6 meters away from the player and shoot out 8 bullets in 8 equally spaced directions.",
+    "description": "- Every 3 seconds, Mutated Mole will burrow into the ground. \n- After 2 seconds, it will resurface at a location 4 to 6 meters away from the player and shoot out 4 bullets in 4 equally spaced directions.",
     "size": 1,
     "shadowRadius": 1,
     "isAir": false
@@ -191,7 +190,7 @@
     "detectRange": 0,
     "isAutoTriggered": false,
     "triggerBehavior": 0,
-    "description": "- Immobile.\n- Super high health.\n- Shoot a bomb to player's position. The bomb can bounce 2 times. Explode immediately when collided."
+    "description": "- Immobile.\n- Super high health.\n- Shoot a bomb to player's position. The bomb can bounce 2 times. Explode immediately when collided.\n- When the bomb exploded, left a fire area for 5 seconds."
   },
   {
     "id": 10,
@@ -224,12 +223,12 @@
     "detectRange": 7,
     "isAutoTriggered": true,
     "triggerBehavior": 0,
-    "size": 1,
-    "description": "- For each 5 seconds, approaches the character with random offset. \n- Throw 3 - 5 Bombs around its position.\n- The bomb will explode when hitting the ground. Dealing damage to player and heal other enemies within region."
+    "description": "- For each 5 seconds, approaches the character with random offset. \n- Throw 3 - 5 Bombs around its position.\n- The bomb will explode when hitting the ground. Dealing damage to player and heal other enemies within region.",
+    "size": 1
   },
   {
     "id": 12,
-    "name": "[Boss]Super Shy Ghost",
+    "name": "[Boss] Demon Boar",
     "model": "02/Werewolf",
     "behaviorTree": "DemonBoarTree",
     "lives": 1,
@@ -251,6 +250,28 @@
   },
   {
     "id": 13,
+    "name": "[Mini] Demon Boar",
+    "model": "02/Werewolf",
+    "behaviorTree": "DemonBoarTree",
+    "lives": 1,
+    "hpFactor": 8,
+    "movementspeed": 2,
+    "atkFactorTouch": 3,
+    "atkFactorProjectile": 3,
+    "attackInterval": 1,
+    "attackspeed": 2,
+    "detectRange": 0,
+    "isAutoTriggered": false,
+    "triggerBehavior": 0,
+    "size": 1.5,
+    "shadowRadius": 4,
+    "isAir": false,
+    "meleeInterval": 1,
+    "isBoss": true,
+    "vfxYOffset": 0.5
+  },
+  {
+    "id": 14,
     "name": "Novice Summoned",
     "model": "string",
     "lives": 1,
@@ -263,10 +284,120 @@
     "detectRange": 0,
     "isAutoTriggered": true,
     "triggerBehavior": 0,
-    "description": "- Run towards player.\n- Explode on death."
+    "description": "- Run towards player.\n- Explode on character touch, on death - deals damage to ANY ENTITIES."
   },
   {
-    "id": 14,
+    "id": 15,
+    "name": "Speed Zombie",
+    "model": "string",
+    "lives": 1,
+    "hpFactor": 1.5,
+    "movementspeed": 2.5,
+    "atkFactorTouch": 1,
+    "atkFactorProjectile": 0,
+    "attackInterval": 0,
+    "attackspeed": 1,
+    "detectRange": 0,
+    "isAutoTriggered": false,
+    "triggerBehavior": 0,
+    "description": "- Chases the character.\n- Attack if the character is in front of it.\n- Each 10 seconds, it will move 2 times faster in 2.5 seconds.\n- The timer only resets when 2.5 seconds buff is over."
+  },
+  {
+    "id": 16,
+    "name": "Persistent Zombie",
+    "model": "string",
+    "lives": 2,
+    "hpFactor": 1.5,
+    "movementspeed": 2.5,
+    "atkFactorTouch": 1,
+    "atkFactorProjectile": 0,
+    "attackInterval": 0,
+    "attackspeed": 1,
+    "detectRange": 0,
+    "isAutoTriggered": false,
+    "description": "- Chases the character.\n- Attack if the character is in front of it.\n- Turn into another color zombie on the first death. (some animation to show the turning phase)\n- The zombie's health will be halved but move 2 times faster, its attack increase 50%."
+  },
+  {
+    "id": 17,
+    "name": "Taunting Enemy",
+    "model": "string",
+    "lives": 1,
+    "hpFactor": 8,
+    "movementspeed": 3,
+    "atkFactorTouch": 1,
+    "atkFactorProjectile": 0,
+    "attackInterval": 0,
+    "attackspeed": 1,
+    "detectRange": 0,
+    "isAutoTriggered": false,
+    "description": "- Chases the character.\n- Attack if the character is in front of it.\n- Being attacked while attacking receive 2 times damage.\n- Character is forced to shoot the taunting enemy when it enters character's shooting range.\n- If there are more than 1 Taunters, the character will shoot randomly to one of them."
+  },
+  {
+    "id": 18,
+    "name": "Sniper",
+    "model": "string",
+    "lives": 1,
+    "hpFactor": 1.5,
+    "movementspeed": 3,
+    "atkFactorTouch": 0.8,
+    "atkFactorProjectile": 0,
+    "attackInterval": 0,
+    "attackspeed": 2,
+    "detectRange": 0,
+    "isAutoTriggered": false,
+    "description": "- Chases the character.\n- When character is in its range, it starts to charge its attack.\n- An shooting indicator will appear, change its direction towards character.\n- After being ready, the indicator will flash for a little bit then it shoots the projectile towards character. Deal damage on touch and can be blocked by obstacles.\n- Run away when character gets in detect region."
+  },
+  {
+    "id": 19,
+    "name": "Erupting Tree",
+    "model": "CuteMushroom",
+    "behaviorTree": "19_EruptingTree",
+    "lives": 1,
+    "hpFactor": 4,
+    "movementspeed": 3.5,
+    "atkFactorTouch": 1,
+    "atkFactorProjectile": 0,
+    "attackInterval": 0,
+    "attackspeed": 2.5,
+    "detectRange": 0,
+    "isAutoTriggered": false,
+    "description": "- Randomly choose a direction and keep moving in that direction. \n- Bounce when colliding against the walls.\n- Throw 3-4 bombs around its position every while. \n- The bomb explodes will leave a poison area dealing damage per second on touch.\n- The poison area will remain for 10 seconds.",
+    "size": 1
+  },
+  {
+    "id": 20,
+    "name": "Shotgun Skull",
+    "model": "string",
+    "lives": 1,
+    "isAutoTriggered": false,
+    "description": "- Chases the character.\r\n- Fire multiple projectiles that deals damage to character on hit.\n- Those projectiles will have random speed from min to max in random direction towards character.\r\n- Run away when character gets in detect region."
+  },
+  {
+    "id": 21,
+    "name": "Trail Enemy",
+    "model": "string",
+    "lives": 1,
+    "isAutoTriggered": false,
+    "description": "- Randomly choose a direction and keep moving in that direction. \n- Bounce when colliding against the walls.\n- Leave a trail that deals damage to player on touch by second. \n- Parts of trail will slowly disappear over time."
+  },
+  {
+    "id": 22,
+    "name": "Curved Bullet Skull",
+    "model": "string",
+    "lives": 1,
+    "isAutoTriggered": false,
+    "description": "- Chases the character.\r\n- Fire a projectile that deals damage to character on hit.\n- The projectile moves curvely around the straight the direction from it to the character.\r\n- Run away when character gets in detect region."
+  },
+  {
+    "id": 23,
+    "name": "Homing Bullet Skull",
+    "model": "string",
+    "lives": 1,
+    "isAutoTriggered": false,
+    "description": "- Chases the character.\r\n- Fire 3-4 projectiles that deals damage to character on hit.\n- Projectiles will follow the character for 5 seconds then dropping to the ground.\r\n- Run away when character gets in detect region."
+  },
+  {
+    "id": 24,
     "name": "Nightmare Lesser Zombie",
     "model": "string",
     "lives": 1,
@@ -275,10 +406,11 @@
     "atkFactorTouch": 1.5,
     "atkFactorProjectile": 0,
     "attackspeed": 1,
+    "isAutoTriggered": false,
     "description": "Chases the character, deal damage on touch."
   },
   {
-    "id": 15,
+    "id": 25,
     "name": "Nightmare Mutated Zombie",
     "model": "string",
     "lives": 1,
@@ -287,10 +419,11 @@
     "atkFactorTouch": 2,
     "atkFactorProjectile": 0,
     "attackspeed": 2,
+    "isAutoTriggered": false,
     "description": "- Chases the character. Tankier but much slower.\n- When character is in attack region, charge & attack in circle region.\n- When charging, destroy all of the projectiles that enter the region."
   },
   {
-    "id": 16,
+    "id": 26,
     "name": "Nightmare Mutated Spiders",
     "model": "string",
     "lives": 1,
@@ -298,10 +431,11 @@
     "movementspeed": 3,
     "atkFactorTouch": 1,
     "atkFactorProjectile": 0,
+    "isAutoTriggered": false,
     "description": "- Spawn in group of 3 - 5. Less HP but faster.\n- Chases the character, deal damage on touch.\n- When dead, leave a toxic area that deals damage on second.\n- The poison is bigger and having slow effect."
   },
   {
-    "id": 17,
+    "id": 27,
     "name": "Nightmare Flaming Skull",
     "model": "string",
     "lives": 1,
@@ -309,10 +443,11 @@
     "movementspeed": 3.2,
     "atkFactorTouch": 1,
     "atkFactorProjectile": 2,
+    "isAutoTriggered": false,
     "description": "- Fire 3 projectiles that deals damage to character on hit.\n- Run away when character gets in detect region."
   },
   {
-    "id": 18,
+    "id": 28,
     "name": "Nightmare Wild Boar",
     "model": "string",
     "lives": 1,
@@ -320,12 +455,14 @@
     "movementspeed": 4,
     "atkFactorTouch": 2.5,
     "atkFactorProjectile": 0,
+    "isAutoTriggered": false,
     "description": "- Chases the character.\n- When character is in attack region, charge & run towards character, deal damage on touch.\n- Leaving a fire trail during dashing."
   },
   {
-    "id": 19,
+    "id": 29,
     "name": "Elite Flaming Skull",
     "model": "string",
-    "lives": 1
+    "lives": 1,
+    "isAutoTriggered": false
   }
 ]
