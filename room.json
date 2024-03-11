@@ -8,50 +8,54 @@
     "maxPower": 2250,
     "minDPS": 25,
     "maxDPS": 25,
-    "enemyAtk": 20
+    "enemyAtk": 20,
+    "type": "MiniBoss"
   },
   {
     "DungeonID": 2,
     "totalRoom": 18,
     "roomScale": 1,
     "bossScale": 2.5,
-    "minPower": 4500,
-    "maxPower": 5625,
-    "minDPS": 50,
-    "maxDPS": 62,
-    "enemyAtk": 22
+    "minPower": 3150,
+    "maxPower": 4275,
+    "minDPS": 35,
+    "maxDPS": 47,
+    "enemyAtk": 22,
+    "type": "Challenge"
   },
   {
     "DungeonID": 3,
     "totalRoom": 19,
     "roomScale": 1,
     "bossScale": 3.5,
-    "minPower": 5400,
-    "maxPower": 8212,
-    "minDPS": 60,
-    "maxDPS": 91,
-    "enemyAtk": 24
+    "minPower": 4950,
+    "maxPower": 7087,
+    "minDPS": 55,
+    "maxDPS": 78,
+    "enemyAtk": 24,
+    "type": "Challenge"
   },
   {
     "DungeonID": 4,
     "totalRoom": 21,
     "roomScale": 1,
     "bossScale": 4.2,
-    "minPower": 9000,
-    "maxPower": 13106,
-    "minDPS": 100,
-    "maxDPS": 145,
-    "enemyAtk": 28
+    "minPower": 8100,
+    "maxPower": 11643,
+    "minDPS": 90,
+    "maxDPS": 129,
+    "enemyAtk": 28,
+    "type": "Boss"
   },
   {
     "DungeonID": 5,
     "totalRoom": 21,
     "roomScale": 1,
     "bossScale": 4.2,
-    "minPower": 9315,
-    "maxPower": 15868,
-    "minDPS": 103,
-    "maxDPS": 176,
+    "minPower": 8415,
+    "maxPower": 14236,
+    "minDPS": 93,
+    "maxDPS": 158,
     "enemyAtk": 29
   },
   {
@@ -59,10 +63,10 @@
     "totalRoom": 21,
     "roomScale": 1,
     "bossScale": 4.3,
-    "minPower": 9757,
-    "maxPower": 17691,
-    "minDPS": 108,
-    "maxDPS": 196,
+    "minPower": 8857,
+    "maxPower": 15975,
+    "minDPS": 98,
+    "maxDPS": 177,
     "enemyAtk": 30
   },
   {
@@ -70,10 +74,10 @@
     "totalRoom": 21,
     "roomScale": 1,
     "bossScale": 4.3,
-    "minPower": 10346,
-    "maxPower": 19191,
-    "minDPS": 114,
-    "maxDPS": 213,
+    "minPower": 9446,
+    "maxPower": 17433,
+    "minDPS": 104,
+    "maxDPS": 193,
     "enemyAtk": 31
   },
   {
@@ -81,10 +85,10 @@
     "totalRoom": 21,
     "roomScale": 1,
     "bossScale": 4.4,
-    "minPower": 19344,
-    "maxPower": 28939,
-    "minDPS": 214,
-    "maxDPS": 321,
+    "minPower": 18444,
+    "maxPower": 27160,
+    "minDPS": 204,
+    "maxDPS": 301,
     "enemyAtk": 36
   },
   {
@@ -92,10 +96,10 @@
     "totalRoom": 21,
     "roomScale": 1,
     "bossScale": 4.4,
-    "minPower": 28531,
-    "maxPower": 43000,
-    "minDPS": 317,
-    "maxDPS": 477,
+    "minPower": 27631,
+    "maxPower": 41211,
+    "minDPS": 307,
+    "maxDPS": 457,
     "enemyAtk": 42
   },
   {
@@ -103,10 +107,10 @@
     "totalRoom": 21,
     "roomScale": 1,
     "bossScale": 4.5,
-    "minPower": 37928,
-    "maxPower": 59428,
-    "minDPS": 421,
-    "maxDPS": 660,
+    "minPower": 37028,
+    "maxPower": 57633,
+    "minDPS": 411,
+    "maxDPS": 640,
     "enemyAtk": 49
   },
   {
@@ -114,10 +118,10 @@
     "totalRoom": 21,
     "roomScale": 1,
     "bossScale": 4.5,
-    "minPower": 47557,
-    "maxPower": 77271,
-    "minDPS": 528,
-    "maxDPS": 858,
+    "minPower": 46657,
+    "maxPower": 75473,
+    "minDPS": 518,
+    "maxDPS": 838,
     "enemyAtk": 57
   },
   {
@@ -125,10 +129,10 @@
     "totalRoom": 21,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 62232,
-    "maxPower": 100867,
-    "minDPS": 691,
-    "maxDPS": 1120,
+    "minPower": 61332,
+    "maxPower": 99068,
+    "minDPS": 681,
+    "maxDPS": 1100,
     "enemyAtk": 67
   },
   {
@@ -136,10 +140,10 @@
     "totalRoom": 21,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 77180,
-    "maxPower": 127613,
-    "minDPS": 857,
-    "maxDPS": 1417,
+    "minPower": 76280,
+    "maxPower": 125814,
+    "minDPS": 847,
+    "maxDPS": 1397,
     "enemyAtk": 78
   },
   {
@@ -147,10 +151,10 @@
     "totalRoom": 21,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 92422,
-    "maxPower": 156228,
-    "minDPS": 1026,
-    "maxDPS": 1735,
+    "minPower": 91522,
+    "maxPower": 154429,
+    "minDPS": 1016,
+    "maxDPS": 1715,
     "enemyAtk": 90
   },
   {
@@ -158,10 +162,10 @@
     "totalRoom": 21,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 107979,
-    "maxPower": 186093,
-    "minDPS": 1199,
-    "maxDPS": 2067,
+    "minPower": 107079,
+    "maxPower": 184293,
+    "minDPS": 1189,
+    "maxDPS": 2047,
     "enemyAtk": 103
   },
   {
@@ -169,10 +173,10 @@
     "totalRoom": 21,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 140356,
-    "maxPower": 233402,
-    "minDPS": 1559,
-    "maxDPS": 2593,
+    "minPower": 139456,
+    "maxPower": 231602,
+    "minDPS": 1549,
+    "maxDPS": 2573,
     "enemyAtk": 124
   },
   {
@@ -180,10 +184,10 @@
     "totalRoom": 22,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 173089,
-    "maxPower": 289790,
-    "minDPS": 1923,
-    "maxDPS": 3219,
+    "minPower": 172189,
+    "maxPower": 287990,
+    "minDPS": 1913,
+    "maxDPS": 3199,
     "enemyAtk": 146
   },
   {
@@ -191,10 +195,10 @@
     "totalRoom": 22,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 206202,
-    "maxPower": 351097,
-    "minDPS": 2291,
-    "maxDPS": 3901,
+    "minPower": 205302,
+    "maxPower": 349297,
+    "minDPS": 2281,
+    "maxDPS": 3881,
     "enemyAtk": 169
   },
   {
@@ -202,10 +206,10 @@
     "totalRoom": 22,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 239713,
-    "maxPower": 415261,
-    "minDPS": 2663,
-    "maxDPS": 4614,
+    "minPower": 238813,
+    "maxPower": 413461,
+    "minDPS": 2653,
+    "maxDPS": 4594,
     "enemyAtk": 195
   },
   {
@@ -213,10 +217,10 @@
     "totalRoom": 22,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 281634,
-    "maxPower": 489264,
-    "minDPS": 3129,
-    "maxDPS": 5436,
+    "minPower": 280734,
+    "maxPower": 487464,
+    "minDPS": 3119,
+    "maxDPS": 5416,
     "enemyAtk": 223
   },
   {
@@ -224,10 +228,10 @@
     "totalRoom": 22,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 323997,
-    "maxPower": 568629,
-    "minDPS": 3599,
-    "maxDPS": 6318,
+    "minPower": 323097,
+    "maxPower": 566829,
+    "minDPS": 3589,
+    "maxDPS": 6298,
     "enemyAtk": 254
   },
   {
@@ -235,10 +239,10 @@
     "totalRoom": 22,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 366822,
-    "maxPower": 651136,
-    "minDPS": 4075,
-    "maxDPS": 7234,
+    "minPower": 365922,
+    "maxPower": 649336,
+    "minDPS": 4065,
+    "maxDPS": 7214,
     "enemyAtk": 286
   },
   {
@@ -246,10 +250,10 @@
     "totalRoom": 22,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 410131,
-    "maxPower": 735699,
-    "minDPS": 4557,
-    "maxDPS": 8174,
+    "minPower": 409231,
+    "maxPower": 733899,
+    "minDPS": 4547,
+    "maxDPS": 8154,
     "enemyAtk": 321
   },
   {
@@ -257,10 +261,10 @@
     "totalRoom": 22,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 478668,
-    "maxPower": 846517,
-    "minDPS": 5318,
-    "maxDPS": 9405,
+    "minPower": 477768,
+    "maxPower": 844717,
+    "minDPS": 5308,
+    "maxDPS": 9385,
     "enemyAtk": 366
   },
   {
@@ -268,10 +272,10 @@
     "totalRoom": 22,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 547730,
-    "maxPower": 970988,
-    "minDPS": 6085,
-    "maxDPS": 10788,
+    "minPower": 546830,
+    "maxPower": 969188,
+    "minDPS": 6075,
+    "maxDPS": 10768,
     "enemyAtk": 413
   },
   {
@@ -279,10 +283,10 @@
     "totalRoom": 22,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 617339,
-    "maxPower": 1102833,
-    "minDPS": 6859,
-    "maxDPS": 12253,
+    "minPower": 616439,
+    "maxPower": 1101033,
+    "minDPS": 6849,
+    "maxDPS": 12233,
     "enemyAtk": 462
   },
   {
@@ -290,10 +294,10 @@
     "totalRoom": 22,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 687516,
-    "maxPower": 1238932,
-    "minDPS": 7639,
-    "maxDPS": 13765,
+    "minPower": 686616,
+    "maxPower": 1237132,
+    "minDPS": 7629,
+    "maxDPS": 13745,
     "enemyAtk": 514
   },
   {
@@ -301,10 +305,10 @@
     "totalRoom": 22,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 769466,
-    "maxPower": 1388932,
-    "minDPS": 8549,
-    "maxDPS": 15432,
+    "minPower": 768566,
+    "maxPower": 1387132,
+    "minDPS": 8539,
+    "maxDPS": 15412,
     "enemyAtk": 571
   },
   {
@@ -312,10 +316,10 @@
     "totalRoom": 22,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 852026,
-    "maxPower": 1546492,
-    "minDPS": 9466,
-    "maxDPS": 17183,
+    "minPower": 851126,
+    "maxPower": 1544692,
+    "minDPS": 9456,
+    "maxDPS": 17163,
     "enemyAtk": 630
   },
   {
@@ -323,10 +327,10 @@
     "totalRoom": 22,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 935216,
-    "maxPower": 1708462,
-    "minDPS": 10391,
-    "maxDPS": 18982,
+    "minPower": 934316,
+    "maxPower": 1706662,
+    "minDPS": 10381,
+    "maxDPS": 18962,
     "enemyAtk": 691
   },
   {
@@ -334,10 +338,10 @@
     "totalRoom": 22,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 1019059,
-    "maxPower": 1873290,
-    "minDPS": 11322,
-    "maxDPS": 20814,
+    "minPower": 1018159,
+    "maxPower": 1871490,
+    "minDPS": 11312,
+    "maxDPS": 20794,
     "enemyAtk": 756
   },
   {
@@ -345,10 +349,10 @@
     "totalRoom": 22,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 1136539,
-    "maxPower": 2073184,
-    "minDPS": 12628,
-    "maxDPS": 23035,
+    "minPower": 1135639,
+    "maxPower": 2071384,
+    "minDPS": 12618,
+    "maxDPS": 23015,
     "enemyAtk": 834
   },
   {
@@ -356,10 +360,10 @@
     "totalRoom": 24,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 1254712,
-    "maxPower": 2291304,
-    "minDPS": 13941,
-    "maxDPS": 25458,
+    "minPower": 1253812,
+    "maxPower": 2289504,
+    "minDPS": 13931,
+    "maxDPS": 25438,
     "enemyAtk": 916
   },
   {
@@ -367,10 +371,10 @@
     "totalRoom": 24,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 1373601,
-    "maxPower": 2519253,
-    "minDPS": 15262,
-    "maxDPS": 27991,
+    "minPower": 1372701,
+    "maxPower": 2517453,
+    "minDPS": 15252,
+    "maxDPS": 27971,
     "enemyAtk": 1000
   },
   {
@@ -378,10 +382,10 @@
     "totalRoom": 24,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 1493225,
-    "maxPower": 2752851,
-    "minDPS": 16591,
-    "maxDPS": 30587,
+    "minPower": 1492325,
+    "maxPower": 2751051,
+    "minDPS": 16581,
+    "maxDPS": 30567,
     "enemyAtk": 1087
   },
   {
@@ -389,10 +393,10 @@
     "totalRoom": 24,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 1627987,
-    "maxPower": 3004412,
-    "minDPS": 18088,
-    "maxDPS": 33382,
+    "minPower": 1627087,
+    "maxPower": 3002612,
+    "minDPS": 18078,
+    "maxDPS": 33362,
     "enemyAtk": 1181
   },
   {
@@ -400,10 +404,10 @@
     "totalRoom": 24,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 1763526,
-    "maxPower": 3265732,
-    "minDPS": 19594,
-    "maxDPS": 36285,
+    "minPower": 1762626,
+    "maxPower": 3263932,
+    "minDPS": 19584,
+    "maxDPS": 36265,
     "enemyAtk": 1278
   },
   {
@@ -411,10 +415,10 @@
     "totalRoom": 24,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 1899864,
-    "maxPower": 3532730,
-    "minDPS": 21109,
-    "maxDPS": 39252,
+    "minPower": 1898964,
+    "maxPower": 3530930,
+    "minDPS": 21099,
+    "maxDPS": 39232,
     "enemyAtk": 1378
   },
   {
@@ -422,10 +426,10 @@
     "totalRoom": 24,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 2037022,
-    "maxPower": 3803387,
-    "minDPS": 22633,
-    "maxDPS": 42259,
+    "minPower": 2036122,
+    "maxPower": 3801587,
+    "minDPS": 22623,
+    "maxDPS": 42239,
     "enemyAtk": 1481
   },
   {
@@ -433,10 +437,10 @@
     "totalRoom": 24,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 2216227,
-    "maxPower": 4117920,
-    "minDPS": 24624,
-    "maxDPS": 45754,
+    "minPower": 2215327,
+    "maxPower": 4116120,
+    "minDPS": 24614,
+    "maxDPS": 45734,
     "enemyAtk": 1602
   },
   {
@@ -444,10 +448,10 @@
     "totalRoom": 24,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 2396295,
-    "maxPower": 4455255,
-    "minDPS": 26625,
-    "maxDPS": 49502,
+    "minPower": 2395395,
+    "maxPower": 4453455,
+    "minDPS": 26615,
+    "maxDPS": 49482,
     "enemyAtk": 1727
   },
   {
@@ -455,10 +459,10 @@
     "totalRoom": 24,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 2577245,
-    "maxPower": 4804872,
-    "minDPS": 28636,
-    "maxDPS": 53387,
+    "minPower": 2576345,
+    "maxPower": 4803072,
+    "minDPS": 28626,
+    "maxDPS": 53367,
     "enemyAtk": 1855
   },
   {
@@ -466,10 +470,10 @@
     "totalRoom": 24,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 2759099,
-    "maxPower": 5161535,
-    "minDPS": 30656,
-    "maxDPS": 57350,
+    "minPower": 2758199,
+    "maxPower": 5159735,
+    "minDPS": 30646,
+    "maxDPS": 57330,
     "enemyAtk": 1987
   },
   {
@@ -477,10 +481,10 @@
     "totalRoom": 24,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 2959454,
-    "maxPower": 5540221,
-    "minDPS": 32882,
-    "maxDPS": 61558,
+    "minPower": 2958554,
+    "maxPower": 5538421,
+    "minDPS": 32872,
+    "maxDPS": 61538,
     "enemyAtk": 2127
   },
   {
@@ -488,10 +492,10 @@
     "totalRoom": 24,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 3160755,
-    "maxPower": 5930865,
-    "minDPS": 35119,
-    "maxDPS": 65898,
+    "minPower": 3159855,
+    "maxPower": 5929065,
+    "minDPS": 35109,
+    "maxDPS": 65878,
     "enemyAtk": 2270
   },
   {
@@ -499,10 +503,10 @@
     "totalRoom": 24,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 3363024,
-    "maxPower": 6328456,
-    "minDPS": 37366,
-    "maxDPS": 70316,
+    "minPower": 3362124,
+    "maxPower": 6326656,
+    "minDPS": 37356,
+    "maxDPS": 70296,
     "enemyAtk": 2418
   },
   {
@@ -510,10 +514,10 @@
     "totalRoom": 24,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 3566280,
-    "maxPower": 6730508,
-    "minDPS": 39625,
-    "maxDPS": 74783,
+    "minPower": 3565380,
+    "maxPower": 6728708,
+    "minDPS": 39615,
+    "maxDPS": 74763,
     "enemyAtk": 2569
   },
   {
@@ -521,10 +525,10 @@
     "totalRoom": 24,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 3819993,
-    "maxPower": 7185247,
-    "minDPS": 42444,
-    "maxDPS": 79836,
+    "minPower": 3819093,
+    "maxPower": 7183447,
+    "minDPS": 42434,
+    "maxDPS": 79816,
     "enemyAtk": 2742
   },
   {
@@ -532,10 +536,10 @@
     "totalRoom": 24,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 4074736,
-    "maxPower": 7667359,
-    "minDPS": 45274,
-    "maxDPS": 85192,
+    "minPower": 4073836,
+    "maxPower": 7665559,
+    "minDPS": 45264,
+    "maxDPS": 85172,
     "enemyAtk": 2919
   },
   {
@@ -543,10 +547,10 @@
     "totalRoom": 24,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 4330531,
-    "maxPower": 8164210,
-    "minDPS": 48117,
-    "maxDPS": 90713,
+    "minPower": 4329631,
+    "maxPower": 8162410,
+    "minDPS": 48107,
+    "maxDPS": 90693,
     "enemyAtk": 3100
   },
   {
@@ -554,10 +558,10 @@
     "totalRoom": 24,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 4587397,
-    "maxPower": 8669502,
-    "minDPS": 50971,
-    "maxDPS": 96327,
+    "minPower": 4586497,
+    "maxPower": 8667702,
+    "minDPS": 50961,
+    "maxDPS": 96307,
     "enemyAtk": 3286
   },
   {
@@ -565,10 +569,10 @@
     "totalRoom": 24,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 4866128,
-    "maxPower": 9200879,
-    "minDPS": 54068,
-    "maxDPS": 102231,
+    "minPower": 4865228,
+    "maxPower": 9199079,
+    "minDPS": 54058,
+    "maxDPS": 102211,
     "enemyAtk": 3481
   },
   {
@@ -576,10 +580,10 @@
     "totalRoom": 24,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 5145974,
-    "maxPower": 9746413,
-    "minDPS": 57177,
-    "maxDPS": 108293,
+    "minPower": 5145074,
+    "maxPower": 9744613,
+    "minDPS": 57167,
+    "maxDPS": 108273,
     "enemyAtk": 3680
   },
   {
@@ -587,10 +591,10 @@
     "totalRoom": 24,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 5426954,
-    "maxPower": 10300160,
-    "minDPS": 60299,
-    "maxDPS": 114446,
+    "minPower": 5426054,
+    "maxPower": 10298360,
+    "minDPS": 60289,
+    "maxDPS": 114426,
     "enemyAtk": 3884
   },
   {
@@ -598,10 +602,10 @@
     "totalRoom": 24,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 5709091,
-    "maxPower": 10859171,
-    "minDPS": 63434,
-    "maxDPS": 120657,
+    "minPower": 5708191,
+    "maxPower": 10857371,
+    "minDPS": 63424,
+    "maxDPS": 120637,
     "enemyAtk": 4093
   },
   {
@@ -609,10 +613,10 @@
     "totalRoom": 24,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 6050094,
-    "maxPower": 11479679,
-    "minDPS": 67223,
-    "maxDPS": 127551,
+    "minPower": 6049194,
+    "maxPower": 11477879,
+    "minDPS": 67213,
+    "maxDPS": 127531,
     "enemyAtk": 4326
   },
   {
@@ -620,10 +624,10 @@
     "totalRoom": 24,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 6392296,
-    "maxPower": 12132135,
-    "minDPS": 71025,
-    "maxDPS": 134801,
+    "minPower": 6391396,
+    "maxPower": 12130335,
+    "minDPS": 71015,
+    "maxDPS": 134781,
     "enemyAtk": 4565
   },
   {
@@ -631,10 +635,10 @@
     "totalRoom": 24,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 6735716,
-    "maxPower": 12801783,
-    "minDPS": 74841,
-    "maxDPS": 142242,
+    "minPower": 6734816,
+    "maxPower": 12799983,
+    "minDPS": 74831,
+    "maxDPS": 142222,
     "enemyAtk": 4808
   },
   {
@@ -642,10 +646,10 @@
     "totalRoom": 24,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 7080378,
-    "maxPower": 13481269,
-    "minDPS": 78670,
-    "maxDPS": 149791,
+    "minPower": 7079478,
+    "maxPower": 13479469,
+    "minDPS": 78660,
+    "maxDPS": 149771,
     "enemyAtk": 5057
   },
   {
@@ -653,10 +657,10 @@
     "totalRoom": 24,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 7450267,
-    "maxPower": 14190901,
-    "minDPS": 82780,
-    "maxDPS": 157676,
+    "minPower": 7449367,
+    "maxPower": 14189101,
+    "minDPS": 82770,
+    "maxDPS": 157656,
     "enemyAtk": 5316
   },
   {
@@ -664,10 +668,10 @@
     "totalRoom": 24,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 7821439,
-    "maxPower": 14916889,
-    "minDPS": 86904,
-    "maxDPS": 165743,
+    "minPower": 7820539,
+    "maxPower": 14915089,
+    "minDPS": 86894,
+    "maxDPS": 165723,
     "enemyAtk": 5580
   },
   {
@@ -675,10 +679,10 @@
     "totalRoom": 24,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 8193914,
-    "maxPower": 15652358,
-    "minDPS": 91043,
-    "maxDPS": 173915,
+    "minPower": 8193014,
+    "maxPower": 15650558,
+    "minDPS": 91033,
+    "maxDPS": 173895,
     "enemyAtk": 5850
   },
   {
@@ -686,10 +690,10 @@
     "totalRoom": 24,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 8567714,
-    "maxPower": 16393893,
-    "minDPS": 95196,
-    "maxDPS": 182154,
+    "minPower": 8566814,
+    "maxPower": 16392093,
+    "minDPS": 95186,
+    "maxDPS": 182134,
     "enemyAtk": 6125
   },
   {
@@ -697,10 +701,10 @@
     "totalRoom": 25,
     "roomScale": 1,
     "bossScale": 5,
-    "minPower": 9008790,
-    "maxPower": 17205736,
-    "minDPS": 100097,
-    "maxDPS": 191174,
+    "minPower": 9007890,
+    "maxPower": 17203936,
+    "minDPS": 100087,
+    "maxDPS": 191154,
     "enemyAtk": 6428
   }
 ]
