@@ -1,7 +1,8 @@
 [
   {
     "id": 0,
-    "isAutoTriggered": false
+    "isAutoTriggered": false,
+    "DmgOnTouch": false
   },
   {
     "id": 1,
@@ -24,7 +25,8 @@
     "shadowRadius": 1,
     "isAir": false,
     "meleeInterval": 1,
-    "vfxYOffset": 0.5
+    "vfxYOffset": 0.5,
+    "DmgOnTouch": false
   },
   {
     "id": 2,
@@ -47,7 +49,8 @@
     "shadowRadius": 1,
     "isAir": false,
     "meleeInterval": 1,
-    "vfxYOffset": 0.5
+    "vfxYOffset": 0.5,
+    "DmgOnTouch": false
   },
   {
     "id": 3,
@@ -70,7 +73,8 @@
     "shadowRadius": 1,
     "isAir": true,
     "meleeInterval": 1,
-    "vfxYOffset": 0.5
+    "vfxYOffset": 0.5,
+    "DmgOnTouch": false
   },
   {
     "id": 4,
@@ -91,7 +95,8 @@
     "description": "- Spawn in group of 3 - 5. Less HP but faster.\n- Chases the character.\n- Attack if the character is in front of it.\n- When dead, leave a toxic area that deals damage on second.",
     "size": 0.5,
     "shadowRadius": 1,
-    "isAir": false
+    "isAir": false,
+    "DmgOnTouch": false
   },
   {
     "id": 5,
@@ -114,7 +119,8 @@
     "shadowRadius": 1,
     "isAir": false,
     "meleeInterval": 1,
-    "vfxYOffset": 0.5
+    "vfxYOffset": 0.5,
+    "DmgOnTouch": false
   },
   {
     "id": 6,
@@ -135,7 +141,8 @@
     "size": 1,
     "shadowRadius": 1,
     "isAir": false,
-    "meleeInterval": 1
+    "meleeInterval": 1,
+    "DmgOnTouch": false
   },
   {
     "id": 7,
@@ -155,7 +162,8 @@
     "description": "- Chases the character. \n- Attack if the character is in front of it.\n- Each 5 seconds, the spider will jump into the air and drop at player's position after a while.\n- It will jump no matter how far the player is.\n- There will be indicators to notice the player.",
     "size": 1,
     "shadowRadius": 1,
-    "isAir": false
+    "isAir": false,
+    "DmgOnTouch": false
   },
   {
     "id": 8,
@@ -175,7 +183,8 @@
     "description": "- Every 3 seconds, Mutated Mole will burrow into the ground. \n- After 2 seconds, it will resurface at a location 4 to 6 meters away from the player and shoot out 4 bullets in 4 equally spaced directions.",
     "size": 1,
     "shadowRadius": 1,
-    "isAir": false
+    "isAir": false,
+    "DmgOnTouch": false
   },
   {
     "id": 9,
@@ -191,7 +200,8 @@
     "detectRange": 0,
     "isAutoTriggered": false,
     "triggerBehavior": 0,
-    "description": "- Immobile.\n- Super high health.\n- Shoot a bomb to player's position. The bomb can bounce 2 times. Explode immediately when collided.\n- When the bomb exploded, left a fire area for 5 seconds."
+    "description": "- Immobile.\n- Super high health.\n- Shoot a bomb to player's position. The bomb can bounce 2 times. Explode immediately when collided.\n- When the bomb exploded, left a fire area for 5 seconds.",
+    "DmgOnTouch": false
   },
   {
     "id": 10,
@@ -207,7 +217,8 @@
     "detectRange": 10,
     "isAutoTriggered": true,
     "triggerBehavior": 0,
-    "description": "- Stay at the spawn location.\n- Run away when character gets in detect region.\n- For seconds, spawn 2 - 3 Novice Summoned. "
+    "description": "- Stay at the spawn location.\n- Run away when character gets in detect region.\n- For seconds, spawn 2 - 3 Novice Summoned. ",
+    "DmgOnTouch": false
   },
   {
     "id": 11,
@@ -225,7 +236,8 @@
     "isAutoTriggered": true,
     "triggerBehavior": 0,
     "description": "- For each 5 seconds, approaches the character with random offset. \n- Throw 3 - 5 Bombs around its position.\n- The bomb will explode when hitting the ground. Dealing damage to player and heal other enemies within region.",
-    "size": 1
+    "size": 1,
+    "DmgOnTouch": false
   },
   {
     "id": 12,
@@ -247,7 +259,8 @@
     "isAir": false,
     "meleeInterval": 1,
     "isBoss": true,
-    "vfxYOffset": 0.5
+    "vfxYOffset": 0.5,
+    "DmgOnTouch": false
   },
   {
     "id": 13,
@@ -269,7 +282,8 @@
     "isAir": false,
     "meleeInterval": 1,
     "isBoss": true,
-    "vfxYOffset": 0.5
+    "vfxYOffset": 0.5,
+    "DmgOnTouch": false
   },
   {
     "id": 14,
@@ -285,7 +299,8 @@
     "detectRange": 0,
     "isAutoTriggered": true,
     "triggerBehavior": 0,
-    "description": "- Run towards player.\n- Explode on character touch, on death - deals damage to ANY ENTITIES."
+    "description": "- Run towards player.\n- Explode on character touch, on death - deals damage to ANY ENTITIES.",
+    "DmgOnTouch": false
   },
   {
     "id": 15,
@@ -301,7 +316,8 @@
     "detectRange": 0,
     "isAutoTriggered": false,
     "triggerBehavior": 0,
-    "description": "- Chases the character.\n- Attack if the character is in front of it.\n- Each 10 seconds, it will move 2 times faster in 2.5 seconds.\n- The timer only resets when 2.5 seconds buff is over."
+    "description": "- Chases the character.\n- Attack if the character is in front of it.\n- Each 10 seconds, it will move 2 times faster in 2.5 seconds.\n- The timer only resets when 2.5 seconds buff is over.",
+    "DmgOnTouch": false
   },
   {
     "id": 16,
@@ -316,7 +332,8 @@
     "attackspeed": 1,
     "detectRange": 0,
     "isAutoTriggered": false,
-    "description": "- Chases the character.\n- Attack if the character is in front of it.\n- Turn into another color zombie on the first death. (some animation to show the turning phase)\n- The zombie's health will be halved but move 2 times faster, its attack increase 50%."
+    "description": "- Chases the character.\n- Attack if the character is in front of it.\n- Turn into another color zombie on the first death. (some animation to show the turning phase)\n- The zombie's health will be halved but move 2 times faster, its attack increase 50%.",
+    "DmgOnTouch": false
   },
   {
     "id": 17,
@@ -331,7 +348,8 @@
     "attackspeed": 1,
     "detectRange": 0,
     "isAutoTriggered": false,
-    "description": "- Chases the character.\n- Attack if the character is in front of it.\n- Being attacked while attacking receive 2 times damage.\n- Character is forced to shoot the taunting enemy when it enters character's shooting range.\n- If there are more than 1 Taunters, the character will shoot randomly to one of them."
+    "description": "- Chases the character.\n- Attack if the character is in front of it.\n- Being attacked while attacking receive 2 times damage.\n- Character is forced to shoot the taunting enemy when it enters character's shooting range.\n- If there are more than 1 Taunters, the character will shoot randomly to one of them.",
+    "DmgOnTouch": false
   },
   {
     "id": 18,
@@ -346,7 +364,8 @@
     "attackspeed": 2,
     "detectRange": 0,
     "isAutoTriggered": false,
-    "description": "- Chases the character.\n- When character is in its range, it starts to charge its attack.\n- An shooting indicator will appear, change its direction towards character.\n- After being ready, the indicator will flash for a little bit then it shoots the projectile towards character. Deal damage on touch and can be blocked by obstacles.\n- Run away when character gets in detect region."
+    "description": "- Chases the character.\n- When character is in its range, it starts to charge its attack.\n- An shooting indicator will appear, change its direction towards character.\n- After being ready, the indicator will flash for a little bit then it shoots the projectile towards character. Deal damage on touch and can be blocked by obstacles.\n- Run away when character gets in detect region.",
+    "DmgOnTouch": false
   },
   {
     "id": 19,
@@ -363,7 +382,8 @@
     "detectRange": 0,
     "isAutoTriggered": false,
     "description": "- Randomly choose a direction and keep moving in that direction. \n- Bounce when colliding against the walls.\n- Throw 3-4 bombs around its position every while. \n- The bomb explodes will leave a poison area dealing damage per second on touch.\n- The poison area will remain for 10 seconds.",
-    "size": 1
+    "size": 1,
+    "DmgOnTouch": false
   },
   {
     "id": 20,
@@ -371,7 +391,8 @@
     "model": "string",
     "lives": 1,
     "isAutoTriggered": false,
-    "description": "- Chases the character.\r\n- Fire multiple projectiles that deals damage to character on hit.\n- Those projectiles will have random speed from min to max in random direction towards character.\r\n- Run away when character gets in detect region."
+    "description": "- Chases the character.\r\n- Fire multiple projectiles that deals damage to character on hit.\n- Those projectiles will have random speed from min to max in random direction towards character.\r\n- Run away when character gets in detect region.",
+    "DmgOnTouch": false
   },
   {
     "id": 21,
@@ -379,7 +400,8 @@
     "model": "string",
     "lives": 1,
     "isAutoTriggered": false,
-    "description": "- Randomly choose a direction and keep moving in that direction. \n- Bounce when colliding against the walls.\n- Leave a trail that deals damage to player on touch by second. \n- Parts of trail will slowly disappear over time."
+    "description": "- Randomly choose a direction and keep moving in that direction. \n- Bounce when colliding against the walls.\n- Leave a trail that deals damage to player on touch by second. \n- Parts of trail will slowly disappear over time.",
+    "DmgOnTouch": false
   },
   {
     "id": 22,
@@ -387,7 +409,8 @@
     "model": "string",
     "lives": 1,
     "isAutoTriggered": false,
-    "description": "- Chases the character.\r\n- Fire a projectile that deals damage to character on hit.\n- The projectile moves curvely around the straight the direction from it to the character.\r\n- Run away when character gets in detect region."
+    "description": "- Chases the character.\r\n- Fire a projectile that deals damage to character on hit.\n- The projectile moves curvely around the straight the direction from it to the character.\r\n- Run away when character gets in detect region.",
+    "DmgOnTouch": false
   },
   {
     "id": 23,
@@ -395,7 +418,8 @@
     "model": "string",
     "lives": 1,
     "isAutoTriggered": false,
-    "description": "- Chases the character.\r\n- Fire 3-4 projectiles that deals damage to character on hit.\n- Projectiles will follow the character for 5 seconds then dropping to the ground.\r\n- Run away when character gets in detect region."
+    "description": "- Chases the character.\r\n- Fire 3-4 projectiles that deals damage to character on hit.\n- Projectiles will follow the character for 5 seconds then dropping to the ground.\r\n- Run away when character gets in detect region.",
+    "DmgOnTouch": false
   },
   {
     "id": 24,
@@ -408,7 +432,8 @@
     "atkFactorProjectile": 0,
     "attackspeed": 1,
     "isAutoTriggered": false,
-    "description": "Chases the character, deal damage on touch."
+    "description": "Chases the character, deal damage on touch.",
+    "DmgOnTouch": false
   },
   {
     "id": 25,
@@ -421,7 +446,8 @@
     "atkFactorProjectile": 0,
     "attackspeed": 2,
     "isAutoTriggered": false,
-    "description": "- Chases the character. Tankier but much slower.\n- When character is in attack region, charge & attack in circle region.\n- When charging, destroy all of the projectiles that enter the region."
+    "description": "- Chases the character. Tankier but much slower.\n- When character is in attack region, charge & attack in circle region.\n- When charging, destroy all of the projectiles that enter the region.",
+    "DmgOnTouch": false
   },
   {
     "id": 26,
@@ -433,7 +459,8 @@
     "atkFactorTouch": 1,
     "atkFactorProjectile": 0,
     "isAutoTriggered": false,
-    "description": "- Spawn in group of 3 - 5. Less HP but faster.\n- Chases the character, deal damage on touch.\n- When dead, leave a toxic area that deals damage on second.\n- The poison is bigger and having slow effect."
+    "description": "- Spawn in group of 3 - 5. Less HP but faster.\n- Chases the character, deal damage on touch.\n- When dead, leave a toxic area that deals damage on second.\n- The poison is bigger and having slow effect.",
+    "DmgOnTouch": false
   },
   {
     "id": 27,
@@ -445,7 +472,8 @@
     "atkFactorTouch": 1,
     "atkFactorProjectile": 2,
     "isAutoTriggered": false,
-    "description": "- Fire 3 projectiles that deals damage to character on hit.\n- Run away when character gets in detect region."
+    "description": "- Fire 3 projectiles that deals damage to character on hit.\n- Run away when character gets in detect region.",
+    "DmgOnTouch": false
   },
   {
     "id": 28,
@@ -457,13 +485,38 @@
     "atkFactorTouch": 2.5,
     "atkFactorProjectile": 0,
     "isAutoTriggered": false,
-    "description": "- Chases the character.\n- When character is in attack region, charge & run towards character, deal damage on touch.\n- Leaving a fire trail during dashing."
+    "description": "- Chases the character.\n- When character is in attack region, charge & run towards character, deal damage on touch.\n- Leaving a fire trail during dashing.",
+    "DmgOnTouch": false
   },
   {
     "id": 29,
     "name": "Elite Flaming Skull",
     "model": "string",
     "lives": 1,
-    "isAutoTriggered": false
+    "isAutoTriggered": false,
+    "DmgOnTouch": false
+  },
+  {
+    "id": 30,
+    "name": "[World Boss] The Death",
+    "model": "DeathMage",
+    "behaviorTree": "TheDeathTree",
+    "lives": 1,
+    "hpFactor": 1,
+    "movementspeed": 3.5,
+    "atkFactorTouch": 3,
+    "atkFactorProjectile": 3,
+    "attackInterval": 1,
+    "attackspeed": 2,
+    "detectRange": 0,
+    "isAutoTriggered": false,
+    "triggerBehavior": 0,
+    "size": 1.5,
+    "shadowRadius": 4,
+    "isAir": false,
+    "meleeInterval": 1,
+    "isBoss": true,
+    "vfxYOffset": 0.5,
+    "DmgOnTouch": false
   }
 ]
