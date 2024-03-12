@@ -40,7 +40,7 @@
   },
   {
     "id": 8,
-    "name": "SMG-Thompson",
+    "name": "SMG-Vector",
     "rarityID": 2,
     "rarity": "Rare",
     "typeID": 1,
@@ -108,6 +108,42 @@
     "rarity": "Common",
     "typeID": 5,
     "type": "Boots",
+    "Meelee/Range": "N/A"
+  },
+  {
+    "id": 41,
+    "name": "Soldier helmet",
+    "rarityID": 2,
+    "rarity": "Rare",
+    "typeID": 4,
+    "type": "Helmet",
+    "Meelee/Range": "N/A"
+  },
+  {
+    "id": 42,
+    "name": "Soldier armor",
+    "rarityID": 2,
+    "rarity": "Rare",
+    "typeID": 2,
+    "type": "Armor",
+    "Meelee/Range": "N/A"
+  },
+  {
+    "id": 43,
+    "name": "Soldier boot",
+    "rarityID": 2,
+    "rarity": "Rare",
+    "typeID": 5,
+    "type": "Boots",
+    "Meelee/Range": "N/A"
+  },
+  {
+    "id": 44,
+    "name": "Soldier glove",
+    "rarityID": 2,
+    "rarity": "Rare",
+    "typeID": 3,
+    "type": "Gloves",
     "Meelee/Range": "N/A"
   }
 ]
