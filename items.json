@@ -21,15 +21,6 @@
     "Meelee/Range": "Range"
   },
   {
-    "id": 6,
-    "name": "Machete",
-    "rarityID": 1,
-    "rarity": "Common",
-    "typeID": 1,
-    "type": "Weapon",
-    "Meelee/Range": "Melee"
-  },
-  {
     "id": 7,
     "name": "Pistol-Anaconda",
     "rarityID": 2,
