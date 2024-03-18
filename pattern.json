@@ -4,552 +4,818 @@
     "MonsterID": 1,
     "MonsterName": "Lesser Zombie",
     "Rate": 1,
-    "maxOnScreen": 40
+    "maxOnScreen": 30
   },
   {
     "PatternID": 2,
+    "MonsterID": 1,
+    "MonsterName": "Lesser Zombie",
+    "Rate": 0.75,
+    "maxOnScreen": 30
+  },
+  {
+    "PatternID": 2,
+    "MonsterID": 2,
+    "MonsterName": "Mutated Zombie",
+    "Rate": 0.25,
+    "maxOnScreen": 3
+  },
+  {
+    "PatternID": 3,
     "MonsterID": 1,
     "MonsterName": "Lesser Zombie",
     "Rate": 0.8,
-    "maxOnScreen": 35
-  },
-  {
-    "PatternID": 2,
-    "MonsterID": 2,
-    "MonsterName": "Mutated Zombie",
-    "Rate": 0.2,
-    "maxOnScreen": 3
-  },
-  {
-    "PatternID": 3,
-    "MonsterID": 1,
-    "MonsterName": "Lesser Zombie",
-    "Rate": 0.9,
     "maxOnScreen": 30
   },
   {
     "PatternID": 3,
-    "MonsterID": 2,
-    "MonsterName": "Mutated Zombie",
-    "Rate": 0.1,
-    "maxOnScreen": 3
-  },
-  {
-    "PatternID": 3,
     "MonsterID": 3,
     "MonsterName": "Flaming Skull",
-    "Rate": 0.05,
-    "maxOnScreen": 10
+    "Rate": 0.2,
+    "maxOnScreen": 3
   },
   {
     "PatternID": 4,
     "MonsterID": 1,
     "MonsterName": "Lesser Zombie",
-    "Rate": 0.9,
-    "maxOnScreen": 33
+    "Rate": 0.55,
+    "maxOnScreen": 30
+  },
+  {
+    "PatternID": 4,
+    "MonsterID": 2,
+    "MonsterName": "Mutated Zombie",
+    "Rate": 0.25,
+    "maxOnScreen": 3
   },
   {
     "PatternID": 4,
     "MonsterID": 3,
     "MonsterName": "Flaming Skull",
-    "Rate": 0.1,
-    "maxOnScreen": 10
+    "Rate": 0.2,
+    "maxOnScreen": 3
   },
   {
     "PatternID": 5,
     "MonsterID": 1,
     "MonsterName": "Lesser Zombie",
-    "Rate": 0.7,
-    "maxOnScreen": 35
+    "Rate": 0.3,
+    "maxOnScreen": 30
+  },
+  {
+    "PatternID": 5,
+    "MonsterID": 2,
+    "MonsterName": "Mutated Zombie",
+    "Rate": 0.5,
+    "maxOnScreen": 3
   },
   {
     "PatternID": 5,
     "MonsterID": 3,
     "MonsterName": "Flaming Skull",
     "Rate": 0.2,
-    "maxOnScreen": 10
-  },
-  {
-    "PatternID": 5,
-    "MonsterID": 6,
-    "MonsterName": "Cheering Boar",
-    "Rate": 0.1,
-    "maxOnScreen": 5
+    "maxOnScreen": 4
   },
   {
     "PatternID": 6,
+    "MonsterID": 1,
+    "MonsterName": "Lesser Zombie",
+    "Rate": 0.7,
+    "maxOnScreen": 30
+  },
+  {
+    "PatternID": 6,
+    "MonsterID": 3,
+    "MonsterName": "Flaming Skull",
+    "Rate": 0.3,
+    "maxOnScreen": 4
+  },
+  {
+    "PatternID": 7,
     "MonsterID": 1,
     "MonsterName": "Lesser Zombie",
     "Rate": 0.6,
-    "maxOnScreen": 35
-  },
-  {
-    "PatternID": 6,
-    "MonsterID": 5,
-    "MonsterName": "Wild Boar",
-    "Rate": 0.3,
-    "maxOnScreen": 5
-  },
-  {
-    "PatternID": 6,
-    "MonsterID": 6,
-    "MonsterName": "Cheering Boar",
-    "Rate": 0.1,
-    "maxOnScreen": 5
-  },
-  {
-    "PatternID": 7,
-    "MonsterID": 5,
-    "MonsterName": "Wild Boar",
-    "Rate": 0.5,
-    "maxOnScreen": 15
+    "maxOnScreen": 30
   },
   {
     "PatternID": 7,
     "MonsterID": 3,
     "MonsterName": "Flaming Skull",
+    "Rate": 0.2,
+    "maxOnScreen": 4
+  },
+  {
+    "PatternID": 7,
+    "MonsterID": 5,
+    "MonsterName": "Wild Boar",
+    "Rate": 0.2,
+    "maxOnScreen": 6
+  },
+  {
+    "PatternID": 8,
+    "MonsterID": 1,
+    "MonsterName": "Lesser Zombie",
     "Rate": 0.4,
-    "maxOnScreen": 10
-  },
-  {
-    "PatternID": 7,
-    "MonsterID": 6,
-    "MonsterName": "Cheering Boar",
-    "Rate": 0.1,
-    "maxOnScreen": 5
-  },
-  {
-    "PatternID": 8,
-    "MonsterID": 1,
-    "MonsterName": "Lesser Zombie",
-    "Rate": 0.7,
     "maxOnScreen": 30
   },
   {
     "PatternID": 8,
     "MonsterID": 2,
     "MonsterName": "Mutated Zombie",
-    "Rate": 0.1,
-    "maxOnScreen": 5
+    "Rate": 0.2,
+    "maxOnScreen": 4
   },
   {
     "PatternID": 8,
     "MonsterID": 3,
     "MonsterName": "Flaming Skull",
     "Rate": 0.2,
-    "maxOnScreen": 10
+    "maxOnScreen": 4
   },
   {
-    "PatternID": 9,
-    "MonsterID": 2,
-    "MonsterName": "Mutated Zombie",
-    "Rate": 0.3,
-    "maxOnScreen": 10
-  },
-  {
-    "PatternID": 9,
-    "MonsterID": 3,
-    "MonsterName": "Flaming Skull",
-    "Rate": 0.5,
-    "maxOnScreen": 10
-  },
-  {
-    "PatternID": 9,
-    "MonsterID": 4,
-    "MonsterName": "Mutated Spider",
-    "Rate": 0.2,
-    "maxOnScreen": 50
-  },
-  {
-    "PatternID": 10,
-    "MonsterID": 1,
-    "MonsterName": "Lesser Zombie",
-    "Rate": 0.7,
-    "maxOnScreen": 30
-  },
-  {
-    "PatternID": 10,
-    "MonsterID": 4,
-    "MonsterName": "Mutated Spider",
-    "Rate": 0.2,
-    "maxOnScreen": 30
-  },
-  {
-    "PatternID": 10,
+    "PatternID": 8,
     "MonsterID": 5,
     "MonsterName": "Wild Boar",
-    "Rate": 0.1,
-    "maxOnScreen": 5
+    "Rate": 0.2,
+    "maxOnScreen": 6
   },
   {
-    "PatternID": 11,
-    "MonsterID": 8,
-    "MonsterName": "Mutated Mole",
-    "Rate": 0.05,
-    "maxOnScreen": 5
-  },
-  {
-    "PatternID": 11,
+    "PatternID": 9,
     "MonsterID": 1,
     "MonsterName": "Lesser Zombie",
-    "Rate": 0.95,
-    "maxOnScreen": 35
-  },
-  {
-    "PatternID": 12,
-    "MonsterID": 8,
-    "MonsterName": "Mutated Mole",
-    "Rate": 0.15,
-    "maxOnScreen": 5
-  },
-  {
-    "PatternID": 12,
-    "MonsterID": 4,
-    "MonsterName": "Mutated Spider",
-    "Rate": 0.5,
+    "Rate": 0.3,
     "maxOnScreen": 30
   },
   {
-    "PatternID": 12,
+    "PatternID": 9,
+    "MonsterID": 2,
+    "MonsterName": "Mutated Zombie",
+    "Rate": 0.1,
+    "maxOnScreen": 4
+  },
+  {
+    "PatternID": 9,
+    "MonsterID": 3,
+    "MonsterName": "Flaming Skull",
+    "Rate": 0.2,
+    "maxOnScreen": 4
+  },
+  {
+    "PatternID": 9,
+    "MonsterID": 5,
+    "MonsterName": "Wild Boar",
+    "Rate": 0.4,
+    "maxOnScreen": 6
+  },
+  {
+    "PatternID": 10,
     "MonsterID": 1,
     "MonsterName": "Lesser Zombie",
     "Rate": 0.35,
     "maxOnScreen": 30
   },
   {
-    "PatternID": 13,
-    "MonsterID": 8,
-    "MonsterName": "Mutated Mole",
+    "PatternID": 10,
+    "MonsterID": 2,
+    "MonsterName": "Mutated Zombie",
+    "Rate": 0.25,
+    "maxOnScreen": 4
+  },
+  {
+    "PatternID": 10,
+    "MonsterID": 3,
+    "MonsterName": "Flaming Skull",
+    "Rate": 0.25,
+    "maxOnScreen": 4
+  },
+  {
+    "PatternID": 10,
+    "MonsterID": 5,
+    "MonsterName": "Wild Boar",
+    "Rate": 0.15,
+    "maxOnScreen": 6
+  },
+  {
+    "PatternID": 11,
+    "MonsterID": 1,
+    "MonsterName": "Lesser Zombie",
+    "Rate": 0.5,
+    "maxOnScreen": 30
+  },
+  {
+    "PatternID": 11,
+    "MonsterID": 2,
+    "MonsterName": "Mutated Zombie",
+    "Rate": 0.25,
+    "maxOnScreen": 4
+  },
+  {
+    "PatternID": 11,
+    "MonsterID": 5,
+    "MonsterName": "Wild Boar",
+    "Rate": 0.25,
+    "maxOnScreen": 6
+  },
+  {
+    "PatternID": 12,
+    "MonsterID": 1,
+    "MonsterName": "Lesser Zombie",
+    "Rate": 0.45,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 12,
+    "MonsterID": 2,
+    "MonsterName": "Mutated Zombie",
     "Rate": 0.2,
     "maxOnScreen": 5
   },
   {
-    "PatternID": 13,
-    "MonsterID": 2,
-    "MonsterName": "Mutated Zombie",
-    "Rate": 0.3,
-    "maxOnScreen": 6
+    "PatternID": 12,
+    "MonsterID": 8,
+    "MonsterName": "Mutated Mole",
+    "Rate": 0.15,
+    "maxOnScreen": 2
+  },
+  {
+    "PatternID": 12,
+    "MonsterID": 5,
+    "MonsterName": "Wild Boar",
+    "Rate": 0.2,
+    "maxOnScreen": 7
   },
   {
     "PatternID": 13,
     "MonsterID": 1,
     "MonsterName": "Lesser Zombie",
+    "Rate": 0.7,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 13,
+    "MonsterID": 3,
+    "MonsterName": "Flaming Skull",
+    "Rate": 0.15,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 13,
+    "MonsterID": 8,
+    "MonsterName": "Mutated Mole",
+    "Rate": 0.15,
+    "maxOnScreen": 2
+  },
+  {
+    "PatternID": 14,
+    "MonsterID": 1,
+    "MonsterName": "Lesser Zombie",
     "Rate": 0.5,
-    "maxOnScreen": 30
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 14,
+    "MonsterID": 3,
+    "MonsterName": "Flaming Skull",
+    "Rate": 0.15,
+    "maxOnScreen": 5
   },
   {
     "PatternID": 14,
     "MonsterID": 8,
     "MonsterName": "Mutated Mole",
-    "Rate": 0.2,
-    "maxOnScreen": 6
+    "Rate": 0.15,
+    "maxOnScreen": 2
   },
   {
     "PatternID": 14,
-    "MonsterID": 7,
-    "MonsterName": "Jumping Spider",
-    "Rate": 0.5,
-    "maxOnScreen": 10
-  },
-  {
-    "PatternID": 14,
-    "MonsterID": 1,
-    "MonsterName": "Lesser Zombie",
-    "Rate": 0.5,
-    "maxOnScreen": 30
-  },
-  {
-    "PatternID": 15,
-    "MonsterID": 7,
-    "MonsterName": "Jumping Spider",
-    "Rate": 0.3,
-    "maxOnScreen": 10
-  },
-  {
-    "PatternID": 15,
-    "MonsterID": 1,
-    "MonsterName": "Lesser Zombie",
-    "Rate": 0.5,
-    "maxOnScreen": 30
-  },
-  {
-    "PatternID": 15,
     "MonsterID": 2,
     "MonsterName": "Mutated Zombie",
     "Rate": 0.2,
-    "maxOnScreen": 10
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 15,
+    "MonsterID": 1,
+    "MonsterName": "Lesser Zombie",
+    "Rate": 0.55,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 15,
+    "MonsterID": 5,
+    "MonsterName": "Wild Boar",
+    "Rate": 0.3,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 15,
+    "MonsterID": 8,
+    "MonsterName": "Mutated Mole",
+    "Rate": 0.15,
+    "maxOnScreen": 2
   },
   {
     "PatternID": 16,
-    "MonsterID": 7,
-    "MonsterName": "Jumping Spider",
+    "MonsterID": 1,
+    "MonsterName": "Lesser Zombie",
     "Rate": 0.4,
-    "maxOnScreen": 10
+    "maxOnScreen": 45
   },
   {
     "PatternID": 16,
     "MonsterID": 3,
     "MonsterName": "Flaming Skull",
-    "Rate": 0.4,
-    "maxOnScreen": 10
+    "Rate": 0.15,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 16,
+    "MonsterID": 8,
+    "MonsterName": "Mutated Mole",
+    "Rate": 0.15,
+    "maxOnScreen": 2
   },
   {
     "PatternID": 16,
     "MonsterID": 2,
     "MonsterName": "Mutated Zombie",
     "Rate": 0.2,
-    "maxOnScreen": 15
-  },
-  {
-    "PatternID": 17,
-    "MonsterID": 6,
-    "MonsterName": "Cheering Boar",
-    "Rate": 0.1,
-    "maxOnScreen": 4
-  },
-  {
-    "PatternID": 17,
-    "MonsterID": 2,
-    "MonsterName": "Mutated Zombie",
-    "Rate": 0.2,
     "maxOnScreen": 5
+  },
+  {
+    "PatternID": 16,
+    "MonsterID": 5,
+    "MonsterName": "Wild Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 7
   },
   {
     "PatternID": 17,
     "MonsterID": 1,
     "MonsterName": "Lesser Zombie",
-    "Rate": 0.7,
-    "maxOnScreen": 30
+    "Rate": 0.4,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 17,
+    "MonsterID": 3,
+    "MonsterName": "Flaming Skull",
+    "Rate": 0.1,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 17,
+    "MonsterID": 8,
+    "MonsterName": "Mutated Mole",
+    "Rate": 0.25,
+    "maxOnScreen": 3
+  },
+  {
+    "PatternID": 17,
+    "MonsterID": 2,
+    "MonsterName": "Mutated Zombie",
+    "Rate": 0.15,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 17,
+    "MonsterID": 5,
+    "MonsterName": "Wild Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 7
   },
   {
     "PatternID": 18,
     "MonsterID": 1,
     "MonsterName": "Lesser Zombie",
-    "Rate": 0.5,
-    "maxOnScreen": 30
+    "Rate": 0.3,
+    "maxOnScreen": 45
   },
   {
     "PatternID": 18,
-    "MonsterID": 5,
-    "MonsterName": "Wild Boar",
-    "Rate": 0.5,
-    "maxOnScreen": 6
+    "MonsterID": 3,
+    "MonsterName": "Flaming Skull",
+    "Rate": 0.25,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 18,
+    "MonsterID": 2,
+    "MonsterName": "Mutated Zombie",
+    "Rate": 0.15,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 18,
+    "MonsterID": 4,
+    "MonsterName": "Mutated Spider",
+    "Rate": 0.3,
+    "maxOnScreen": 5
   },
   {
     "PatternID": 19,
     "MonsterID": 1,
     "MonsterName": "Lesser Zombie",
-    "Rate": 0.2,
-    "maxOnScreen": 20
+    "Rate": 0.35,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 19,
+    "MonsterID": 2,
+    "MonsterName": "Mutated Zombie",
+    "Rate": 0.15,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 19,
+    "MonsterID": 4,
+    "MonsterName": "Mutated Spider",
+    "Rate": 0.25,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 19,
+    "MonsterID": 8,
+    "MonsterName": "Mutated Mole",
+    "Rate": 0.15,
+    "maxOnScreen": 3
   },
   {
     "PatternID": 19,
     "MonsterID": 5,
     "MonsterName": "Wild Boar",
-    "Rate": 0.5,
-    "maxOnScreen": 10
+    "Rate": 0.1,
+    "maxOnScreen": 7
   },
   {
-    "PatternID": 19,
+    "PatternID": 20,
+    "MonsterID": 1,
+    "MonsterName": "Lesser Zombie",
+    "Rate": 0.35,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 20,
+    "MonsterID": 4,
+    "MonsterName": "Mutated Spider",
+    "Rate": 0.25,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 20,
     "MonsterID": 3,
     "MonsterName": "Flaming Skull",
-    "Rate": 0.3,
-    "maxOnScreen": 10
+    "Rate": 0.2,
+    "maxOnScreen": 5
   },
   {
     "PatternID": 20,
     "MonsterID": 8,
     "MonsterName": "Mutated Mole",
-    "Rate": 0.4,
-    "maxOnScreen": 4
-  },
-  {
-    "PatternID": 20,
-    "MonsterID": 1,
-    "MonsterName": "Lesser Zombie",
-    "Rate": 0.6,
-    "maxOnScreen": 40
-  },
-  {
-    "PatternID": 21,
-    "MonsterID": 1,
-    "MonsterName": "Lesser Zombie",
-    "Rate": 0.4,
-    "maxOnScreen": 40
-  },
-  {
-    "PatternID": 21,
-    "MonsterID": 2,
-    "MonsterName": "Mutated Zombie",
-    "Rate": 0.3,
-    "maxOnScreen": 5
-  },
-  {
-    "PatternID": 21,
-    "MonsterID": 8,
-    "MonsterName": "Mutated Mole",
-    "Rate": 0.3,
-    "maxOnScreen": 4
-  },
-  {
-    "PatternID": 22,
-    "MonsterID": 1,
-    "MonsterName": "Lesser Zombie",
-    "Rate": 0.4,
-    "maxOnScreen": 30
-  },
-  {
-    "PatternID": 22,
-    "MonsterID": 5,
-    "MonsterName": "Wild Boar",
-    "Rate": 0.3,
-    "maxOnScreen": 5
-  },
-  {
-    "PatternID": 22,
-    "MonsterID": 8,
-    "MonsterName": "Mutated Mole",
-    "Rate": 0.3,
-    "maxOnScreen": 4
-  },
-  {
-    "PatternID": 23,
-    "MonsterID": 1,
-    "MonsterName": "Lesser Zombie",
-    "Rate": 0.4,
-    "maxOnScreen": 15
-  },
-  {
-    "PatternID": 23,
-    "MonsterID": 2,
-    "MonsterName": "Mutated Zombie",
-    "Rate": 0.1,
-    "maxOnScreen": 5
-  },
-  {
-    "PatternID": 23,
-    "MonsterID": 3,
-    "MonsterName": "Flaming Skull",
-    "Rate": 0.2,
-    "maxOnScreen": 5
-  },
-  {
-    "PatternID": 23,
-    "MonsterID": 4,
-    "MonsterName": "Mutated Spider",
-    "Rate": 0.1,
-    "maxOnScreen": 15
-  },
-  {
-    "PatternID": 23,
-    "MonsterID": 5,
-    "MonsterName": "Wild Boar",
-    "Rate": 0.1,
-    "maxOnScreen": 5
-  },
-  {
-    "PatternID": 23,
-    "MonsterID": 8,
-    "MonsterName": "Mutated Mole",
-    "Rate": 0.1,
-    "maxOnScreen": 5
-  },
-  {
-    "PatternID": 24,
-    "MonsterID": 4,
-    "MonsterName": "Mutated Spider",
-    "Rate": 0.6,
-    "maxOnScreen": 40
-  },
-  {
-    "PatternID": 24,
-    "MonsterID": 8,
-    "MonsterName": "Mutated Mole",
-    "Rate": 0.2,
-    "maxOnScreen": 5
-  },
-  {
-    "PatternID": 24,
-    "MonsterID": 2,
-    "MonsterName": "Mutated Zombie",
-    "Rate": 0.2,
-    "maxOnScreen": 5
-  },
-  {
-    "PatternID": 25,
-    "MonsterID": 4,
-    "MonsterName": "Mutated Spider",
-    "Rate": 0.8,
-    "maxOnScreen": 50
-  },
-  {
-    "PatternID": 25,
-    "MonsterID": 7,
-    "MonsterName": "Jumping Spider",
-    "Rate": 0.2,
-    "maxOnScreen": 5
-  },
-  {
-    "PatternID": 26,
-    "MonsterID": 4,
-    "MonsterName": "Mutated Spider",
-    "Rate": 0.6,
-    "maxOnScreen": 40
-  },
-  {
-    "PatternID": 26,
-    "MonsterID": 7,
-    "MonsterName": "Jumping Spider",
-    "Rate": 0.4,
-    "maxOnScreen": 10
-  },
-  {
-    "PatternID": 27,
-    "MonsterID": 4,
-    "MonsterName": "Mutated Spider",
-    "Rate": 0.7,
-    "maxOnScreen": 40
-  },
-  {
-    "PatternID": 27,
-    "MonsterID": 7,
-    "MonsterName": "Jumping Spider",
-    "Rate": 0.2,
-    "maxOnScreen": 6
-  },
-  {
-    "PatternID": 27,
-    "MonsterID": 11,
-    "MonsterName": "Healing Spider",
-    "Rate": 0.1,
-    "maxOnScreen": 4
-  },
-  {
-    "PatternID": 28,
-    "MonsterID": 4,
-    "MonsterName": "Mutated Spider",
-    "Rate": 0.6,
-    "maxOnScreen": 40
-  },
-  {
-    "PatternID": 28,
-    "MonsterID": 7,
-    "MonsterName": "Jumping Spider",
-    "Rate": 0.1,
-    "maxOnScreen": 5
-  },
-  {
-    "PatternID": 28,
-    "MonsterID": 11,
-    "MonsterName": "Healing Spider",
-    "Rate": 0.1,
-    "maxOnScreen": 5
-  },
-  {
-    "PatternID": 28,
-    "MonsterID": 3,
-    "MonsterName": "Flaming Skull",
     "Rate": 0.2,
     "maxOnScreen": 3
+  },
+  {
+    "PatternID": 21,
+    "MonsterID": 1,
+    "MonsterName": "Lesser Zombie",
+    "Rate": 0.3,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 21,
+    "MonsterID": 2,
+    "MonsterName": "Mutated Zombie",
+    "Rate": 0.1,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 21,
+    "MonsterID": 4,
+    "MonsterName": "Mutated Spider",
+    "Rate": 0.15,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 21,
+    "MonsterID": 8,
+    "MonsterName": "Mutated Mole",
+    "Rate": 0.15,
+    "maxOnScreen": 3
+  },
+  {
+    "PatternID": 21,
+    "MonsterID": 5,
+    "MonsterName": "Wild Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 21,
+    "MonsterID": 3,
+    "MonsterName": "Flaming Skull",
+    "Rate": 0.2,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 22,
+    "MonsterID": 1,
+    "MonsterName": "Lesser Zombie",
+    "Rate": 0.25,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 22,
+    "MonsterID": 2,
+    "MonsterName": "Mutated Zombie",
+    "Rate": 0.1,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 22,
+    "MonsterID": 4,
+    "MonsterName": "Mutated Spider",
+    "Rate": 0.15,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 22,
+    "MonsterID": 8,
+    "MonsterName": "Mutated Mole",
+    "Rate": 0.2,
+    "maxOnScreen": 3
+  },
+  {
+    "PatternID": 22,
+    "MonsterID": 5,
+    "MonsterName": "Wild Boar",
+    "Rate": 0.05,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 22,
+    "MonsterID": 3,
+    "MonsterName": "Flaming Skull",
+    "Rate": 0.25,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 23,
+    "MonsterID": 1,
+    "MonsterName": "Lesser Zombie",
+    "Rate": 0.3,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 23,
+    "MonsterID": 4,
+    "MonsterName": "Mutated Spider",
+    "Rate": 0.25,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 23,
+    "MonsterID": 7,
+    "MonsterName": "Jumping Spider",
+    "Rate": 0.25,
+    "maxOnScreen": 4
+  },
+  {
+    "PatternID": 23,
+    "MonsterID": 3,
+    "MonsterName": "Flaming Skull",
+    "Rate": 0.2,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 24,
+    "MonsterID": 1,
+    "MonsterName": "Lesser Zombie",
+    "Rate": 0.25,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 24,
+    "MonsterID": 8,
+    "MonsterName": "Mutated Mole",
+    "Rate": 0.2,
+    "maxOnScreen": 3
+  },
+  {
+    "PatternID": 24,
+    "MonsterID": 7,
+    "MonsterName": "Jumping Spider",
+    "Rate": 0.2,
+    "maxOnScreen": 4
+  },
+  {
+    "PatternID": 24,
+    "MonsterID": 5,
+    "MonsterName": "Wild Boar",
+    "Rate": 0.2,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 24,
+    "MonsterID": 2,
+    "MonsterName": "Mutated Zombie",
+    "Rate": 0.15,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 25,
+    "MonsterID": 1,
+    "MonsterName": "Lesser Zombie",
+    "Rate": 0.2,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 25,
+    "MonsterID": 4,
+    "MonsterName": "Mutated Spider",
+    "Rate": 0.2,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 25,
+    "MonsterID": 7,
+    "MonsterName": "Jumping Spider",
+    "Rate": 0.2,
+    "maxOnScreen": 4
+  },
+  {
+    "PatternID": 25,
+    "MonsterID": 5,
+    "MonsterName": "Wild Boar",
+    "Rate": 0.2,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 25,
+    "MonsterID": 8,
+    "MonsterName": "Mutated Mole",
+    "Rate": 0.2,
+    "maxOnScreen": 3
+  },
+  {
+    "PatternID": 26,
+    "MonsterID": 1,
+    "MonsterName": "Lesser Zombie",
+    "Rate": 0.35,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 26,
+    "MonsterID": 2,
+    "MonsterName": "Mutated Zombie",
+    "Rate": 0.15,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 26,
+    "MonsterID": 5,
+    "MonsterName": "Wild Boar",
+    "Rate": 0.15,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 26,
+    "MonsterID": 7,
+    "MonsterName": "Jumping Spider",
+    "Rate": 0.15,
+    "maxOnScreen": 4
+  },
+  {
+    "PatternID": 26,
+    "MonsterID": 11,
+    "MonsterName": "Healing Spider",
+    "Rate": 0.2,
+    "maxOnScreen": 2
+  },
+  {
+    "PatternID": 27,
+    "MonsterID": 1,
+    "MonsterName": "Lesser Zombie",
+    "Rate": 0.25,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 27,
+    "MonsterID": 2,
+    "MonsterName": "Mutated Zombie",
+    "Rate": 0.15,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 27,
+    "MonsterID": 4,
+    "MonsterName": "Mutated Spider",
+    "Rate": 0.15,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 27,
+    "MonsterID": 7,
+    "MonsterName": "Jumping Spider",
+    "Rate": 0.15,
+    "maxOnScreen": 4
+  },
+  {
+    "PatternID": 27,
+    "MonsterID": 11,
+    "MonsterName": "Healing Spider",
+    "Rate": 0.15,
+    "maxOnScreen": 2
+  },
+  {
+    "PatternID": 27,
+    "MonsterID": 3,
+    "MonsterName": "Flaming Skull",
+    "Rate": 0.15,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 28,
+    "MonsterID": 4,
+    "MonsterName": "Mutated Spider",
+    "Rate": 0.25,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 28,
+    "MonsterID": 7,
+    "MonsterName": "Jumping Spider",
+    "Rate": 0.15,
+    "maxOnScreen": 4
+  },
+  {
+    "PatternID": 28,
+    "MonsterID": 11,
+    "MonsterName": "Healing Spider",
+    "Rate": 0.15,
+    "maxOnScreen": 2
+  },
+  {
+    "PatternID": 28,
+    "MonsterID": 3,
+    "MonsterName": "Flaming Skull",
+    "Rate": 0.15,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 28,
+    "MonsterID": 8,
+    "MonsterName": "Mutated Mole",
+    "Rate": 0.15,
+    "maxOnScreen": 3
+  },
+  {
+    "PatternID": 28,
+    "MonsterID": 2,
+    "MonsterName": "Mutated Zombie",
+    "Rate": 0.15,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 29,
+    "MonsterID": 4,
+    "MonsterName": "Mutated Spider",
+    "Rate": 0.15,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 29,
+    "MonsterID": 7,
+    "MonsterName": "Jumping Spider",
+    "Rate": 0.15,
+    "maxOnScreen": 4
+  },
+  {
+    "PatternID": 29,
+    "MonsterID": 11,
+    "MonsterName": "Healing Spider",
+    "Rate": 0.15,
+    "maxOnScreen": 2
+  },
+  {
+    "PatternID": 29,
+    "MonsterID": 3,
+    "MonsterName": "Flaming Skull",
+    "Rate": 0.2,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 29,
+    "MonsterID": 8,
+    "MonsterName": "Mutated Mole",
+    "Rate": 0.2,
+    "maxOnScreen": 3
+  },
+  {
+    "PatternID": 29,
+    "MonsterID": 2,
+    "MonsterName": "Mutated Zombie",
+    "Rate": 0.15,
+    "maxOnScreen": 5
   }
 ]
