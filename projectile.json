@@ -11,7 +11,7 @@
     "livetime": 1.3,
     "ignorewhencollidewithhero": false,
     "ignoredamagetohero": false,
-    "speedbullet": 10,
+    "speedbullet": 7,
     "modelSize": 1,
     "collisionSize": 1
   },
