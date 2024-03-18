@@ -1,7 +1,7 @@
 [
   {
     "DungeonID": 1,
-    "totalRoom": 17,
+    "totalRoom": 12,
     "roomScale": 1,
     "bossScale": 1.2,
     "minPower": 2250,
@@ -13,7 +13,7 @@
   },
   {
     "DungeonID": 2,
-    "totalRoom": 18,
+    "totalRoom": 14,
     "roomScale": 1,
     "bossScale": 2.5,
     "minPower": 3150,
@@ -25,7 +25,7 @@
   },
   {
     "DungeonID": 3,
-    "totalRoom": 19,
+    "totalRoom": 16,
     "roomScale": 1,
     "bossScale": 3.5,
     "minPower": 4950,
@@ -37,7 +37,7 @@
   },
   {
     "DungeonID": 4,
-    "totalRoom": 21,
+    "totalRoom": 17,
     "roomScale": 1,
     "bossScale": 4.2,
     "minPower": 8100,
