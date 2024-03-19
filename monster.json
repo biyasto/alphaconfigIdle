@@ -357,13 +357,13 @@
     "lives": 1,
     "hpFactor": 3,
     "movementspeed": 3,
-    "attackRange": 4,
+    "attackRange": 8,
     "atkFactorTouch": 0,
     "atkFactorProjectile": 0.5,
     "attackspeed": 2,
     "detectRange": 2,
     "description": "- Chases the character.\r\n- Fire multiple projectiles that deals damage to character on hit.\n- Those projectiles will have random speed from min to max in random direction towards character.\r\n- Run away when character gets in detect region.",
-    "size": 1,
+    "size": 0.8,
     "DmgOnTouch": false
   },
   {
