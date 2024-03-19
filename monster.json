@@ -41,7 +41,7 @@
     "detectRange": 0,
     "description": "- Chases the character. Tankier but much slower.\n- When character is in attack region, charge & attack in circle region.",
     "size": 1.5,
-    "shadowRadius": 1.5,
+    "shadowRadius": 1,
     "isAir": false,
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
