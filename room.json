@@ -1,7 +1,7 @@
 [
   {
     "DungeonID": 1,
-    "totalRoom": 12,
+    "totalRoom": 15,
     "roomScale": 1,
     "bossScale": 1.2,
     "minPower": 2250,
@@ -13,7 +13,7 @@
   },
   {
     "DungeonID": 2,
-    "totalRoom": 14,
+    "totalRoom": 15,
     "roomScale": 1,
     "bossScale": 2.5,
     "minPower": 3150,
@@ -37,7 +37,7 @@
   },
   {
     "DungeonID": 4,
-    "totalRoom": 17,
+    "totalRoom": 16,
     "roomScale": 1,
     "bossScale": 4.2,
     "minPower": 8100,
@@ -49,7 +49,7 @@
   },
   {
     "DungeonID": 5,
-    "totalRoom": 21,
+    "totalRoom": 17,
     "roomScale": 1,
     "bossScale": 4.2,
     "minPower": 8415,
@@ -60,7 +60,7 @@
   },
   {
     "DungeonID": 6,
-    "totalRoom": 21,
+    "totalRoom": 17,
     "roomScale": 1,
     "bossScale": 4.3,
     "minPower": 8857,
@@ -71,7 +71,7 @@
   },
   {
     "DungeonID": 7,
-    "totalRoom": 21,
+    "totalRoom": 18,
     "roomScale": 1,
     "bossScale": 4.3,
     "minPower": 9446,
@@ -82,7 +82,7 @@
   },
   {
     "DungeonID": 8,
-    "totalRoom": 21,
+    "totalRoom": 18,
     "roomScale": 1,
     "bossScale": 4.4,
     "minPower": 18444,
@@ -93,7 +93,7 @@
   },
   {
     "DungeonID": 9,
-    "totalRoom": 21,
+    "totalRoom": 19,
     "roomScale": 1,
     "bossScale": 4.4,
     "minPower": 27631,
@@ -104,7 +104,7 @@
   },
   {
     "DungeonID": 10,
-    "totalRoom": 21,
+    "totalRoom": 19,
     "roomScale": 1,
     "bossScale": 4.5,
     "minPower": 37028,
@@ -115,7 +115,7 @@
   },
   {
     "DungeonID": 11,
-    "totalRoom": 21,
+    "totalRoom": 20,
     "roomScale": 1,
     "bossScale": 4.5,
     "minPower": 46657,
@@ -126,7 +126,7 @@
   },
   {
     "DungeonID": 12,
-    "totalRoom": 21,
+    "totalRoom": 20,
     "roomScale": 1,
     "bossScale": 5,
     "minPower": 61332,
