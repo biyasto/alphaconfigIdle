@@ -8,7 +8,7 @@
     "name": "Red round projectile",
     "type": "SphereSkill",
     "model": "Weapon/FireArrow",
-    "livetime": 1.3,
+    "livetime": 2,
     "ignorewhencollidewithhero": false,
     "ignoredamagetohero": false,
     "speedbullet": 7,
@@ -141,10 +141,15 @@
   },
   {
     "id": 14,
-    "type": "Straight",
-    "model": "Weapon/Sphere",
-    "livetime": 30,
-    "speedbullet": 10
+    "name": "Shotgun Skull Projectile",
+    "type": "SphereSkill",
+    "model": "Weapon/FireArrow",
+    "livetime": 1,
+    "ignorewhencollidewithhero": false,
+    "ignoredamagetohero": false,
+    "speedbullet": 10,
+    "modelSize": 1,
+    "collisionSize": 1
   },
   {
     "id": 15,
