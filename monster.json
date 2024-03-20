@@ -2,7 +2,7 @@
   {
     "id": 0,
     "DmgOnTouch": false,
-    "IsBoss": false
+    "isBoss": false
   },
   {
     "id": 1,
@@ -25,7 +25,7 @@
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
     "DmgOnTouch": false,
-    "IsBoss": false
+    "isBoss": false
   },
   {
     "id": 2,
@@ -48,7 +48,7 @@
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
     "DmgOnTouch": false,
-    "IsBoss": false
+    "isBoss": false
   },
   {
     "id": 3,
@@ -71,7 +71,7 @@
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
     "DmgOnTouch": false,
-    "IsBoss": false
+    "isBoss": false
   },
   {
     "id": 4,
@@ -92,7 +92,7 @@
     "shadowRadius": 1,
     "isAir": false,
     "DmgOnTouch": false,
-    "IsBoss": false
+    "isBoss": false
   },
   {
     "id": 5,
@@ -115,7 +115,7 @@
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
     "DmgOnTouch": false,
-    "IsBoss": false
+    "isBoss": false
   },
   {
     "id": 6,
@@ -136,7 +136,7 @@
     "isAir": false,
     "meleeInterval": 1,
     "DmgOnTouch": false,
-    "IsBoss": false
+    "isBoss": false
   },
   {
     "id": 7,
@@ -157,7 +157,7 @@
     "shadowRadius": 1,
     "isAir": false,
     "DmgOnTouch": false,
-    "IsBoss": false
+    "isBoss": false
   },
   {
     "id": 8,
@@ -177,7 +177,7 @@
     "shadowRadius": 1,
     "isAir": false,
     "DmgOnTouch": false,
-    "IsBoss": false
+    "isBoss": false
   },
   {
     "id": 9,
@@ -193,7 +193,7 @@
     "detectRange": 0,
     "description": "- Immobile.\n- Super high health.\n- Shoot a bomb to player's position. The bomb can bounce 2 times. Explode immediately when collided.\n- When the bomb exploded, left a fire area for 5 seconds.",
     "DmgOnTouch": false,
-    "IsBoss": false
+    "isBoss": false
   },
   {
     "id": 10,
@@ -209,7 +209,7 @@
     "detectRange": 10,
     "description": "- Stay at the spawn location.\n- Run away when character gets in detect region.\n- For seconds, spawn 2 - 3 Novice Summoned. ",
     "DmgOnTouch": false,
-    "IsBoss": false
+    "isBoss": false
   },
   {
     "id": 11,
@@ -227,7 +227,7 @@
     "description": "- For each 5 seconds, approaches the character with random offset. \n- Throw 3 - 5 Bombs around its position.\n- The bomb will explode when hitting the ground. Dealing damage to player and heal other enemies within region.",
     "size": 1,
     "DmgOnTouch": false,
-    "IsBoss": false
+    "isBoss": false
   },
   {
     "id": 12,
@@ -248,7 +248,7 @@
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
     "DmgOnTouch": false,
-    "IsBoss": true
+    "isBoss": true
   },
   {
     "id": 13,
@@ -269,7 +269,7 @@
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
     "DmgOnTouch": false,
-    "IsBoss": true
+    "isBoss": true
   },
   {
     "id": 14,
@@ -285,7 +285,7 @@
     "detectRange": 0,
     "description": "- Run towards player.\n- Explode on character touch, on death - deals damage to ANY ENTITIES.",
     "DmgOnTouch": false,
-    "IsBoss": false
+    "isBoss": false
   },
   {
     "id": 15,
@@ -301,7 +301,7 @@
     "detectRange": 0,
     "description": "- Chases the character.\n- Attack if the character is in front of it.\n- Each 10 seconds, it will move 2 times faster in 2.5 seconds.\n- The timer only resets when 2.5 seconds buff is over.",
     "DmgOnTouch": false,
-    "IsBoss": false
+    "isBoss": false
   },
   {
     "id": 16,
@@ -317,7 +317,7 @@
     "detectRange": 0,
     "description": "- Chases the character.\n- Attack if the character is in front of it.\n- Turn into another color zombie on the first death. (some animation to show the turning phase)\n- The zombie's health will be halved but move 2 times faster, its attack increase 50%.",
     "DmgOnTouch": false,
-    "IsBoss": false
+    "isBoss": false
   },
   {
     "id": 17,
@@ -333,7 +333,7 @@
     "detectRange": 0,
     "description": "- Chases the character.\n- Attack if the character is in front of it.\n- Being attacked while attacking receive 2 times damage.\n- Character is forced to shoot the taunting enemy when it enters character's shooting range.\n- If there are more than 1 Taunters, the character will shoot randomly to one of them.",
     "DmgOnTouch": false,
-    "IsBoss": false
+    "isBoss": false
   },
   {
     "id": 18,
@@ -349,7 +349,7 @@
     "detectRange": 0,
     "description": "- Chases the character.\n- When character is in its range, it starts to charge its attack.\n- An shooting indicator will appear, change its direction towards character.\n- After being ready, the indicator will flash for a little bit then it shoots the projectile towards character. Deal damage on touch and can be blocked by obstacles.\n- Run away when character gets in detect region.",
     "DmgOnTouch": false,
-    "IsBoss": false
+    "isBoss": false
   },
   {
     "id": 19,
@@ -367,7 +367,7 @@
     "description": "- Randomly choose a direction and keep moving in that direction. \n- Bounce when colliding against the walls.\n- Throw 3-4 bombs around its position every while. \n- The bomb explodes will leave a poison area dealing damage per second on touch.\n- The poison area will remain for 10 seconds.",
     "size": 1,
     "DmgOnTouch": false,
-    "IsBoss": false
+    "isBoss": false
   },
   {
     "id": 20,
@@ -385,7 +385,7 @@
     "description": "- Chases the character.\r\n- Fire multiple projectiles that deals damage to character on hit.\n- Those projectiles will have random speed from min to max in random direction towards character.\r\n- Run away when character gets in detect region.",
     "size": 0.8,
     "DmgOnTouch": false,
-    "IsBoss": false
+    "isBoss": false
   },
   {
     "id": 21,
@@ -394,7 +394,7 @@
     "lives": 1,
     "description": "- Randomly choose a direction and keep moving in that direction. \n- Bounce when colliding against the walls.\n- Leave a trail that deals damage to player on touch by second. \n- Parts of trail will slowly disappear over time.",
     "DmgOnTouch": false,
-    "IsBoss": false
+    "isBoss": false
   },
   {
     "id": 22,
@@ -403,7 +403,7 @@
     "lives": 1,
     "description": "- Chases the character.\r\n- Fire a projectile that deals damage to character on hit.\n- The projectile moves curvely around the straight the direction from it to the character.\r\n- Run away when character gets in detect region.",
     "DmgOnTouch": false,
-    "IsBoss": false
+    "isBoss": false
   },
   {
     "id": 23,
@@ -412,7 +412,7 @@
     "lives": 1,
     "description": "- Chases the character.\r\n- Fire 3-4 projectiles that deals damage to character on hit.\n- Projectiles will follow the character for 5 seconds then dropping to the ground.\r\n- Run away when character gets in detect region.",
     "DmgOnTouch": false,
-    "IsBoss": false
+    "isBoss": false
   },
   {
     "id": 24,
@@ -426,7 +426,7 @@
     "attackspeed": 1,
     "description": "Chases the character, deal damage on touch.",
     "DmgOnTouch": false,
-    "IsBoss": false
+    "isBoss": false
   },
   {
     "id": 25,
@@ -440,7 +440,7 @@
     "attackspeed": 2,
     "description": "- Chases the character. Tankier but much slower.\n- When character is in attack region, charge & attack in circle region.\n- When charging, destroy all of the projectiles that enter the region.",
     "DmgOnTouch": false,
-    "IsBoss": false
+    "isBoss": false
   },
   {
     "id": 26,
@@ -453,7 +453,7 @@
     "atkFactorProjectile": 0,
     "description": "- Spawn in group of 3 - 5. Less HP but faster.\n- Chases the character, deal damage on touch.\n- When dead, leave a toxic area that deals damage on second.\n- The poison is bigger and having slow effect.",
     "DmgOnTouch": false,
-    "IsBoss": false
+    "isBoss": false
   },
   {
     "id": 27,
@@ -466,7 +466,7 @@
     "atkFactorProjectile": 2,
     "description": "- Fire 3 projectiles that deals damage to character on hit.\n- Run away when character gets in detect region.",
     "DmgOnTouch": false,
-    "IsBoss": false
+    "isBoss": false
   },
   {
     "id": 28,
@@ -479,7 +479,7 @@
     "atkFactorProjectile": 0,
     "description": "- Chases the character.\n- When character is in attack region, charge & run towards character, deal damage on touch.\n- Leaving a fire trail during dashing.",
     "DmgOnTouch": false,
-    "IsBoss": false
+    "isBoss": false
   },
   {
     "id": 29,
@@ -487,7 +487,7 @@
     "model": "string",
     "lives": 1,
     "DmgOnTouch": false,
-    "IsBoss": false
+    "isBoss": false
   },
   {
     "id": 30,
@@ -508,7 +508,7 @@
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
     "DmgOnTouch": false,
-    "IsBoss": false
+    "isBoss": false
   },
   {
     "id": 31,
@@ -531,6 +531,6 @@
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
     "DmgOnTouch": false,
-    "IsBoss": false
+    "isBoss": false
   }
 ]
