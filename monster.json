@@ -521,7 +521,7 @@
     "attackRange": 6,
     "atkFactorTouch": 0.8,
     "atkFactorProjectile": 1.5,
-    "attackInterval": 2,
+    "attackInterval": 1.5,
     "attackspeed": 2,
     "detectRange": 0,
     "description": "- Chases the character. Tankier but much slower.\n- When character is in attack region, charge & attack in circle region.",
