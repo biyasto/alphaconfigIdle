@@ -513,7 +513,7 @@
   {
     "id": 31,
     "name": "Enhanced Zombie",
-    "model": "CuteGhost",
+    "model": "CuteShadow",
     "behaviorTree": "31_EnhancedZombie",
     "lives": 1,
     "hpFactor": 6,
