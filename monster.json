@@ -302,7 +302,7 @@
     "attackspeed": 1,
     "detectRange": 0,
     "description": "- Chases the character.\n- Attack if the character is in front of it.\n- Each 10 seconds, it will move 2 times faster in 2.5 seconds.\n- The timer only resets when 2.5 seconds buff is over.",
-    "size": 1,
+    "size": 0.7,
     "shadowRadius": 1,
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
