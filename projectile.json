@@ -33,7 +33,7 @@
     "name": "Demon Boar Projectile",
     "type": "Straight",
     "model": "Weapon/FireOrbSharpRed",
-    "livetime": 30,
+    "livetime": 10,
     "ignorewhencollidewithhero": true,
     "ignoredamagetohero": false,
     "ignoreobstacle": true,
