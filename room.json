@@ -9,7 +9,9 @@
     "minDPS": 25,
     "maxDPS": 25,
     "enemyAtk": 20,
-    "type": "MiniBoss"
+    "isBoss": true,
+    "enemyId": 13,
+    "mapgenid": 0
   },
   {
     "DungeonID": 2,
@@ -21,7 +23,8 @@
     "minDPS": 35,
     "maxDPS": 47,
     "enemyAtk": 22,
-    "type": "Challenge"
+    "isBoss": false,
+    "mapgenid": 0
   },
   {
     "DungeonID": 3,
@@ -33,7 +36,8 @@
     "minDPS": 55,
     "maxDPS": 78,
     "enemyAtk": 24,
-    "type": "Challenge"
+    "isBoss": false,
+    "mapgenid": 0
   },
   {
     "DungeonID": 4,
@@ -45,7 +49,9 @@
     "minDPS": 90,
     "maxDPS": 129,
     "enemyAtk": 28,
-    "type": "Boss"
+    "isBoss": true,
+    "enemyId": 12,
+    "mapgenid": 0
   },
   {
     "DungeonID": 5,
@@ -56,7 +62,8 @@
     "maxPower": 14236,
     "minDPS": 93,
     "maxDPS": 158,
-    "enemyAtk": 29
+    "enemyAtk": 29,
+    "mapgenid": 1
   },
   {
     "DungeonID": 6,
@@ -67,7 +74,8 @@
     "maxPower": 15975,
     "minDPS": 98,
     "maxDPS": 177,
-    "enemyAtk": 30
+    "enemyAtk": 30,
+    "mapgenid": 1
   },
   {
     "DungeonID": 7,
@@ -78,7 +86,8 @@
     "maxPower": 17433,
     "minDPS": 104,
     "maxDPS": 193,
-    "enemyAtk": 31
+    "enemyAtk": 31,
+    "mapgenid": 1
   },
   {
     "DungeonID": 8,
@@ -89,7 +98,8 @@
     "maxPower": 27160,
     "minDPS": 204,
     "maxDPS": 301,
-    "enemyAtk": 36
+    "enemyAtk": 36,
+    "mapgenid": 1
   },
   {
     "DungeonID": 9,
