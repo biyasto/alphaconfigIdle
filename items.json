@@ -13,7 +13,7 @@
   },
   {
     "id": 2,
-    "name": "Pistol-Viper",
+    "name": "Old Pistol",
     "rarityID": 1,
     "rarity": "Common",
     "typeID": 1,
@@ -22,7 +22,7 @@
   },
   {
     "id": 7,
-    "name": "Pistol-Anaconda",
+    "name": "Classic Revolver",
     "rarityID": 2,
     "rarity": "Rare",
     "typeID": 1,
@@ -31,7 +31,7 @@
   },
   {
     "id": 8,
-    "name": "SMG-Vector",
+    "name": "Factory SMG",
     "rarityID": 2,
     "rarity": "Rare",
     "typeID": 1,
@@ -40,7 +40,7 @@
   },
   {
     "id": 9,
-    "name": "Shotgun-Supernova",
+    "name": "Pump Action Shotgun",
     "rarityID": 2,
     "rarity": "Rare",
     "typeID": 1,
@@ -49,7 +49,7 @@
   },
   {
     "id": 10,
-    "name": "Assault rifle-M4",
+    "name": "Modern Assault Rifle",
     "rarityID": 2,
     "rarity": "Rare",
     "typeID": 1,
@@ -58,7 +58,7 @@
   },
   {
     "id": 20,
-    "name": "Heavy weapon-MiniGun",
+    "name": "Sprayer Unlimited",
     "rarityID": 4,
     "rarity": "Legendary",
     "typeID": 1,
