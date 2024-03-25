@@ -131,7 +131,7 @@
     "type": "Neutral",
     "level": 3,
     "para1": 0.25,
-    "para2": 0.2
+    "para2": 0.1
   },
   {
     "id": 13,
@@ -594,7 +594,7 @@
   {
     "id": 49,
     "weaponId": "N/A",
-    "name": "Projectile Up",
+    "name": "Spread Bulllet",
     "icon": "projectile",
     "description": "Fire <para1 more projectile.",
     "type": "Ranged",
@@ -605,7 +605,7 @@
   {
     "id": 50,
     "weaponId": "N/A",
-    "name": "Projectile Up",
+    "name": "Spread Bulllet",
     "description": "Fire <para1 more projectiles.",
     "type": "Ranged",
     "level": 2,
@@ -615,7 +615,7 @@
   {
     "id": 51,
     "weaponId": "N/A",
-    "name": "Projectile Up",
+    "name": "Spread Bulllet",
     "description": "Fire <para1 more projectiles.",
     "type": "Ranged",
     "level": 3,
