@@ -56,7 +56,7 @@
     "enemyAtk": 28,
     "isBoss": true,
     "enemyId": 12,
-    "enemyPrefab": "DemonBoar",
+    "enemyPrefab": "02/Werewolf",
     "mapgenid": 0
   },
   {
