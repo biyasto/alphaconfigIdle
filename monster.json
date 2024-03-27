@@ -256,7 +256,7 @@
   {
     "id": 13,
     "name": "[Mini] Demon Boar",
-    "model": "MiniDemonBoar",
+    "model": "DemonBoar",
     "behaviorTree": "MiniDemonBoarTree",
     "lives": 1,
     "hpFactor": 8,
