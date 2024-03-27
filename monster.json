@@ -240,6 +240,7 @@
     "lives": 1,
     "hpFactor": 8,
     "movementspeed": 2,
+    "attackRange": 2,
     "atkFactorTouch": 3,
     "atkFactorProjectile": 3,
     "attackInterval": 1,
