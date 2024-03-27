@@ -35,7 +35,7 @@
     "lives": 1,
     "hpFactor": 5,
     "movementspeed": 3,
-    "attackRange": 4,
+    "attackRange": 6,
     "atkFactorTouch": 0.8,
     "atkFactorProjectile": 1.5,
     "attackInterval": 1,
@@ -256,7 +256,7 @@
   {
     "id": 13,
     "name": "[Mini] Demon Boar",
-    "model": "02/Werewolf",
+    "model": "MiniDemonBoar",
     "behaviorTree": "MiniDemonBoarTree",
     "lives": 1,
     "hpFactor": 8,
