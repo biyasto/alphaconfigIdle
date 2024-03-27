@@ -11,7 +11,7 @@
     "enemyAtk": 20,
     "isBoss": true,
     "enemyId": 13,
-    "enemyPrefab": "Scorpion",
+    "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 0
   },
   {
@@ -26,7 +26,7 @@
     "enemyAtk": 22,
     "isBoss": false,
     "enemyId": 13,
-    "enemyPrefab": "Scorpion",
+    "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 0
   },
   {
@@ -41,7 +41,7 @@
     "enemyAtk": 24,
     "isBoss": false,
     "enemyId": 13,
-    "enemyPrefab": "Scorpion",
+    "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 0
   },
   {
@@ -69,6 +69,9 @@
     "minDPS": 93,
     "maxDPS": 158,
     "enemyAtk": 29,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
   {
@@ -81,6 +84,9 @@
     "minDPS": 98,
     "maxDPS": 177,
     "enemyAtk": 30,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
   {
@@ -93,6 +99,9 @@
     "minDPS": 104,
     "maxDPS": 193,
     "enemyAtk": 31,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
   {
@@ -105,6 +114,9 @@
     "minDPS": 204,
     "maxDPS": 301,
     "enemyAtk": 36,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
   {
@@ -116,7 +128,10 @@
     "maxPower": 41211,
     "minDPS": 307,
     "maxDPS": 457,
-    "enemyAtk": 42
+    "enemyAtk": 42,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 10,
@@ -127,7 +142,10 @@
     "maxPower": 57633,
     "minDPS": 411,
     "maxDPS": 640,
-    "enemyAtk": 49
+    "enemyAtk": 49,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 11,
@@ -138,7 +156,10 @@
     "maxPower": 75473,
     "minDPS": 518,
     "maxDPS": 838,
-    "enemyAtk": 57
+    "enemyAtk": 57,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 12,
@@ -149,7 +170,10 @@
     "maxPower": 99068,
     "minDPS": 681,
     "maxDPS": 1100,
-    "enemyAtk": 67
+    "enemyAtk": 67,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 13,
@@ -160,7 +184,10 @@
     "maxPower": 125814,
     "minDPS": 847,
     "maxDPS": 1397,
-    "enemyAtk": 78
+    "enemyAtk": 78,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 14,
@@ -171,7 +198,10 @@
     "maxPower": 154429,
     "minDPS": 1016,
     "maxDPS": 1715,
-    "enemyAtk": 90
+    "enemyAtk": 90,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 15,
@@ -182,7 +212,10 @@
     "maxPower": 184293,
     "minDPS": 1189,
     "maxDPS": 2047,
-    "enemyAtk": 103
+    "enemyAtk": 103,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 16,
@@ -193,7 +226,10 @@
     "maxPower": 231602,
     "minDPS": 1549,
     "maxDPS": 2573,
-    "enemyAtk": 124
+    "enemyAtk": 124,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 17,
@@ -204,7 +240,10 @@
     "maxPower": 287990,
     "minDPS": 1913,
     "maxDPS": 3199,
-    "enemyAtk": 146
+    "enemyAtk": 146,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 18,
@@ -215,7 +254,10 @@
     "maxPower": 349297,
     "minDPS": 2281,
     "maxDPS": 3881,
-    "enemyAtk": 169
+    "enemyAtk": 169,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 19,
@@ -226,7 +268,10 @@
     "maxPower": 413461,
     "minDPS": 2653,
     "maxDPS": 4594,
-    "enemyAtk": 195
+    "enemyAtk": 195,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 20,
@@ -237,7 +282,10 @@
     "maxPower": 487464,
     "minDPS": 3119,
     "maxDPS": 5416,
-    "enemyAtk": 223
+    "enemyAtk": 223,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 21,
@@ -248,7 +296,10 @@
     "maxPower": 566829,
     "minDPS": 3589,
     "maxDPS": 6298,
-    "enemyAtk": 254
+    "enemyAtk": 254,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 22,
@@ -259,7 +310,10 @@
     "maxPower": 649336,
     "minDPS": 4065,
     "maxDPS": 7214,
-    "enemyAtk": 286
+    "enemyAtk": 286,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 23,
@@ -270,7 +324,10 @@
     "maxPower": 733899,
     "minDPS": 4547,
     "maxDPS": 8154,
-    "enemyAtk": 321
+    "enemyAtk": 321,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 24,
@@ -281,7 +338,10 @@
     "maxPower": 844717,
     "minDPS": 5308,
     "maxDPS": 9385,
-    "enemyAtk": 366
+    "enemyAtk": 366,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 25,
@@ -292,7 +352,10 @@
     "maxPower": 969188,
     "minDPS": 6075,
     "maxDPS": 10768,
-    "enemyAtk": 413
+    "enemyAtk": 413,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 26,
@@ -303,7 +366,10 @@
     "maxPower": 1101033,
     "minDPS": 6849,
     "maxDPS": 12233,
-    "enemyAtk": 462
+    "enemyAtk": 462,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 27,
@@ -314,7 +380,10 @@
     "maxPower": 1237132,
     "minDPS": 7629,
     "maxDPS": 13745,
-    "enemyAtk": 514
+    "enemyAtk": 514,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 28,
@@ -325,7 +394,10 @@
     "maxPower": 1387132,
     "minDPS": 8539,
     "maxDPS": 15412,
-    "enemyAtk": 571
+    "enemyAtk": 571,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 29,
@@ -336,7 +408,10 @@
     "maxPower": 1544692,
     "minDPS": 9456,
     "maxDPS": 17163,
-    "enemyAtk": 630
+    "enemyAtk": 630,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 30,
@@ -347,7 +422,10 @@
     "maxPower": 1706662,
     "minDPS": 10381,
     "maxDPS": 18962,
-    "enemyAtk": 691
+    "enemyAtk": 691,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 31,
@@ -358,7 +436,10 @@
     "maxPower": 1871490,
     "minDPS": 11312,
     "maxDPS": 20794,
-    "enemyAtk": 756
+    "enemyAtk": 756,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 32,
@@ -369,7 +450,10 @@
     "maxPower": 2071384,
     "minDPS": 12618,
     "maxDPS": 23015,
-    "enemyAtk": 834
+    "enemyAtk": 834,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 33,
@@ -380,7 +464,10 @@
     "maxPower": 2289504,
     "minDPS": 13931,
     "maxDPS": 25438,
-    "enemyAtk": 916
+    "enemyAtk": 916,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 34,
@@ -391,7 +478,10 @@
     "maxPower": 2517453,
     "minDPS": 15252,
     "maxDPS": 27971,
-    "enemyAtk": 1000
+    "enemyAtk": 1000,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 35,
@@ -402,7 +492,10 @@
     "maxPower": 2751051,
     "minDPS": 16581,
     "maxDPS": 30567,
-    "enemyAtk": 1087
+    "enemyAtk": 1087,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 36,
@@ -413,7 +506,10 @@
     "maxPower": 3002612,
     "minDPS": 18078,
     "maxDPS": 33362,
-    "enemyAtk": 1181
+    "enemyAtk": 1181,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 37,
@@ -424,7 +520,10 @@
     "maxPower": 3263932,
     "minDPS": 19584,
     "maxDPS": 36265,
-    "enemyAtk": 1278
+    "enemyAtk": 1278,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 38,
@@ -435,7 +534,10 @@
     "maxPower": 3530930,
     "minDPS": 21099,
     "maxDPS": 39232,
-    "enemyAtk": 1378
+    "enemyAtk": 1378,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 39,
@@ -446,7 +548,10 @@
     "maxPower": 3801587,
     "minDPS": 22623,
     "maxDPS": 42239,
-    "enemyAtk": 1481
+    "enemyAtk": 1481,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 40,
@@ -457,7 +562,10 @@
     "maxPower": 4116120,
     "minDPS": 24614,
     "maxDPS": 45734,
-    "enemyAtk": 1602
+    "enemyAtk": 1602,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 41,
@@ -468,7 +576,10 @@
     "maxPower": 4453455,
     "minDPS": 26615,
     "maxDPS": 49482,
-    "enemyAtk": 1727
+    "enemyAtk": 1727,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 42,
@@ -479,7 +590,10 @@
     "maxPower": 4803072,
     "minDPS": 28626,
     "maxDPS": 53367,
-    "enemyAtk": 1855
+    "enemyAtk": 1855,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 43,
@@ -490,7 +604,10 @@
     "maxPower": 5159735,
     "minDPS": 30646,
     "maxDPS": 57330,
-    "enemyAtk": 1987
+    "enemyAtk": 1987,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 44,
@@ -501,7 +618,10 @@
     "maxPower": 5538421,
     "minDPS": 32872,
     "maxDPS": 61538,
-    "enemyAtk": 2127
+    "enemyAtk": 2127,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 45,
@@ -512,7 +632,10 @@
     "maxPower": 5929065,
     "minDPS": 35109,
     "maxDPS": 65878,
-    "enemyAtk": 2270
+    "enemyAtk": 2270,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 46,
@@ -523,7 +646,10 @@
     "maxPower": 6326656,
     "minDPS": 37356,
     "maxDPS": 70296,
-    "enemyAtk": 2418
+    "enemyAtk": 2418,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 47,
@@ -534,7 +660,10 @@
     "maxPower": 6728708,
     "minDPS": 39615,
     "maxDPS": 74763,
-    "enemyAtk": 2569
+    "enemyAtk": 2569,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 48,
@@ -545,7 +674,10 @@
     "maxPower": 7183447,
     "minDPS": 42434,
     "maxDPS": 79816,
-    "enemyAtk": 2742
+    "enemyAtk": 2742,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 49,
@@ -556,7 +688,10 @@
     "maxPower": 7665559,
     "minDPS": 45264,
     "maxDPS": 85172,
-    "enemyAtk": 2919
+    "enemyAtk": 2919,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 50,
@@ -567,7 +702,10 @@
     "maxPower": 8162410,
     "minDPS": 48107,
     "maxDPS": 90693,
-    "enemyAtk": 3100
+    "enemyAtk": 3100,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 51,
@@ -578,7 +716,10 @@
     "maxPower": 8667702,
     "minDPS": 50961,
     "maxDPS": 96307,
-    "enemyAtk": 3286
+    "enemyAtk": 3286,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 52,
@@ -589,7 +730,10 @@
     "maxPower": 9199079,
     "minDPS": 54058,
     "maxDPS": 102211,
-    "enemyAtk": 3481
+    "enemyAtk": 3481,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 53,
@@ -600,7 +744,10 @@
     "maxPower": 9744613,
     "minDPS": 57167,
     "maxDPS": 108273,
-    "enemyAtk": 3680
+    "enemyAtk": 3680,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 54,
@@ -611,7 +758,10 @@
     "maxPower": 10298360,
     "minDPS": 60289,
     "maxDPS": 114426,
-    "enemyAtk": 3884
+    "enemyAtk": 3884,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 55,
@@ -622,7 +772,10 @@
     "maxPower": 10857371,
     "minDPS": 63424,
     "maxDPS": 120637,
-    "enemyAtk": 4093
+    "enemyAtk": 4093,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 56,
@@ -633,7 +786,10 @@
     "maxPower": 11477879,
     "minDPS": 67213,
     "maxDPS": 127531,
-    "enemyAtk": 4326
+    "enemyAtk": 4326,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 57,
@@ -644,7 +800,10 @@
     "maxPower": 12130335,
     "minDPS": 71015,
     "maxDPS": 134781,
-    "enemyAtk": 4565
+    "enemyAtk": 4565,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 58,
@@ -655,7 +814,10 @@
     "maxPower": 12799983,
     "minDPS": 74831,
     "maxDPS": 142222,
-    "enemyAtk": 4808
+    "enemyAtk": 4808,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 59,
@@ -666,7 +828,10 @@
     "maxPower": 13479469,
     "minDPS": 78660,
     "maxDPS": 149771,
-    "enemyAtk": 5057
+    "enemyAtk": 5057,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 60,
@@ -677,7 +842,10 @@
     "maxPower": 14189101,
     "minDPS": 82770,
     "maxDPS": 157656,
-    "enemyAtk": 5316
+    "enemyAtk": 5316,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 61,
@@ -688,7 +856,10 @@
     "maxPower": 14915089,
     "minDPS": 86894,
     "maxDPS": 165723,
-    "enemyAtk": 5580
+    "enemyAtk": 5580,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 62,
@@ -699,7 +870,10 @@
     "maxPower": 15650558,
     "minDPS": 91033,
     "maxDPS": 173895,
-    "enemyAtk": 5850
+    "enemyAtk": 5850,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 63,
@@ -710,7 +884,10 @@
     "maxPower": 16392093,
     "minDPS": 95186,
     "maxDPS": 182134,
-    "enemyAtk": 6125
+    "enemyAtk": 6125,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   },
   {
     "DungeonID": 64,
@@ -721,6 +898,9 @@
     "maxPower": 17203936,
     "minDPS": 100087,
     "maxDPS": 191154,
-    "enemyAtk": 6428
+    "enemyAtk": 6428,
+    "isBoss": false,
+    "enemyId": 13,
+    "enemyPrefab": "MiniDemonBoar"
   }
 ]
