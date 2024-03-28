@@ -10,7 +10,7 @@
     "maxDPS": 25,
     "enemyAtk": 20,
     "isBoss": true,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 0
   },
@@ -25,7 +25,7 @@
     "maxDPS": 47,
     "enemyAtk": 22,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 0
   },
@@ -40,7 +40,7 @@
     "maxDPS": 78,
     "enemyAtk": 24,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 0
   },
@@ -55,7 +55,7 @@
     "maxDPS": 129,
     "enemyAtk": 28,
     "isBoss": true,
-    "enemyId": 12,
+    "bossID": 12,
     "enemyPrefab": "02/Werewolf",
     "mapgenid": 0
   },
@@ -70,7 +70,7 @@
     "maxDPS": 158,
     "enemyAtk": 29,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -85,7 +85,7 @@
     "maxDPS": 177,
     "enemyAtk": 30,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -100,7 +100,7 @@
     "maxDPS": 193,
     "enemyAtk": 31,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -115,7 +115,7 @@
     "maxDPS": 301,
     "enemyAtk": 36,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -130,7 +130,7 @@
     "maxDPS": 457,
     "enemyAtk": 42,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -145,7 +145,7 @@
     "maxDPS": 640,
     "enemyAtk": 49,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -160,7 +160,7 @@
     "maxDPS": 838,
     "enemyAtk": 57,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -175,7 +175,7 @@
     "maxDPS": 1100,
     "enemyAtk": 67,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -190,7 +190,7 @@
     "maxDPS": 1397,
     "enemyAtk": 78,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -205,7 +205,7 @@
     "maxDPS": 1715,
     "enemyAtk": 90,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -220,7 +220,7 @@
     "maxDPS": 2047,
     "enemyAtk": 103,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -235,7 +235,7 @@
     "maxDPS": 2573,
     "enemyAtk": 124,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -250,7 +250,7 @@
     "maxDPS": 3199,
     "enemyAtk": 146,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -265,7 +265,7 @@
     "maxDPS": 3881,
     "enemyAtk": 169,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -280,7 +280,7 @@
     "maxDPS": 4594,
     "enemyAtk": 195,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -295,7 +295,7 @@
     "maxDPS": 5416,
     "enemyAtk": 223,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -310,7 +310,7 @@
     "maxDPS": 6298,
     "enemyAtk": 254,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -325,7 +325,7 @@
     "maxDPS": 7214,
     "enemyAtk": 286,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -340,7 +340,7 @@
     "maxDPS": 8154,
     "enemyAtk": 321,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -355,7 +355,7 @@
     "maxDPS": 9385,
     "enemyAtk": 366,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -370,7 +370,7 @@
     "maxDPS": 10768,
     "enemyAtk": 413,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -385,7 +385,7 @@
     "maxDPS": 12233,
     "enemyAtk": 462,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -400,7 +400,7 @@
     "maxDPS": 13745,
     "enemyAtk": 514,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -415,7 +415,7 @@
     "maxDPS": 15412,
     "enemyAtk": 571,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -430,7 +430,7 @@
     "maxDPS": 17163,
     "enemyAtk": 630,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -445,7 +445,7 @@
     "maxDPS": 18962,
     "enemyAtk": 691,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -460,7 +460,7 @@
     "maxDPS": 20794,
     "enemyAtk": 756,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -475,7 +475,7 @@
     "maxDPS": 23015,
     "enemyAtk": 834,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -490,7 +490,7 @@
     "maxDPS": 25438,
     "enemyAtk": 916,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -505,7 +505,7 @@
     "maxDPS": 27971,
     "enemyAtk": 1000,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -520,7 +520,7 @@
     "maxDPS": 30567,
     "enemyAtk": 1087,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -535,7 +535,7 @@
     "maxDPS": 33362,
     "enemyAtk": 1181,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -550,7 +550,7 @@
     "maxDPS": 36265,
     "enemyAtk": 1278,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -565,7 +565,7 @@
     "maxDPS": 39232,
     "enemyAtk": 1378,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -580,7 +580,7 @@
     "maxDPS": 42239,
     "enemyAtk": 1481,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -595,7 +595,7 @@
     "maxDPS": 45734,
     "enemyAtk": 1602,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -610,7 +610,7 @@
     "maxDPS": 49482,
     "enemyAtk": 1727,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -625,7 +625,7 @@
     "maxDPS": 53367,
     "enemyAtk": 1855,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -640,7 +640,7 @@
     "maxDPS": 57330,
     "enemyAtk": 1987,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -655,7 +655,7 @@
     "maxDPS": 61538,
     "enemyAtk": 2127,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -670,7 +670,7 @@
     "maxDPS": 65878,
     "enemyAtk": 2270,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -685,7 +685,7 @@
     "maxDPS": 70296,
     "enemyAtk": 2418,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -700,7 +700,7 @@
     "maxDPS": 74763,
     "enemyAtk": 2569,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -715,7 +715,7 @@
     "maxDPS": 79816,
     "enemyAtk": 2742,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -730,7 +730,7 @@
     "maxDPS": 85172,
     "enemyAtk": 2919,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -745,7 +745,7 @@
     "maxDPS": 90693,
     "enemyAtk": 3100,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -760,7 +760,7 @@
     "maxDPS": 96307,
     "enemyAtk": 3286,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -775,7 +775,7 @@
     "maxDPS": 102211,
     "enemyAtk": 3481,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -790,7 +790,7 @@
     "maxDPS": 108273,
     "enemyAtk": 3680,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -805,7 +805,7 @@
     "maxDPS": 114426,
     "enemyAtk": 3884,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -820,7 +820,7 @@
     "maxDPS": 120637,
     "enemyAtk": 4093,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -835,7 +835,7 @@
     "maxDPS": 127531,
     "enemyAtk": 4326,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -850,7 +850,7 @@
     "maxDPS": 134781,
     "enemyAtk": 4565,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -865,7 +865,7 @@
     "maxDPS": 142222,
     "enemyAtk": 4808,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -880,7 +880,7 @@
     "maxDPS": 149771,
     "enemyAtk": 5057,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -895,7 +895,7 @@
     "maxDPS": 157656,
     "enemyAtk": 5316,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -910,7 +910,7 @@
     "maxDPS": 165723,
     "enemyAtk": 5580,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -925,7 +925,7 @@
     "maxDPS": 173895,
     "enemyAtk": 5850,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -940,7 +940,7 @@
     "maxDPS": 182134,
     "enemyAtk": 6125,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   },
@@ -955,7 +955,7 @@
     "maxDPS": 191154,
     "enemyAtk": 6428,
     "isBoss": false,
-    "enemyId": 13,
+    "bossID": 13,
     "enemyPrefab": "MiniDemonBoar",
     "mapgenid": 1
   }
