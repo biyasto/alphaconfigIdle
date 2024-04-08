@@ -33,7 +33,7 @@
     "lives": 1,
     "hpFactor": 5,
     "movementspeed": 3,
-    "attackRange": 6,
+    "attackRange": 4.5,
     "atkFactorTouch": 0.8,
     "atkFactorProjectile": 1,
     "attackInterval": 1,
