@@ -59,7 +59,7 @@
     "atkFactorTouch": 0,
     "atkFactorProjectile": 1,
     "attackInterval": 0.5,
-    "attackspeed": 1.5,
+    "attackspeed": 2.5,
     "detectRange": 4,
     "description": "- Chases the character.\n- Fire a projectile that deals damage to character on hit.\n- Run away when character gets in detect region.",
     "size": 0.8,
