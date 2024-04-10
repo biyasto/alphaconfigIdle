@@ -80,7 +80,7 @@
     "minDPS": 93,
     "maxDPS": 158,
     "enemyAtk": 14,
-    "isBoss": false,
+    "isBoss": true,
     "bossID": 13,
     "mapgenid": 1
   },
@@ -131,8 +131,8 @@
     "minDPS": 204,
     "maxDPS": 301,
     "enemyAtk": 18,
-    "isBoss": false,
-    "bossID": 13,
+    "isBoss": true,
+    "bossID": 12,
     "mapgenid": 1
   },
   {
@@ -148,7 +148,7 @@
     "minDPS": 307,
     "maxDPS": 457,
     "enemyAtk": 21,
-    "isBoss": false,
+    "isBoss": true,
     "bossID": 13,
     "mapgenid": 1
   },
@@ -199,8 +199,8 @@
     "minDPS": 681,
     "maxDPS": 1100,
     "enemyAtk": 33,
-    "isBoss": false,
-    "bossID": 13,
+    "isBoss": true,
+    "bossID": 12,
     "mapgenid": 1
   },
   {
@@ -216,7 +216,7 @@
     "minDPS": 847,
     "maxDPS": 1397,
     "enemyAtk": 39,
-    "isBoss": false,
+    "isBoss": true,
     "bossID": 13,
     "mapgenid": 1
   },
@@ -267,8 +267,8 @@
     "minDPS": 1549,
     "maxDPS": 2573,
     "enemyAtk": 62,
-    "isBoss": false,
-    "bossID": 13,
+    "isBoss": true,
+    "bossID": 12,
     "mapgenid": 1
   },
   {
