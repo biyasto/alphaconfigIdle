@@ -1,5 +1,8 @@
 [
   {
+    "level": 0
+  },
+  {
     "level": 1,
     "expCost": 1000,
     "goldCost": 2000
