@@ -1,10 +1,10 @@
 [
   {
-    "id": 0,
+    " ": 0,
     "trailGraphic": "UnityTrail"
   },
   {
-    "id": 1,
+    " ": 1,
     "name": "Red round projectile",
     "type": "SphereSkill",
     "model": "Weapon/FireArrow",
@@ -16,7 +16,7 @@
     "collisionSize": 1
   },
   {
-    "id": 2,
+    " ": 2,
     "name": "Explode projectile",
     "type": "SphereSkill",
     "model": "Weapon/MutatedZombieCircle",
@@ -29,7 +29,7 @@
     "collisionSize": 7
   },
   {
-    "id": 3,
+    " ": 3,
     "name": "Demon Boar Projectile",
     "type": "Straight",
     "model": "Weapon/FireOrbSharpRed",
@@ -42,7 +42,7 @@
     "collisionSize": 1.5
   },
   {
-    "id": 4,
+    " ": 4,
     "name": "Super Fast Projectile bouncing 2",
     "type": "Straight",
     "model": "Weapon/FireArrow",
@@ -53,7 +53,7 @@
     "collisionSize": 0.3
   },
   {
-    "id": 5,
+    " ": 5,
     "name": "explosion",
     "type": "StandExplosion",
     "model": "Combat/Explosions/NukeVerticalExplosion/NukeVerticalExplosionFire",
@@ -65,7 +65,7 @@
     "collisionSize": 3
   },
   {
-    "id": 6,
+    " ": 6,
     "name": "The Death",
     "type": "Straight",
     "model": "Weapon/LightningOrbSharpBlue",
@@ -79,7 +79,7 @@
     "collisionSize": 2
   },
   {
-    "id": 7,
+    " ": 7,
     "name": "Test zigzag",
     "type": "Straight",
     "zigzagtime": 1,
@@ -89,15 +89,20 @@
     "speedbullet": 4
   },
   {
-    "id": 8,
-    "name": "Test ignorewhencollidewithhero",
-    "type": "Straight",
-    "model": "Weapon/Sphere",
-    "livetime": 30,
-    "ignorewhencollidewithhero": true
+    " ": 8,
+    "name": "Bouncing Projectile (1)",
+    "type": "SphereSkill",
+    "model": "Weapon/FireArrow",
+    "livetime": 5,
+    "bouncingwalltimes": 1,
+    "ignorewhencollidewithhero": false,
+    "ignoredamagetohero": false,
+    "speedbullet": 7,
+    "modelSize": 1,
+    "collisionSize": 1
   },
   {
-    "id": 9,
+    " ": 9,
     "name": "Test ignoredamagetohero",
     "type": "Straight",
     "model": "Weapon/Sphere",
@@ -105,7 +110,7 @@
     "ignoredamagetohero": true
   },
   {
-    "id": 10,
+    " ": 10,
     "name": "Test startpoint",
     "type": "Straight",
     "model": "Weapon/Sphere",
@@ -113,7 +118,7 @@
     "startpoint": 2
   },
   {
-    "id": 11,
+    " ": 11,
     "name": "Test shoot curve",
     "type": "CurveProjectile",
     "model": "Weapon/Sphere",
@@ -121,7 +126,7 @@
     "speedbullet": 50
   },
   {
-    "id": 12,
+    " ": 12,
     "name": "Test shoot bomb",
     "type": "CurveProjectile",
     "model": "Weapon/Sphere",
@@ -129,7 +134,7 @@
     "livetime": 30
   },
   {
-    "id": 13,
+    " ": 13,
     "name": "Test attack while flying",
     "type": "Straight",
     "model": "Weapon/Sphere",
@@ -140,7 +145,7 @@
     "collisionSize": 0.5
   },
   {
-    "id": 14,
+    " ": 14,
     "name": "Shotgun Skull Projectile",
     "type": "SphereSkill",
     "model": "Weapon/IceArrow",
@@ -152,7 +157,7 @@
     "collisionSize": 1
   },
   {
-    "id": 15,
+    " ": 15,
     "name": "Test summon",
     "type": "StandExplosion",
     "model": "Weapon/Sphere",
@@ -161,28 +166,28 @@
     "trailGraphic": "Trail/Poison_Trail"
   },
   {
-    "id": 16,
+    " ": 16,
     "type": "CurveProjectile",
     "model": "Weapon/LineSphere",
     "livetime": 30,
     "rotationspeed": 300
   },
   {
-    "id": 17,
+    " ": 17,
     "type": "CurveProjectile",
     "model": "Weapon/Sphere",
     "livetime": 30,
     "attackafterdisapear": 11
   },
   {
-    "id": 18,
+    " ": 18,
     "type": "Straight",
     "model": "Weapon/Sphere",
     "livetime": 30,
     "speedbullet": 7
   },
   {
-    "id": 19,
+    " ": 19,
     "name": "Aiming",
     "type": "Straight",
     "model": "Weapon/Sphere",
@@ -193,7 +198,7 @@
     "speedbullet": 100
   },
   {
-    "id": 20,
+    " ": 20,
     "name": "Slow Fire Ball bounce 2",
     "type": "Straight",
     "model": "Weapon/Sphere",
@@ -202,7 +207,7 @@
     "speedbullet": 5
   },
   {
-    "id": 21,
+    " ": 21,
     "name": "Curve Spawn Devil Tree Stump",
     "type": "CurveProjectile",
     "model": "Weapon/Sphere",
@@ -216,7 +221,7 @@
     "shadowGraphic": "Projectile/Giant Fire Spirit"
   },
   {
-    "id": 22,
+    " ": 22,
     "name": "Curve Spawn Rock Golem",
     "type": "CurveProjectile",
     "model": "Weapon/Sphere",
@@ -227,7 +232,7 @@
     "speedbullet": 5
   },
   {
-    "id": 23,
+    " ": 23,
     "name": "Fire Breathing",
     "type": "Straight",
     "model": "Weapon/Sphere",
@@ -236,7 +241,7 @@
     "speedbullet": 15
   },
   {
-    "id": 24,
+    " ": 24,
     "name": "Test Homing",
     "type": "Straight",
     "homingmissilevelocity": 0.03,
@@ -248,7 +253,7 @@
     "collisionSize": 2
   },
   {
-    "id": 25,
+    " ": 25,
     "name": "Test Static Bomb",
     "type": "StandExplosion",
     "explosion": 6,
@@ -260,7 +265,7 @@
     "collisionSize": 0.5
   },
   {
-    "id": 26,
+    " ": 26,
     "name": "Bomb Delay Explode",
     "type": "CurveProjectile",
     "model": "Weapon/Sphere",
@@ -273,7 +278,7 @@
     "collisionSize": 0.5
   },
   {
-    "id": 27,
+    " ": 27,
     "name": "Invisible Projectile",
     "type": "CurveProjectile",
     "model": "Weapon/Sphere",
@@ -288,13 +293,13 @@
     "collisionSize": 0.001
   },
   {
-    "id": 28
+    " ": 28
   },
   {
-    "id": 29
+    " ": 29
   },
   {
-    "id": 30,
+    " ": 30,
     "name": "Aiming Line",
     "type": "Straight",
     "livetime": 30,
@@ -304,7 +309,7 @@
     "modelSize": 0.15
   },
   {
-    "id": 31,
+    " ": 31,
     "name": "Aiming Line 2 Bouncing",
     "type": "Straight",
     "livetime": 30,
@@ -314,7 +319,7 @@
     "modelSize": 0.15
   },
   {
-    "id": 32,
+    " ": 32,
     "name": "Meteor",
     "type": "Straight",
     "model": "Weapon/FlameFireBall",
@@ -329,7 +334,7 @@
     "forceDown": 50
   },
   {
-    "id": 33,
+    " ": 33,
     "name": "Test Root Enemy",
     "type": "Straight",
     "model": "Weapon/Sphere",
@@ -341,7 +346,7 @@
     "collisionSize": 0.3
   },
   {
-    "id": 34,
+    " ": 34,
     "name": "Test Root Enemy 2",
     "type": "Straight",
     "model": "Weapon/Sphere",
@@ -355,7 +360,7 @@
     "disappearTouchEnemy": true
   },
   {
-    "id": 35,
+    " ": 35,
     "name": "Test Fire",
     "type": "Straight",
     "model": "Weapon/FireArrow",
@@ -374,7 +379,7 @@
     "scaleDuration": 1
   },
   {
-    "id": 36,
+    " ": 36,
     "name": "Test Boomerang",
     "type": "Straight",
     "homingmissilevelocity": 0.01,
@@ -387,7 +392,7 @@
     "collisionSize": 0.5
   },
   {
-    "id": 37,
+    " ": 37,
     "name": "Boomerang",
     "type": "Straight",
     "homingmissilevelocity": 1,
@@ -401,7 +406,7 @@
     "disappearTouchEnemy": true
   },
   {
-    "id": 38,
+    " ": 38,
     "name": "Clone Projectile",
     "type": "Straight",
     "model": "Clone",
@@ -409,7 +414,7 @@
     "speedbullet": 50
   },
   {
-    "id": 39,
+    " ": 39,
     "name": "Bouncing Fire Ball",
     "type": "Straight",
     "model": "Weapon/FlameFireBall",
@@ -421,7 +426,7 @@
     "collisionSize": 0.7
   },
   {
-    "id": 40,
+    " ": 40,
     "name": "Big Red Round",
     "type": "CurveProjectile",
     "model": "Weapon/Sphere",
@@ -431,7 +436,7 @@
     "collisionSize": 0.5
   },
   {
-    "id": 41,
+    " ": 41,
     "name": "Green Stone",
     "type": "Straight",
     "model": "Weapon/GreenStone",
@@ -442,7 +447,7 @@
     "collisionSize": 0.4
   },
   {
-    "id": 42,
+    " ": 42,
     "name": "Big Green Stone",
     "type": "Straight",
     "model": "Weapon/GreenStone",
@@ -453,7 +458,7 @@
     "collisionSize": 0.7
   },
   {
-    "id": 43,
+    " ": 43,
     "name": "Giant Green Stone",
     "type": "CurveProjectile",
     "model": "Weapon/GreenStone",
@@ -466,7 +471,7 @@
     "collisionSize": 0.9
   },
   {
-    "id": 44,
+    " ": 44,
     "name": "Big Rock",
     "type": "Straight",
     "model": "Weapon/Giant Blue Rock Golem",
@@ -477,7 +482,7 @@
     "collisionSize": 0.7
   },
   {
-    "id": 45,
+    " ": 45,
     "name": "Giant Green Stone",
     "type": "CurveProjectile",
     "model": "Weapon/Giant Blue Rock Golem",
@@ -490,7 +495,7 @@
     "collisionSize": 0.9
   },
   {
-    "id": 46,
+    " ": 46,
     "name": "Charge Line 1",
     "type": "Straight",
     "model": "Weapon/Giant Blue Rock Golem",
@@ -503,7 +508,7 @@
     "scaleDuration": 0.7
   },
   {
-    "id": 47,
+    " ": 47,
     "name": "Big Super Fast Rock",
     "type": "Straight",
     "model": "Weapon/Giant Blue Rock Golem",
@@ -513,7 +518,7 @@
     "collisionSize": 0.9
   },
   {
-    "id": 48,
+    " ": 48,
     "name": "Summon rock aim small",
     "type": "CurveProjectile",
     "model": "Weapon/BlueStone",
@@ -530,7 +535,7 @@
     "shadowGraphicScale": 0.5
   },
   {
-    "id": 49,
+    " ": 49,
     "name": "Small rock fallen",
     "type": "Straight",
     "model": "Weapon/BlueStone",
@@ -548,7 +553,7 @@
     "shadowGraphicScale": 0.5
   },
   {
-    "id": 50,
+    " ": 50,
     "name": "Static Big Rock",
     "type": "Straight",
     "model": "Weapon/BlueStone",
@@ -560,7 +565,7 @@
     "collisionSize": 0.9
   },
   {
-    "id": 51,
+    " ": 51,
     "name": "Small Fire",
     "type": "Straight",
     "model": "Weapon/Sphere",
@@ -574,7 +579,7 @@
     "forceDown": 50
   },
   {
-    "id": 52,
+    " ": 52,
     "name": "Small Fire Bomb",
     "type": "CurveProjectile",
     "model": "Weapon/GiantFireSpirit",
@@ -588,7 +593,7 @@
     "collisionSize": 0.5
   },
   {
-    "id": 53,
+    " ": 53,
     "name": "Small Fire Main",
     "type": "Straight",
     "model": "Weapon/Sphere",
@@ -605,7 +610,7 @@
     "shadowGraphicScale": 2
   },
   {
-    "id": 54,
+    " ": 54,
     "name": "Small Fire Init",
     "type": "Straight",
     "model": "Weapon/Sphere",
@@ -620,7 +625,7 @@
     "forceDown": 50
   },
   {
-    "id": 55,
+    " ": 55,
     "name": "Fire Breath Short Main",
     "type": "Straight",
     "model": "Weapon/FireArrow",
@@ -636,7 +641,7 @@
     "scaleDuration": 0.2
   },
   {
-    "id": 56,
+    " ": 56,
     "name": "Fire Breath Short",
     "type": "Straight",
     "model": "Weapon/FireArrow",
@@ -651,7 +656,7 @@
     "scaleDuration": 0.1
   },
   {
-    "id": 57,
+    " ": 57,
     "name": "Zigzag Dark Ball",
     "type": "Straight",
     "zigzagtime": 1,
@@ -663,7 +668,7 @@
     "collisionSize": 0.7
   },
   {
-    "id": 58,
+    " ": 58,
     "name": "Big Fire",
     "type": "Straight",
     "model": "Weapon/Sphere",
@@ -677,7 +682,7 @@
     "forceDown": 50
   },
   {
-    "id": 59,
+    " ": 59,
     "name": "Big Fire Bomb",
     "type": "CurveProjectile",
     "model": "Weapon/GiantFireSpirit",
@@ -691,7 +696,7 @@
     "collisionSize": 0.75
   },
   {
-    "id": 60,
+    " ": 60,
     "name": "Big Fire Main",
     "type": "Straight",
     "model": "Weapon/Sphere",
@@ -708,7 +713,7 @@
     "shadowGraphicScale": 3
   },
   {
-    "id": 61,
+    " ": 61,
     "name": "Big Fire Init",
     "type": "Straight",
     "model": "Weapon/Sphere",
@@ -723,7 +728,7 @@
     "forceDown": 50
   },
   {
-    "id": 62,
+    " ": 62,
     "name": "Snake spawn",
     "type": "Straight",
     "model": "Weapon/BlueStone",
@@ -737,7 +742,7 @@
     "forceDown": 50
   },
   {
-    "id": 63,
+    " ": 63,
     "name": "Summon snake aim small",
     "type": "CurveProjectile",
     "model": "Weapon/BlueStone",
@@ -749,7 +754,7 @@
     "collisionSize": 0.9
   },
   {
-    "id": 64,
+    " ": 64,
     "name": "Big Fast Rock",
     "type": "Straight",
     "model": "Weapon/Giant Blue Rock Golem",
@@ -759,7 +764,7 @@
     "collisionSize": 0.9
   },
   {
-    "id": 65,
+    " ": 65,
     "name": "Big Fast Rock",
     "type": "Straight",
     "model": "Weapon/Giant Blue Rock Golem",
@@ -769,7 +774,7 @@
     "collisionSize": 0.9
   },
   {
-    "id": 66,
+    " ": 66,
     "name": "Test Child Projectile 1",
     "type": "Straight",
     "model": "Weapon/Giant Blue Rock Golem",
@@ -781,7 +786,7 @@
     "collisionSize": 0.4
   },
   {
-    "id": 67,
+    " ": 67,
     "name": "Test Child Projectile 2",
     "type": "Straight",
     "model": "Weapon/Giant Blue Rock Golem",
@@ -793,7 +798,7 @@
     "collisionSize": 0.4
   },
   {
-    "id": 68,
+    " ": 68,
     "name": "Test Child Projectile 3",
     "type": "Straight",
     "model": "Weapon/Giant Blue Rock Golem",
@@ -805,7 +810,7 @@
     "collisionSize": 0.4
   },
   {
-    "id": 69,
+    " ": 69,
     "name": "Fire Breath Main",
     "type": "Straight",
     "model": "Weapon/FireArrow",
@@ -823,7 +828,7 @@
     "collisionIntervalTime": 1
   },
   {
-    "id": 70,
+    " ": 70,
     "name": "Fire Breath",
     "type": "Straight",
     "model": "Weapon/GiantFireSpirit",
@@ -837,7 +842,7 @@
     "height": -0.5
   },
   {
-    "id": 71,
+    " ": 71,
     "name": "FireBallPet",
     "type": "Straight",
     "model": "Weapon/FireBallFireOBJ",
@@ -850,7 +855,7 @@
     "collisionSize": 1
   },
   {
-    "id": 72,
+    " ": 72,
     "name": "FireBallPet2",
     "type": "Straight",
     "model": "Weapon/FireBallFireOBJ",
@@ -864,7 +869,7 @@
     "shadowGraphicScale": 0.001
   },
   {
-    "id": 73,
+    " ": 73,
     "name": "Crab sharp missile",
     "type": "Straight",
     "model": "Weapon/SharpMissileBlue",
@@ -876,7 +881,7 @@
     "collisionSize": 1
   },
   {
-    "id": 74,
+    " ": 74,
     "name": "FireBallPet3",
     "type": "Straight",
     "model": "Weapon/FireBallFireOBJ",
