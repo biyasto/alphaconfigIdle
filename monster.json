@@ -189,7 +189,8 @@
   {
     "id": 10,
     "name": "Novice Necromancer",
-    "model": "string",
+    "model": "NoviceNecromancer",
+    "behaviorTree": "10_NoviceNecromancer",
     "lives": 1,
     "hpFactor": 5,
     "movementspeed": 3,
@@ -197,8 +198,10 @@
     "atkFactorProjectile": 0,
     "attackInterval": 1,
     "attackspeed": 3,
-    "detectRange": 10,
+    "detectRange": 9,
     "description": "- Stay at the spawn location.\n- Run away when character gets in detect region.\n- For seconds, spawn 2 - 3 Novice Summoned. ",
+    "size": 1,
+    "shadowRadius": 1,
     "isAir": false,
     "isBoss": false
   },
