@@ -103,11 +103,17 @@
   },
   {
     " ": 9,
-    "name": "Test ignoredamagetohero",
-    "type": "Straight",
-    "model": "Weapon/Sphere",
-    "livetime": 30,
-    "ignoredamagetohero": true
+    "name": "Homing Projectile",
+    "type": "SphereSkill",
+    "homingmissilevelocity": 7,
+    "homingmissiletime": 6,
+    "model": "Weapon/FireArrow",
+    "livetime": 6,
+    "ignorewhencollidewithhero": false,
+    "ignoredamagetohero": false,
+    "speedbullet": 7,
+    "modelSize": 1,
+    "collisionSize": 1
   },
   {
     " ": 10,
