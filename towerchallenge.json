@@ -49,7 +49,7 @@
     "id": 5,
     "": "Challenge",
     "name": "ModifyNextSkillPoint",
-    "description": "Player choose 0 skill in the next 3 room.",
+    "description": "Player chooses 0 skill in the next 3 room.",
     "type": "Floor",
     "rarity": 1,
     "rewardID": 8,
@@ -539,5 +539,27 @@
     "rarity": 1,
     "target": "combo",
     "para1": 0.1
+  },
+  {
+    "id": 50,
+    "name": "ShootProjectileFromOutside",
+    "description": "Bén đạn nửa",
+    "": "Challenge",
+    "type": "Mid",
+    "rarity": 1,
+    "target": "player",
+    "para1": 3,
+    "para2": 2,
+    "para3": 3,
+    "para4": 3
+  },
+  {
+    "id": 51
+  },
+  {
+    "id": 52
+  },
+  {
+    "id": 53
   }
 ]
