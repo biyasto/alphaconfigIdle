@@ -30,9 +30,9 @@
     "minDPS": 35,
     "maxDPS": 47,
     "enemyAtk": 11,
-    "isBoss": false,
+    "isBoss": true,
     "bossID": 13,
-    "trialID": 50,
+    "trialID": 0,
     "mapgenid": 0
   },
   {
