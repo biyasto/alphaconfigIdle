@@ -1,7 +1,8 @@
 [
   {
     "id": 0,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 1,
@@ -23,7 +24,8 @@
     "isAir": false,
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 2,
@@ -45,7 +47,8 @@
     "isAir": false,
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 3,
@@ -67,7 +70,8 @@
     "isAir": true,
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 4,
@@ -87,7 +91,8 @@
     "size": 0.5,
     "shadowRadius": 1,
     "isAir": false,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 5,
@@ -109,7 +114,8 @@
     "isAir": false,
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 6,
@@ -129,7 +135,8 @@
     "shadowRadius": 1,
     "isAir": false,
     "meleeInterval": 1,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 7,
@@ -149,7 +156,8 @@
     "size": 1,
     "shadowRadius": 1,
     "isAir": false,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 8,
@@ -168,7 +176,8 @@
     "size": 1,
     "shadowRadius": 1,
     "isAir": false,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 9,
@@ -184,7 +193,8 @@
     "detectRange": 0,
     "description": "- Immobile.\n- Super high health.\n- Shoot a bomb to player's position. The bomb can bounce 2 times. Explode immediately when collided.\n- When the bomb exploded, left a fire area for 5 seconds.",
     "isAir": false,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 10,
@@ -203,7 +213,8 @@
     "size": 1,
     "shadowRadius": 1,
     "isAir": false,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 11,
@@ -221,7 +232,8 @@
     "description": "- For each 5 seconds, approaches the character with random offset. \n- Throw 3 - 5 Bombs around its position.\n- The bomb will explode when hitting the ground. Dealing damage to player and heal other enemies within region.",
     "size": 1,
     "isAir": false,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 12,
@@ -242,7 +254,8 @@
     "isAir": false,
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
-    "isBoss": true
+    "isBoss": true,
+    "IsElite": false
   },
   {
     "id": 13,
@@ -262,7 +275,8 @@
     "isAir": false,
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
-    "isBoss": true
+    "isBoss": true,
+    "IsElite": false
   },
   {
     "id": 14,
@@ -277,7 +291,8 @@
     "attackspeed": 1,
     "detectRange": 0,
     "description": "- Run towards player.\n- Explode on character touch, on death - deals damage to ANY ENTITIES.",
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 15,
@@ -298,7 +313,8 @@
     "shadowRadius": 1,
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 16,
@@ -313,7 +329,8 @@
     "attackspeed": 1,
     "detectRange": 0,
     "description": "- Chases the character.\n- Attack if the character is in front of it.\n- Turn into another color zombie on the first death. (some animation to show the turning phase)\n- The zombie's health will be halved but move 2 times faster, its attack increase 50%.",
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 17,
@@ -328,7 +345,8 @@
     "attackspeed": 1,
     "detectRange": 0,
     "description": "- Chases the character.\n- Attack if the character is in front of it.\n- Being attacked while attacking receive 2 times damage.\n- Character is forced to shoot the taunting enemy when it enters character's shooting range.\n- If there are more than 1 Taunters, the character will shoot randomly to one of them.",
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 18,
@@ -343,7 +361,8 @@
     "attackspeed": 2,
     "detectRange": 0,
     "description": "- Chases the character.\n- When character is in its range, it starts to charge its attack.\n- An shooting indicator will appear, change its direction towards character.\n- After being ready, the indicator will flash for a little bit then it shoots the projectile towards character. Deal damage on touch and can be blocked by obstacles.\n- Run away when character gets in detect region.",
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 19,
@@ -360,7 +379,8 @@
     "detectRange": 0,
     "description": "- Randomly choose a direction and keep moving in that direction. \n- Bounce when colliding against the walls.\n- Throw 3-4 bombs around its position every while. ",
     "size": 1,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 20,
@@ -377,7 +397,8 @@
     "detectRange": 2,
     "description": "- Chases the character.\r\n- Fire multiple projectiles that deals damage to character on hit.\n- Those projectiles will have random speed from min to max in random direction towards character.\r\n- Run away when character gets in detect region.",
     "size": 0.8,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 21,
@@ -398,7 +419,8 @@
     "shadowRadius": 1,
     "isAir": false,
     "meleeInterval": 0.5,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 22,
@@ -406,7 +428,8 @@
     "model": "string",
     "lives": 1,
     "description": "- Chases the character.\r\n- Fire a projectile that deals damage to character on hit.\n- The projectile moves curvely around the straight the direction from it to the character.\r\n- Run away when character gets in detect region.",
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 23,
@@ -423,7 +446,8 @@
     "attackspeed": 2,
     "detectRange": 5,
     "description": "- Chases the character.\n- Fire 1 projectile that deals damage to character on hit.\n- Projectiles will follow the character for 5 seconds then dropping to the ground.\n- Run away when character gets in detect region.",
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 24,
@@ -436,7 +460,8 @@
     "atkFactorProjectile": 0,
     "attackspeed": 1,
     "description": "Chases the character, deal damage on touch.",
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 25,
@@ -449,7 +474,8 @@
     "atkFactorProjectile": 0,
     "attackspeed": 2,
     "description": "- Chases the character. Tankier but much slower.\n- When character is in attack region, charge & attack in circle region.\n- When charging, destroy all of the projectiles that enter the region.",
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 26,
@@ -461,7 +487,8 @@
     "atkFactorTouch": 1,
     "atkFactorProjectile": 0,
     "description": "- Spawn in group of 3 - 5. Less HP but faster.\n- Chases the character, deal damage on touch.\n- When dead, leave a toxic area that deals damage on second.\n- The poison is bigger and having slow effect.",
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 27,
@@ -473,7 +500,8 @@
     "atkFactorTouch": 1,
     "atkFactorProjectile": 2,
     "description": "- Fire 3 projectiles that deals damage to character on hit.\n- Run away when character gets in detect region.",
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 28,
@@ -485,7 +513,8 @@
     "atkFactorTouch": 2.5,
     "atkFactorProjectile": 0,
     "description": "- Chases the character.\n- When character is in attack region, charge & run towards character, deal damage on touch.\n- Leaving a fire trail during dashing.",
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 29,
@@ -506,7 +535,8 @@
     "isAir": true,
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": true
   },
   {
     "id": 30,
@@ -526,7 +556,8 @@
     "isAir": false,
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 31,
@@ -548,7 +579,8 @@
     "isAir": false,
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 32,
@@ -570,7 +602,8 @@
     "isAir": false,
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 33,
@@ -592,7 +625,8 @@
     "isAir": false,
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 34,
@@ -613,7 +647,8 @@
     "isAir": false,
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 35,
@@ -635,7 +670,8 @@
     "isAir": false,
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 36,
@@ -657,7 +693,8 @@
     "isAir": false,
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 37,
@@ -679,7 +716,8 @@
     "isAir": false,
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 38,
@@ -701,7 +739,8 @@
     "isAir": false,
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 39,
@@ -723,7 +762,8 @@
     "isAir": false,
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 40,
@@ -745,7 +785,8 @@
     "isAir": false,
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 41,
@@ -767,7 +808,8 @@
     "isAir": false,
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 42,
@@ -789,7 +831,8 @@
     "isAir": false,
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 43,
@@ -811,7 +854,8 @@
     "isAir": false,
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 44,
@@ -833,7 +877,8 @@
     "isAir": false,
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 45,
@@ -855,7 +900,8 @@
     "isAir": false,
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 46,
@@ -877,7 +923,8 @@
     "isAir": false,
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 47,
@@ -899,7 +946,8 @@
     "isAir": false,
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 48,
@@ -921,7 +969,8 @@
     "isAir": false,
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 49,
@@ -943,7 +992,8 @@
     "isAir": false,
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 50,
@@ -965,7 +1015,8 @@
     "isAir": false,
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 51,
@@ -987,7 +1038,8 @@
     "isAir": false,
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 52,
@@ -1009,7 +1061,8 @@
     "isAir": false,
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 53,
@@ -1031,7 +1084,8 @@
     "isAir": false,
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 54,
@@ -1053,7 +1107,8 @@
     "isAir": false,
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 55,
@@ -1075,7 +1130,8 @@
     "isAir": false,
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 56,
@@ -1097,7 +1153,8 @@
     "isAir": false,
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 57,
@@ -1119,7 +1176,8 @@
     "isAir": false,
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 58,
@@ -1141,7 +1199,8 @@
     "isAir": false,
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 59,
@@ -1163,7 +1222,8 @@
     "isAir": false,
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   },
   {
     "id": 60,
@@ -1185,6 +1245,7 @@
     "isAir": false,
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
-    "isBoss": false
+    "isBoss": false,
+    "IsElite": false
   }
 ]
