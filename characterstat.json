@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "heroID": "jack",
+    "name": "Jack",
+    "health": 600,
+    "resistDark": 0.05,
+    "spd": 6,
+    "dashDistance": 5,
+    "dashCooldownBonusPercent": 3
+  },
+  {
+    "id": 2,
+    "heroID": "marina",
+    "name": "Marina",
+    "health": 500,
+    "resistTrap": 0.05,
+    "resistLight": 0.05,
+    "spd": 7,
+    "dashDistance": 4,
+    "dashCooldownBonusPercent": 2
+  }
+]
