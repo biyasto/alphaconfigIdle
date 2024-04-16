@@ -490,8 +490,22 @@
   {
     "id": 29,
     "name": "Elite Flaming Skull",
-    "model": "string",
+    "model": "06/Fire Mage",
+    "behaviorTree": "EliteFlamingSkullTree",
     "lives": 1,
+    "hpFactor": 20,
+    "movementspeed": 3,
+    "attackRange": 9,
+    "atkFactorTouch": 0,
+    "atkFactorProjectile": 1,
+    "attackInterval": 0.5,
+    "attackspeed": 2.5,
+    "detectRange": 5,
+    "size": 1.5,
+    "shadowRadius": 1.7,
+    "isAir": true,
+    "meleeInterval": 1,
+    "vfxYOffset": 0.5,
     "isBoss": false
   },
   {
