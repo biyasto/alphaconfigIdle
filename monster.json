@@ -491,7 +491,7 @@
     "id": 29,
     "name": "Elite Flaming Skull",
     "model": "06/Fire Mage",
-    "behaviorTree": "EliteFlamingSkullTree",
+    "behaviorTree": "29_EliteFlamingSkull",
     "lives": 1,
     "hpFactor": 20,
     "movementspeed": 3,
