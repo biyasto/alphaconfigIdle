@@ -85,7 +85,7 @@
     "atkFactorTouch": 0.5,
     "atkFactorProjectile": 0,
     "attackInterval": 0,
-    "attackspeed": 0,
+    "attackspeed": 1,
     "detectRange": 0,
     "description": "- Spawn in group of 3 - 5. Less HP but faster.\n- Chases the character.\n- Attack if the character is in front of it.\n- When dead, leave a toxic area that deals damage on second.",
     "size": 0.5,
