@@ -1247,5 +1247,28 @@
     "vfxYOffset": 0.5,
     "isBoss": false,
     "isElite": false
-  }
+  },
+  {
+  "id": 61,
+  "name": "Spider Nest",
+  "model": "MiniDemonBoar",
+  "behaviorTree": "61_SpiderNest",
+  "lives": 1,
+  "hpFactor": 10,
+  "movementspeed": 0,
+  "attackRange": 0,
+  "atkFactorTouch": 0,
+  "atkFactorProjectile": 0,
+  "attackInterval": 0,
+  "attackspeed": 0,
+  "detectRange": 0,
+  "description": "Spawn spiders.",
+  "size": 1.3,
+  "shadowRadius": 1,
+  "isAir": false,
+  "meleeInterval": 1,
+  "vfxYOffset": 0.5,
+  "isBoss": false,
+  "isElite": false
+}
 ]
