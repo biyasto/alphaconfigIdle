@@ -11,7 +11,7 @@
     "maxPower": 2250,
     "minDPS": 25,
     "maxDPS": 25,
-    "enemyAtk": 10,
+    "enemyAtk": 2,
     "isBoss": true,
     "bossID": 13,
     "trialID": 0,
