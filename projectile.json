@@ -173,10 +173,16 @@
   },
   {
     " ": 16,
+    "name": "Toxic Projectile",
     "type": "CurveProjectile",
-    "model": "Weapon/LineSphere",
+    "model": "Weapon/PoisonOrb",
     "livetime": 30,
-    "rotationspeed": 300
+    "ignorewhencollidewithhero": true,
+    "summonmonster": 14,
+    "rotationspeed": 50,
+    "speedbullet": 10,
+    "modelSize": 0.5,
+    "collisionSize": 0.9
   },
   {
     " ": 17,
