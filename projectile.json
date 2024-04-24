@@ -175,7 +175,7 @@
     " ": 16,
     "name": "Toxic Projectile",
     "type": "CurveProjectile",
-    "model": "Weapon/PoisonOrb",
+    "model": "Weapon/GreenStone",
     "livetime": 30,
     "ignorewhencollidewithhero": true,
     "summonmonster": 14,
