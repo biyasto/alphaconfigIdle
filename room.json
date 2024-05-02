@@ -16,7 +16,9 @@
     "bossID": 13,
     "trialID": 0,
     "mapgenid": 0,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "00",
+    "numMode": 3
   },
   {
     "DungeonID": 2,
@@ -35,7 +37,9 @@
     "bossID": 13,
     "trialID": 0,
     "mapgenid": 0,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 3
   },
   {
     "DungeonID": 3,
@@ -54,7 +58,9 @@
     "bossID": 13,
     "trialID": 50,
     "mapgenid": 0,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 4
   },
   {
     "DungeonID": 4,
@@ -73,7 +79,9 @@
     "bossID": 12,
     "trialID": 0,
     "mapgenid": 0,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 4
   },
   {
     "DungeonID": 5,
@@ -92,7 +100,9 @@
     "bossID": 13,
     "trialID": 0,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 4
   },
   {
     "DungeonID": 6,
@@ -111,7 +121,9 @@
     "bossID": 13,
     "trialID": 50,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 4
   },
   {
     "DungeonID": 7,
@@ -130,7 +142,9 @@
     "bossID": 13,
     "trialID": 50,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 4
   },
   {
     "DungeonID": 8,
@@ -149,7 +163,9 @@
     "bossID": 62,
     "trialID": 0,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 4
   },
   {
     "DungeonID": 9,
@@ -167,7 +183,9 @@
     "isBoss": true,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 4
   },
   {
     "DungeonID": 10,
@@ -185,7 +203,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 4
   },
   {
     "DungeonID": 11,
@@ -203,7 +223,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 4
   },
   {
     "DungeonID": 12,
@@ -221,7 +243,9 @@
     "isBoss": true,
     "bossID": 12,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 4
   },
   {
     "DungeonID": 13,
@@ -239,7 +263,9 @@
     "isBoss": true,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 14,
@@ -257,7 +283,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 15,
@@ -275,7 +303,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 16,
@@ -293,7 +323,9 @@
     "isBoss": true,
     "bossID": 12,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 17,
@@ -311,7 +343,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 18,
@@ -329,7 +363,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 19,
@@ -347,7 +383,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 20,
@@ -365,7 +403,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 21,
@@ -383,7 +423,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 22,
@@ -401,7 +443,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 23,
@@ -419,7 +463,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 24,
@@ -437,7 +483,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 25,
@@ -455,7 +503,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 26,
@@ -473,7 +523,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 27,
@@ -491,7 +543,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 28,
@@ -509,7 +563,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 29,
@@ -527,7 +583,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 30,
@@ -545,7 +603,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 31,
@@ -563,7 +623,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 32,
@@ -581,7 +643,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 33,
@@ -599,7 +663,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 34,
@@ -617,7 +683,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 35,
@@ -635,7 +703,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 36,
@@ -653,7 +723,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 37,
@@ -671,7 +743,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 38,
@@ -689,7 +763,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 39,
@@ -707,7 +783,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 40,
@@ -725,7 +803,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 41,
@@ -743,7 +823,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 42,
@@ -761,7 +843,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 43,
@@ -779,7 +863,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 44,
@@ -797,7 +883,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 45,
@@ -815,7 +903,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 46,
@@ -833,7 +923,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 47,
@@ -851,7 +943,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 48,
@@ -869,7 +963,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 49,
@@ -887,7 +983,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 50,
@@ -905,7 +1003,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 51,
@@ -923,7 +1023,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 52,
@@ -941,7 +1043,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 53,
@@ -959,7 +1063,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 54,
@@ -977,7 +1083,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 55,
@@ -995,7 +1103,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 56,
@@ -1013,7 +1123,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 57,
@@ -1031,7 +1143,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 58,
@@ -1049,7 +1163,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 59,
@@ -1067,7 +1183,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 60,
@@ -1085,7 +1203,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 61,
@@ -1103,7 +1223,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 62,
@@ -1121,7 +1243,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 63,
@@ -1139,7 +1263,9 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   },
   {
     "DungeonID": 64,
@@ -1157,6 +1283,8 @@
     "isBoss": false,
     "bossID": 13,
     "mapgenid": 1,
-    "eliteID": 29
+    "eliteID": 29,
+    "gameMode": "11",
+    "numMode": 5
   }
 ]
