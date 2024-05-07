@@ -26,7 +26,8 @@
     "vfxYOffset": 0.5,
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 2,
@@ -50,7 +51,8 @@
     "vfxYOffset": 0.5,
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 3,
@@ -74,7 +76,8 @@
     "vfxYOffset": 0.5,
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 4,
@@ -96,7 +99,8 @@
     "isAir": false,
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 5,
@@ -120,7 +124,8 @@
     "vfxYOffset": 0.5,
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 6,
@@ -142,7 +147,8 @@
     "meleeInterval": 1,
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 7,
@@ -164,7 +170,8 @@
     "isAir": false,
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 8,
@@ -185,7 +192,8 @@
     "isAir": false,
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 9,
@@ -203,7 +211,8 @@
     "isAir": false,
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 10,
@@ -224,7 +233,8 @@
     "isAir": false,
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 11,
@@ -244,7 +254,8 @@
     "isAir": false,
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 12,
@@ -267,7 +278,8 @@
     "vfxYOffset": 0.5,
     "isBoss": true,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 13,
@@ -289,7 +301,8 @@
     "vfxYOffset": 0.5,
     "isBoss": true,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 14,
@@ -306,7 +319,8 @@
     "description": "- Run towards player.\n- Explode on character touch, on death - deals damage to ANY ENTITIES.",
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 15,
@@ -329,7 +343,8 @@
     "vfxYOffset": 0.5,
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 16,
@@ -346,7 +361,8 @@
     "description": "- Chases the character.\n- Attack if the character is in front of it.\n- Turn into another color zombie on the first death. (some animation to show the turning phase)\n- The zombie's health will be halved but move 2 times faster, its attack increase 50%.",
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 17,
@@ -363,7 +379,8 @@
     "description": "- Chases the character.\n- Attack if the character is in front of it.\n- Being attacked while attacking receive 2 times damage.\n- Character is forced to shoot the taunting enemy when it enters character's shooting range.\n- If there are more than 1 Taunters, the character will shoot randomly to one of them.",
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 90
   },
   {
     "id": 18,
@@ -380,7 +397,8 @@
     "description": "- Chases the character.\n- When character is in its range, it starts to charge its attack.\n- An shooting indicator will appear, change its direction towards character.\n- After being ready, the indicator will flash for a little bit then it shoots the projectile towards character. Deal damage on touch and can be blocked by obstacles.\n- Run away when character gets in detect region.",
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 19,
@@ -399,7 +417,8 @@
     "size": 1,
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 20,
@@ -418,7 +437,8 @@
     "size": 0.8,
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 21,
@@ -441,7 +461,8 @@
     "meleeInterval": 0.5,
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 22,
@@ -451,7 +472,8 @@
     "description": "- Chases the character.\r\n- Fire a projectile that deals damage to character on hit.\n- The projectile moves curvely around the straight the direction from it to the character.\r\n- Run away when character gets in detect region.",
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 23,
@@ -470,7 +492,8 @@
     "description": "- Chases the character.\n- Fire 1 projectile that deals damage to character on hit.\n- Projectiles will follow the character for 5 seconds then dropping to the ground.\n- Run away when character gets in detect region.",
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 24,
@@ -485,7 +508,8 @@
     "description": "Chases the character, deal damage on touch.",
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 25,
@@ -500,7 +524,8 @@
     "description": "- Chases the character. Tankier but much slower.\n- When character is in attack region, charge & attack in circle region.\n- When charging, destroy all of the projectiles that enter the region.",
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 26,
@@ -514,7 +539,8 @@
     "description": "- Spawn in group of 3 - 5. Less HP but faster.\n- Chases the character, deal damage on touch.\n- When dead, leave a toxic area that deals damage on second.\n- The poison is bigger and having slow effect.",
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 27,
@@ -528,7 +554,8 @@
     "description": "- Fire 3 projectiles that deals damage to character on hit.\n- Run away when character gets in detect region.",
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 28,
@@ -542,7 +569,8 @@
     "description": "- Chases the character.\n- When character is in attack region, charge & run towards character, deal damage on touch.\n- Leaving a fire trail during dashing.",
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 29,
@@ -565,7 +593,8 @@
     "vfxYOffset": 0.5,
     "isBoss": false,
     "isElite": true,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 30,
@@ -587,7 +616,8 @@
     "vfxYOffset": 0.5,
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 31,
@@ -611,7 +641,8 @@
     "vfxYOffset": 0.5,
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 32,
@@ -635,7 +666,8 @@
     "vfxYOffset": 0.5,
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 33,
@@ -659,7 +691,8 @@
     "vfxYOffset": 0.5,
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 34,
@@ -682,7 +715,8 @@
     "vfxYOffset": 0.5,
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 35,
@@ -706,7 +740,8 @@
     "vfxYOffset": 0.5,
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 36,
@@ -730,7 +765,8 @@
     "vfxYOffset": 0.5,
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 37,
@@ -754,7 +790,8 @@
     "vfxYOffset": 0.5,
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 38,
@@ -778,7 +815,8 @@
     "vfxYOffset": 0.5,
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 39,
@@ -802,7 +840,8 @@
     "vfxYOffset": 0.5,
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 40,
@@ -826,7 +865,8 @@
     "vfxYOffset": 0.5,
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 41,
@@ -850,7 +890,8 @@
     "vfxYOffset": 0.5,
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 42,
@@ -874,7 +915,8 @@
     "vfxYOffset": 0.5,
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 43,
@@ -898,7 +940,8 @@
     "vfxYOffset": 0.5,
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 44,
@@ -922,7 +965,8 @@
     "vfxYOffset": 0.5,
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 45,
@@ -946,7 +990,8 @@
     "vfxYOffset": 0.5,
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 46,
@@ -970,7 +1015,8 @@
     "vfxYOffset": 0.5,
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 47,
@@ -994,7 +1040,8 @@
     "vfxYOffset": 0.5,
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 48,
@@ -1018,7 +1065,8 @@
     "vfxYOffset": 0.5,
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 49,
@@ -1042,7 +1090,8 @@
     "vfxYOffset": 0.5,
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 50,
@@ -1066,7 +1115,8 @@
     "vfxYOffset": 0.5,
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 51,
@@ -1090,7 +1140,8 @@
     "vfxYOffset": 0.5,
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 52,
@@ -1114,7 +1165,8 @@
     "vfxYOffset": 0.5,
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 53,
@@ -1138,7 +1190,8 @@
     "vfxYOffset": 0.5,
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 54,
@@ -1162,7 +1215,8 @@
     "vfxYOffset": 0.5,
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 55,
@@ -1186,7 +1240,8 @@
     "vfxYOffset": 0.5,
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 56,
@@ -1210,7 +1265,8 @@
     "vfxYOffset": 0.5,
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 57,
@@ -1234,7 +1290,8 @@
     "vfxYOffset": 0.5,
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 58,
@@ -1258,7 +1315,8 @@
     "vfxYOffset": 0.5,
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 59,
@@ -1282,7 +1340,8 @@
     "vfxYOffset": 0.5,
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 60,
@@ -1306,7 +1365,8 @@
     "vfxYOffset": 0.5,
     "isBoss": false,
     "isElite": false,
-    "weight": 0
+    "weight": 0,
+    "dmgResistance": 0
   },
   {
     "id": 61,
@@ -1330,7 +1390,8 @@
     "vfxYOffset": 0.5,
     "isBoss": false,
     "isElite": false,
-    "weight": 100000
+    "weight": 100000,
+    "dmgResistance": 0
   },
   {
     "id": 62,
@@ -1343,7 +1404,7 @@
     "attackRange": 2,
     "atkFactorTouch": 3,
     "atkFactorProjectile": 3,
-    "attackInterval": 2,
+    "attackInterval": 1,
     "attackspeed": 2,
     "detectRange": 0,
     "size": 2.3,
@@ -1353,6 +1414,7 @@
     "vfxYOffset": 0.5,
     "isBoss": true,
     "isElite": false,
-    "weight": 100000
+    "weight": 100000,
+    "dmgResistance": 0
   }
 ]
