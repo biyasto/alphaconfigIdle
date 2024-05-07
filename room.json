@@ -18,7 +18,8 @@
     "mapgenid": "tutorial",
     "eliteID": 29,
     "gameMode": "00",
-    "numMode": 3
+    "numMode": 3,
+    "monsterId": "1|2|3|5"
   },
   {
     "DungeonID": 2,
@@ -39,7 +40,8 @@
     "mapgenid": 0,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 3
+    "numMode": 3,
+    "monsterId": "1|2|3|5|8"
   },
   {
     "DungeonID": 3,
@@ -60,7 +62,8 @@
     "mapgenid": 0,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 4
+    "numMode": 4,
+    "monsterId": "1|2|3|5|8|4"
   },
   {
     "DungeonID": 4,
@@ -81,7 +84,8 @@
     "mapgenid": 0,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 4
+    "numMode": 4,
+    "monsterId": "1|2|3|5|8|4"
   },
   {
     "DungeonID": 5,
@@ -102,7 +106,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 4
+    "numMode": 4,
+    "monsterId": "1|2|3|5|8|4|7"
   },
   {
     "DungeonID": 6,
@@ -123,7 +128,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 4
+    "numMode": 4,
+    "monsterId": "1|2|3|5|8|4|7|11"
   },
   {
     "DungeonID": 7,
@@ -144,7 +150,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 4
+    "numMode": 4,
+    "monsterId": "1|2|20|5|8|4|7|11"
   },
   {
     "DungeonID": 8,
@@ -165,7 +172,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 4
+    "numMode": 4,
+    "monsterId": "1|2|20|5|8|4|7|11"
   },
   {
     "DungeonID": 9,
@@ -185,7 +193,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 4
+    "numMode": 4,
+    "monsterId": "15|2|20|5|8|4|7|11"
   },
   {
     "DungeonID": 10,
@@ -205,7 +214,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 4
+    "numMode": 4,
+    "monsterId": "15|31|20|5|8|4|7|11"
   },
   {
     "DungeonID": 11,
@@ -225,7 +235,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 4
+    "numMode": 4,
+    "monsterId": "15|31|20|5|8|4|7|11|6"
   },
   {
     "DungeonID": 12,
@@ -245,7 +256,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 4
+    "numMode": 4,
+    "monsterId": "15|31|20|5|8|4|7|11|6"
   },
   {
     "DungeonID": 13,
@@ -265,7 +277,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "15|31|20|21|8|4|7|11|6"
   },
   {
     "DungeonID": 14,
@@ -285,7 +298,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "15|31|20|21|8|4|7|11|6|19"
   },
   {
     "DungeonID": 15,
@@ -305,7 +319,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "15|31|20|21|8|4|7|11|6|19"
   },
   {
     "DungeonID": 16,
@@ -325,7 +340,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "15|31|20|21|8|4|7|11|6|19"
   },
   {
     "DungeonID": 17,
@@ -345,7 +361,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "15|31|18|21|8|33|7|11|6|19"
   },
   {
     "DungeonID": 18,
@@ -365,7 +382,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "15|31|18|21|8|33|7|11|6|19"
   },
   {
     "DungeonID": 19,
@@ -385,7 +403,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "15|31|18|21|34|33|7|11|6|19"
   },
   {
     "DungeonID": 20,
@@ -405,7 +424,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "15|31|18|21|34|33|7|11|6|19"
   },
   {
     "DungeonID": 21,
@@ -425,7 +445,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "16|31|18|21|34|33|7|11|6|19"
   },
   {
     "DungeonID": 22,
@@ -445,7 +466,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "16|17|18|21|34|33|7|11|6|19"
   },
   {
     "DungeonID": 23,
@@ -465,7 +487,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "16|17|18|21|34|33|35|11|6|19"
   },
   {
     "DungeonID": 24,
@@ -485,7 +508,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "16|17|18|21|34|33|35|11|6|19"
   },
   {
     "DungeonID": 25,
@@ -505,7 +529,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "16|17|18|21|34|33|35|36|19"
   },
   {
     "DungeonID": 26,
@@ -525,7 +550,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "16|17|18|21|34|33|35|36|19"
   },
   {
     "DungeonID": 27,
@@ -545,7 +571,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "16|17|18|21|34|33|35|36|37|19"
   },
   {
     "DungeonID": 28,
@@ -565,7 +592,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "16|17|18|21|34|33|35|36|37|19"
   },
   {
     "DungeonID": 29,
@@ -585,7 +613,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "16|17|38|34|33|35|36|37"
   },
   {
     "DungeonID": 30,
@@ -605,7 +634,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "16|17|38|39|34|33|35|36|37"
   },
   {
     "DungeonID": 31,
@@ -625,7 +655,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "16|17|38|39|34|33|35|36|37"
   },
   {
     "DungeonID": 32,
@@ -645,7 +676,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "16|17|38|39|34|33|35|36|37"
   },
   {
     "DungeonID": 33,
@@ -665,7 +697,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "40|17|38|39|10|14|35|36|37"
   },
   {
     "DungeonID": 34,
@@ -685,7 +718,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "40|41|38|39|10|14|35|36|37"
   },
   {
     "DungeonID": 35,
@@ -705,7 +739,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "40|41|38|39|10|14|35|36|37"
   },
   {
     "DungeonID": 36,
@@ -725,7 +760,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "40|41|38|39|10|14|35|36|37"
   },
   {
     "DungeonID": 37,
@@ -745,7 +781,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "40|41|38|39|10|14|23|37"
   },
   {
     "DungeonID": 38,
@@ -765,7 +802,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "40|41|38|39|10|14|23|44"
   },
   {
     "DungeonID": 39,
@@ -785,7 +823,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "40|41|38|39|10|14|23|45|44"
   },
   {
     "DungeonID": 40,
@@ -805,7 +844,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "40|41|38|39|10|14|23|45|44"
   },
   {
     "DungeonID": 41,
@@ -825,7 +865,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "40|41|46|10|14|23|45|44"
   },
   {
     "DungeonID": 42,
@@ -845,7 +886,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "40|41|46|47|10|14|23|45|44"
   },
   {
     "DungeonID": 43,
@@ -865,7 +907,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "40|41|46|47|48|23|45|44"
   },
   {
     "DungeonID": 44,
@@ -885,7 +928,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "40|41|46|47|48|23|45|44"
   },
   {
     "DungeonID": 45,
@@ -905,7 +949,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "42|41|46|47|48|45|44"
   },
   {
     "DungeonID": 46,
@@ -925,7 +970,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "42|41|46|47|48|49|45|44"
   },
   {
     "DungeonID": 47,
@@ -945,7 +991,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "42|41|46|47|48|49|45|50"
   },
   {
     "DungeonID": 48,
@@ -965,7 +1012,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "42|41|46|47|48|49|45|50"
   },
   {
     "DungeonID": 49,
@@ -985,7 +1033,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "42|52|47|48|49|45|50"
   },
   {
     "DungeonID": 50,
@@ -1005,7 +1054,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "42|52|53|51|48|49|50"
   },
   {
     "DungeonID": 51,
@@ -1025,7 +1075,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "42|52|54|53|51|49|50"
   },
   {
     "DungeonID": 52,
@@ -1045,7 +1096,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "42|52|54|53|51|49|50"
   },
   {
     "DungeonID": 53,
@@ -1065,7 +1117,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "42|52|54|53|51|55|49|50"
   },
   {
     "DungeonID": 54,
@@ -1085,7 +1138,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "42|52|54|53|51|55|49|56|50"
   },
   {
     "DungeonID": 55,
@@ -1105,7 +1159,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "42|52|54|53|51|55|56"
   },
   {
     "DungeonID": 56,
@@ -1125,7 +1180,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "42|52|54|53|51|55|56"
   },
   {
     "DungeonID": 57,
@@ -1145,7 +1201,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "43|52|54|53|51|55|56"
   },
   {
     "DungeonID": 58,
@@ -1165,7 +1222,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "43|52|54|57|51|55|56"
   },
   {
     "DungeonID": 59,
@@ -1185,7 +1243,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "43|52|57|51|55|59|56"
   },
   {
     "DungeonID": 60,
@@ -1205,7 +1264,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "43|52|57|51|55|59|56"
   },
   {
     "DungeonID": 61,
@@ -1225,7 +1285,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "43|52|60|57|51|55|59|56|58"
   },
   {
     "DungeonID": 62,
@@ -1245,7 +1306,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "43|52|60|57|51|55|59|58"
   },
   {
     "DungeonID": 63,
@@ -1265,7 +1327,8 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "43|52|60|57|51|55|59|58"
   },
   {
     "DungeonID": 64,
@@ -1285,6 +1348,7 @@
     "mapgenid": 1,
     "eliteID": 29,
     "gameMode": "11",
-    "numMode": 5
+    "numMode": 5,
+    "monsterId": "43|52|60|57|51|55|59|58"
   }
 ]
