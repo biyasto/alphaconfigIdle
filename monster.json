@@ -367,7 +367,8 @@
   {
     "id": 17,
     "name": "Taunt Golem",
-    "model": "string",
+    "model": "TauntGolem",
+    "behaviorTree": "17_TauntGolem",
     "lives": 1,
     "hpFactor": 8,
     "movementspeed": 3,
