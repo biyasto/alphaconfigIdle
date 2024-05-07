@@ -375,7 +375,7 @@
     "attackRange": 3,
     "atkFactorTouch": 1,
     "atkFactorProjectile": 0,
-    "attackInterval": 0,
+    "attackInterval": 1,
     "attackspeed": 2,
     "detectRange": 0,
     "description": "- Chases the character.\n- Attack if the character is in front of it.\n- Being attacked while attacking receive 2 times damage.\n- Character is forced to shoot the taunting enemy when it enters character's shooting range.\n- If there are more than 1 Taunters, the character will shoot randomly to one of them.",
