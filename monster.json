@@ -284,7 +284,7 @@
   {
     "id": 13,
     "name": "[Mini] Demon Boar",
-    "model": "MiniDemonBoar",
+    "model": "02/Werewolf",
     "behaviorTree": "MiniDemonBoarTree",
     "lives": 1,
     "hpFactor": 8,
@@ -295,7 +295,7 @@
     "attackspeed": 2,
     "detectRange": 0,
     "size": 1.5,
-    "shadowRadius": 4,
+    "shadowRadius": 2.8,
     "isAir": false,
     "meleeInterval": 1,
     "vfxYOffset": 0.5,
