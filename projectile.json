@@ -187,8 +187,8 @@
   {
     " ": 17,
     "name": "Slow Projectile",
-    "type": "SphereSkill",
-    "model": "Weapon/FireArrow",
+    "type": "Straight",
+    "model": "Weapon/LightningOrbSharpBlue",
     "livetime": 8,
     "ignorewhencollidewithhero": false,
     "ignoredamagetohero": false,
