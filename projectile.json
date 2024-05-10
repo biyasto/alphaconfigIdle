@@ -186,10 +186,15 @@
   },
   {
     " ": 17,
-    "type": "CurveProjectile",
-    "model": "Weapon/Sphere",
-    "livetime": 30,
-    "attackafterdisapear": 11
+    "name": "Slow Projectile",
+    "type": "SphereSkill",
+    "model": "Weapon/FireArrow",
+    "livetime": 8,
+    "ignorewhencollidewithhero": false,
+    "ignoredamagetohero": false,
+    "speedbullet": 2,
+    "modelSize": 0.5,
+    "collisionSize": 0.5
   },
   {
     " ": 18,
