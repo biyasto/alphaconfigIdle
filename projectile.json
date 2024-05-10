@@ -198,10 +198,16 @@
   },
   {
     " ": 18,
+    "name": "Guardian Hand Projectile",
     "type": "Straight",
-    "model": "Weapon/Sphere",
-    "livetime": 30,
-    "speedbullet": 7
+    "model": "Weapon/LightningOrbSharpBlue",
+    "livetime": 8,
+    "effecttype": 0,
+    "ignorewhencollidewithhero": false,
+    "ignoredamagetohero": false,
+    "speedbullet": 10,
+    "modelSize": 2,
+    "collisionSize": 2
   },
   {
     " ": 19,
