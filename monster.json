@@ -100,7 +100,8 @@
     "isBoss": false,
     "isElite": false,
     "weight": 0,
-    "dmgResistance": 0
+    "dmgResistance": 0,
+    "onDeath": "OnDeath_Toxic"
   },
   {
     "id": 5,
