@@ -1517,5 +1517,30 @@
     "isElite": false,
     "weight": 100000,
     "dmgResistance": 0
+  },
+  {
+    "id": 67,
+    "name": "Ice Crystal",
+    "model": "IceCrystal",
+    "behaviorTree": "67_IceCrystal",
+    "lives": 1,
+    "hpFactor": 10,
+    "movementspeed": 0,
+    "attackRange": 0,
+    "atkFactorTouch": 0,
+    "atkFactorProjectile": 0,
+    "attackInterval": 0,
+    "attackspeed": 0,
+    "detectRange": 0,
+    "description": "Conquest Components.",
+    "size": 1,
+    "shadowRadius": 0.75,
+    "isAir": false,
+    "meleeInterval": 1,
+    "vfxYOffset": 0.5,
+    "isBoss": false,
+    "isElite": false,
+    "weight": 100000,
+    "dmgResistance": 1
   }
 ]
