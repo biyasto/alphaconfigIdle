@@ -39,7 +39,7 @@
     "ignoreobstacle": true,
     "speedbullet": 15,
     "modelSize": 5,
-    "collisionSize": 1.5
+    "collisionSize": 5
   },
   {
     " ": 4,
