@@ -1493,5 +1493,29 @@
     "isElite": false,
     "weight": 100000,
     "dmgResistance": 0
+  },
+  {
+    "id": 66,
+    "name": "[Boss] Conquest",
+    "model": "Conquest",
+    "behaviorTree": "ConquestTree",
+    "lives": 1,
+    "hpFactor": 8,
+    "movementspeed": 2,
+    "attackRange": 2,
+    "atkFactorTouch": 3,
+    "atkFactorProjectile": 3,
+    "attackInterval": 1,
+    "attackspeed": 2,
+    "detectRange": 0,
+    "size": 2.3,
+    "shadowRadius": 4,
+    "isAir": false,
+    "meleeInterval": 1,
+    "vfxYOffset": 0.5,
+    "isBoss": true,
+    "isElite": false,
+    "weight": 100000,
+    "dmgResistance": 0
   }
 ]
