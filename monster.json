@@ -1525,7 +1525,7 @@
     "behaviorTree": "67_IceCrystal",
     "lives": 1,
     "hpFactor": 10,
-    "movementspeed": 0,
+    "movementspeed": 3,
     "attackRange": 0,
     "atkFactorTouch": 0,
     "atkFactorProjectile": 0,
