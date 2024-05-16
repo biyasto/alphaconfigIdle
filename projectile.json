@@ -316,7 +316,16 @@
     "collisionSize": 0.001
   },
   {
-    " ": 28
+    " ": 28,
+    "name": "Sniper Projectile",
+    "type": "SphereSkill",
+    "model": "Weapon/FireArrow",
+    "livetime": 5,
+    "ignorewhencollidewithhero": false,
+    "ignoredamagetohero": false,
+    "speedbullet": 15,
+    "modelSize": 1,
+    "collisionSize": 1
   },
   {
     " ": 29
