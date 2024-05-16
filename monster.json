@@ -398,7 +398,7 @@
     "attackRange": 15,
     "atkFactorTouch": 0.8,
     "atkFactorProjectile": 2,
-    "attackInterval": 2,
+    "attackInterval": 0.5,
     "attackspeed": 5,
     "detectRange": 8,
     "description": "- Chases the character.\n- When character is in its range, it starts to charge its attack.\n- An shooting indicator will appear, change its direction towards character.\n- After being ready, the indicator will flash for a little bit then it shoots the projectile towards character. Deal damage on touch and can be blocked by obstacles.\n- Run away when character gets in detect region.",
