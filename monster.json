@@ -1458,7 +1458,7 @@
     "atkFactorTouch": 3,
     "atkFactorProjectile": 3,
     "attackInterval": 1,
-    "attackspeed": 2,
+    "attackspeed": 0,
     "detectRange": 0,
     "size": 2.3,
     "shadowRadius": 4,
