@@ -352,7 +352,7 @@
     "name": "Persistent Skeleton",
     "model": "CuteBat",
     "behaviorTree": "01_LesserZombie",
-    "lives": 1,
+    "lives": 2,
     "hpFactor": 2,
     "movementspeed": 2.5,
     "attackRange": 1.5,
