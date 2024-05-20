@@ -749,7 +749,7 @@
     "attackRange": 4,
     "atkFactorTouch": 1,
     "atkFactorProjectile": 1,
-    "attackInterval": 0,
+    "attackInterval": 1,
     "attackspeed": 2,
     "detectRange": 10,
     "description": "- Chases the character. \n- When character is in attack region, attack and capture the character, make them immobile for 1 second.",
