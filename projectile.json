@@ -328,7 +328,17 @@
     "collisionSize": 1
   },
   {
-    " ": 29
+    " ": 29,
+    "name": "Conquest Projectile",
+    "type": "Straight",
+    "model": "Weapon/FireOrbSharpBlue",
+    "livetime": 10,
+    "ignorewhencollidewithhero": true,
+    "ignoredamagetohero": false,
+    "ignoreobstacle": true,
+    "speedbullet": 15,
+    "modelSize": 5,
+    "collisionSize": 5
   },
   {
     " ": 30,
