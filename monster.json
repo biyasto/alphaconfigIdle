@@ -1543,7 +1543,7 @@
     "movementspeed": 3,
     "attackRange": 0,
     "atkFactorTouch": 0,
-    "atkFactorProjectile": 0,
+    "atkFactorProjectile": 1,
     "attackInterval": 0,
     "attackspeed": 0,
     "detectRange": 0,
