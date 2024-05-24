@@ -1544,7 +1544,7 @@
     "attackRange": 0,
     "atkFactorTouch": 0,
     "atkFactorProjectile": 1,
-    "attackInterval": 0.25,
+    "attackInterval": 0.35,
     "attackspeed": 1.5,
     "detectRange": 0,
     "description": "Conquest Components.",
