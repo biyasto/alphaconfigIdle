@@ -522,8 +522,8 @@
     "summonmonster": 14,
     "rotationspeed": 50,
     "speedbullet": 7,
-    "modelSize": 1,
-    "collisionSize": 1
+    "modelSize": 2,
+    "collisionSize": 2
   },
   {
     " ": 45,
