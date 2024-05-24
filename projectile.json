@@ -514,14 +514,16 @@
   },
   {
     " ": 44,
-    "name": "Big Rock",
-    "type": "Straight",
-    "model": "Weapon/Giant Blue Rock Golem",
+    "name": "SnowBall",
+    "type": "CurveProjectile",
+    "model": "Weapon/SnowBall",
     "livetime": 30,
+    "ignorewhencollidewithhero": true,
+    "summonmonster": 14,
     "rotationspeed": 50,
-    "speedbullet": 4.5,
-    "modelSize": 0.7,
-    "collisionSize": 0.7
+    "speedbullet": 7,
+    "modelSize": 1,
+    "collisionSize": 1
   },
   {
     " ": 45,
