@@ -477,7 +477,7 @@
     "enemyAtk": 79,
     "isBoss": true,
     "bossID": 72,
-    "mapgenid": 2,
+    "mapgenid": 0,
     "eliteID": 29,
     "gameMode": "1|2",
     "classicModeRate": 50,
