@@ -323,9 +323,9 @@
     "livetime": 5,
     "ignorewhencollidewithhero": false,
     "ignoredamagetohero": false,
-    "speedbullet": 15,
-    "modelSize": 1,
-    "collisionSize": 1
+    "speedbullet": 35,
+    "modelSize": 1.5,
+    "collisionSize": 1.5
   },
   {
     " ": 29,
@@ -522,8 +522,8 @@
     "summonmonster": 14,
     "rotationspeed": 50,
     "speedbullet": 7,
-    "modelSize": 2,
-    "collisionSize": 2
+    "modelSize": 1,
+    "collisionSize": 1
   },
   {
     " ": 45,
