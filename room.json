@@ -380,7 +380,7 @@
     "maxDPS": 2373,
     "enemyAtk": 44,
     "isBoss": true,
-    "bossID": 66,
+    "bossID": 65,
     "mapgenid": 2,
     "eliteID": 29,
     "gameMode": "1|2",
