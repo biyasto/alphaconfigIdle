@@ -1590,7 +1590,7 @@
     "behaviorTree": "69_EliteWildBoar",
     "lives": 1,
     "hpFactor": 10,
-    "movementspeed": 3,
+    "movementspeed": 1.5,
     "attackRange": 0,
     "atkFactorTouch": 3,
     "atkFactorProjectile": 3,
