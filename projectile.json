@@ -320,7 +320,7 @@
     "name": "Sniper Projectile",
     "type": "SphereSkill",
     "model": "Weapon/FireArrow",
-    "livetime": 5,
+    "livetime": 25,
     "ignorewhencollidewithhero": false,
     "ignoredamagetohero": false,
     "speedbullet": 35,
@@ -937,5 +937,18 @@
     "modelSize": 0.001,
     "collisionSize": 0.25,
     "shadowGraphicScale": 0.001
+  },
+  {
+    " ": 75,
+    "name": "Sniper Bounce Projectile",
+    "type": "SphereSkill",
+    "model": "Weapon/FireArrow",
+    "livetime": 25,
+    "bouncingwalltimes": 3,
+    "ignorewhencollidewithhero": false,
+    "ignoredamagetohero": false,
+    "speedbullet": 35,
+    "modelSize": 1.5,
+    "collisionSize": 1.5
   }
 ]
