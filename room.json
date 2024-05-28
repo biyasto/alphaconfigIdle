@@ -475,7 +475,7 @@
     "minDPS": 2807,
     "maxDPS": 4882,
     "enemyAtk": 79,
-    "isBoss": false,
+    "isBoss": true,
     "bossID": 72,
     "mapgenid": 2,
     "eliteID": 29,
