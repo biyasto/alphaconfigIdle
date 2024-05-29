@@ -190,5 +190,37 @@
     "TrackId": 15,
     "CompleteProgress": 5,
     "Points": 20
+  },
+  {
+    "Id": 25,
+    "Description": "Finish Countryside",
+    "Type": 2,
+    "TrackId": 16,
+    "TrackValue": 1,
+    "CompleteProgress": 1
+  },
+  {
+    "Id": 26,
+    "Description": "Finish City",
+    "Type": 2,
+    "TrackId": 16,
+    "TrackValue": 2,
+    "CompleteProgress": 1
+  },
+  {
+    "Id": 27,
+    "Description": "Finish Building",
+    "Type": 2,
+    "TrackId": 16,
+    "TrackValue": 3,
+    "CompleteProgress": 1
+  },
+  {
+    "Id": 28,
+    "Description": "Finish Underground Labratory",
+    "Type": 2,
+    "TrackId": 16,
+    "TrackValue": 4,
+    "CompleteProgress": 1
   }
 ]
