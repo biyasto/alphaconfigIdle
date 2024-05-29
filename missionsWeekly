@@ -1,0 +1,86 @@
+[
+  {
+    "Id": 101,
+    "Description": "Login",
+    "TrackId": 1,
+    "CompleteProgress": 5,
+    "Points": 10
+  },
+  {
+    "Id": 102,
+    "Description": "Gacha",
+    "TrackId": 2,
+    "CompleteProgress": 5,
+    "Points": 10
+  },
+  {
+    "Id": 103,
+    "Description": "Use Energy",
+    "TrackId": 3,
+    "CompleteProgress": 150,
+    "Points": 10
+  },
+  {
+    "Id": 104,
+    "Description": "Play main stages",
+    "TrackId": 4,
+    "CompleteProgress": 5,
+    "Points": 10
+  },
+  {
+    "Id": 105,
+    "Description": "Defeat enemies",
+    "TrackId": 5,
+    "CompleteProgress": 7000,
+    "Points": 10
+  },
+  {
+    "Id": 106,
+    "Description": "Upgrade Character or Weapon",
+    "TrackId": 6,
+    "CompleteProgress": 5,
+    "Points": 10
+  },
+  {
+    "Id": 107,
+    "Description": "Obtain Character or Weapon",
+    "TrackId": 13,
+    "CompleteProgress": 5,
+    "Points": 10
+  },
+  {
+    "Id": 108,
+    "Description": "Purchase Daily Shop items",
+    "TrackId": 8,
+    "CompleteProgress": 10,
+    "Points": 10
+  },
+  {
+    "Id": 109,
+    "Description": "Reset the Daily Shop",
+    "TrackId": 14,
+    "CompleteProgress": 5,
+    "Points": 10
+  },
+  {
+    "Id": 110,
+    "Description": "Play Tower Mode",
+    "TrackId": 10,
+    "CompleteProgress": 5,
+    "Points": 10
+  },
+  {
+    "Id": 111,
+    "Description": "Watch Ads",
+    "TrackId": 11,
+    "CompleteProgress": 5,
+    "Points": 10
+  },
+  {
+    "Id": 112,
+    "Description": "Purchase Cash Items",
+    "TrackId": 15,
+    "CompleteProgress": 5,
+    "Points": 20
+  }
+]
