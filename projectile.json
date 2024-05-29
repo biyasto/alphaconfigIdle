@@ -950,5 +950,18 @@
     "speedbullet": 35,
     "modelSize": 1.5,
     "collisionSize": 1.5
+  },
+  {
+    " ": 76,
+    "name": "Bounce Projectile (5)",
+    "type": "SphereSkill",
+    "model": "Weapon/FireArrow",
+    "livetime": 20,
+    "bouncingwalltimes": 5,
+    "ignorewhencollidewithhero": false,
+    "ignoredamagetohero": false,
+    "speedbullet": 7,
+    "modelSize": 1,
+    "collisionSize": 1
   }
 ]
