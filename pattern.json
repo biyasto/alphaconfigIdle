@@ -2,28 +2,28 @@
   {
     "PatternID": 1,
     "MonsterID": 1,
-    "MonsterName": "Lesser Zombie",
+    "MonsterName": "Skeleton",
     "Rate": 1,
     "maxOnScreen": 30
   },
   {
     "PatternID": 2,
     "MonsterID": 1,
-    "MonsterName": "Lesser Zombie",
+    "MonsterName": "Skeleton",
     "Rate": 0.75,
     "maxOnScreen": 30
   },
   {
     "PatternID": 2,
     "MonsterID": 2,
-    "MonsterName": "Mutated Zombie",
+    "MonsterName": "Stone Golem",
     "Rate": 0.25,
     "maxOnScreen": 3
   },
   {
     "PatternID": 3,
     "MonsterID": 1,
-    "MonsterName": "Lesser Zombie",
+    "MonsterName": "Skeleton",
     "Rate": 0.8,
     "maxOnScreen": 30
   },
@@ -37,14 +37,14 @@
   {
     "PatternID": 4,
     "MonsterID": 1,
-    "MonsterName": "Lesser Zombie",
+    "MonsterName": "Skeleton",
     "Rate": 0.7,
     "maxOnScreen": 30
   },
   {
     "PatternID": 4,
     "MonsterID": 2,
-    "MonsterName": "Mutated Zombie",
+    "MonsterName": "Stone Golem",
     "Rate": 0.15,
     "maxOnScreen": 3
   },
@@ -58,14 +58,14 @@
   {
     "PatternID": 5,
     "MonsterID": 1,
-    "MonsterName": "Lesser Zombie",
+    "MonsterName": "Skeleton",
     "Rate": 0.5,
     "maxOnScreen": 35
   },
   {
     "PatternID": 5,
     "MonsterID": 2,
-    "MonsterName": "Mutated Zombie",
+    "MonsterName": "Stone Golem",
     "Rate": 0.25,
     "maxOnScreen": 3
   },
@@ -79,14 +79,14 @@
   {
     "PatternID": 6,
     "MonsterID": 1,
-    "MonsterName": "Lesser Zombie",
+    "MonsterName": "Skeleton",
     "Rate": 0.5,
     "maxOnScreen": 35
   },
   {
     "PatternID": 6,
     "MonsterID": 2,
-    "MonsterName": "Mutated Zombie",
+    "MonsterName": "Stone Golem",
     "Rate": 0.15,
     "maxOnScreen": 3
   },
@@ -100,7 +100,7 @@
   {
     "PatternID": 7,
     "MonsterID": 1,
-    "MonsterName": "Lesser Zombie",
+    "MonsterName": "Skeleton",
     "Rate": 0.7,
     "maxOnScreen": 35
   },
@@ -121,7 +121,7 @@
   {
     "PatternID": 8,
     "MonsterID": 1,
-    "MonsterName": "Lesser Zombie",
+    "MonsterName": "Skeleton",
     "Rate": 0.55,
     "maxOnScreen": 35
   },
@@ -142,14 +142,14 @@
   {
     "PatternID": 9,
     "MonsterID": 1,
-    "MonsterName": "Lesser Zombie",
+    "MonsterName": "Skeleton",
     "Rate": 0.7,
     "maxOnScreen": 35
   },
   {
     "PatternID": 9,
     "MonsterID": 2,
-    "MonsterName": "Mutated Zombie",
+    "MonsterName": "Stone Golem",
     "Rate": 0.1,
     "maxOnScreen": 3
   },
@@ -170,14 +170,14 @@
   {
     "PatternID": 10,
     "MonsterID": 1,
-    "MonsterName": "Lesser Zombie",
+    "MonsterName": "Skeleton",
     "Rate": 0.6,
     "maxOnScreen": 35
   },
   {
     "PatternID": 10,
     "MonsterID": 2,
-    "MonsterName": "Mutated Zombie",
+    "MonsterName": "Stone Golem",
     "Rate": 0.1,
     "maxOnScreen": 3
   },
@@ -198,14 +198,14 @@
   {
     "PatternID": 11,
     "MonsterID": 1,
-    "MonsterName": "Lesser Zombie",
+    "MonsterName": "Skeleton",
     "Rate": 0.3,
     "maxOnScreen": 35
   },
   {
     "PatternID": 11,
     "MonsterID": 2,
-    "MonsterName": "Mutated Zombie",
+    "MonsterName": "Stone Golem",
     "Rate": 0.1,
     "maxOnScreen": 3
   },
@@ -226,14 +226,14 @@
   {
     "PatternID": 12,
     "MonsterID": 1,
-    "MonsterName": "Lesser Zombie",
+    "MonsterName": "Skeleton",
     "Rate": 0.7,
     "maxOnScreen": 35
   },
   {
     "PatternID": 12,
     "MonsterID": 2,
-    "MonsterName": "Mutated Zombie",
+    "MonsterName": "Stone Golem",
     "Rate": 0.1,
     "maxOnScreen": 3
   },
@@ -247,21 +247,21 @@
   {
     "PatternID": 12,
     "MonsterID": 8,
-    "MonsterName": "Mutated Mole",
+    "MonsterName": "Teleport Wizard",
     "Rate": 0.1,
     "maxOnScreen": 2
   },
   {
     "PatternID": 13,
     "MonsterID": 1,
-    "MonsterName": "Lesser Zombie",
+    "MonsterName": "Skeleton",
     "Rate": 0.6,
     "maxOnScreen": 35
   },
   {
     "PatternID": 13,
     "MonsterID": 2,
-    "MonsterName": "Mutated Zombie",
+    "MonsterName": "Stone Golem",
     "Rate": 0.1,
     "maxOnScreen": 3
   },
@@ -275,14 +275,14 @@
   {
     "PatternID": 13,
     "MonsterID": 8,
-    "MonsterName": "Mutated Mole",
+    "MonsterName": "Teleport Wizard",
     "Rate": 0.1,
     "maxOnScreen": 2
   },
   {
     "PatternID": 14,
     "MonsterID": 2,
-    "MonsterName": "Mutated Zombie",
+    "MonsterName": "Stone Golem",
     "Rate": 0.4,
     "maxOnScreen": 3
   },
@@ -303,21 +303,21 @@
   {
     "PatternID": 14,
     "MonsterID": 8,
-    "MonsterName": "Mutated Mole",
+    "MonsterName": "Teleport Wizard",
     "Rate": 0.2,
     "maxOnScreen": 2
   },
   {
     "PatternID": 15,
     "MonsterID": 1,
-    "MonsterName": "Lesser Zombie",
+    "MonsterName": "Skeleton",
     "Rate": 0.4,
     "maxOnScreen": 35
   },
   {
     "PatternID": 15,
     "MonsterID": 2,
-    "MonsterName": "Mutated Zombie",
+    "MonsterName": "Stone Golem",
     "Rate": 0.15,
     "maxOnScreen": 3
   },
@@ -338,21 +338,21 @@
   {
     "PatternID": 15,
     "MonsterID": 8,
-    "MonsterName": "Mutated Mole",
+    "MonsterName": "Teleport Wizard",
     "Rate": 0.15,
     "maxOnScreen": 2
   },
   {
     "PatternID": 16,
     "MonsterID": 1,
-    "MonsterName": "Lesser Zombie",
+    "MonsterName": "Skeleton",
     "Rate": 0.45,
     "maxOnScreen": 35
   },
   {
     "PatternID": 16,
     "MonsterID": 2,
-    "MonsterName": "Mutated Zombie",
+    "MonsterName": "Stone Golem",
     "Rate": 0.1,
     "maxOnScreen": 3
   },
@@ -373,21 +373,21 @@
   {
     "PatternID": 16,
     "MonsterID": 8,
-    "MonsterName": "Mutated Mole",
+    "MonsterName": "Teleport Wizard",
     "Rate": 0.25,
     "maxOnScreen": 3
   },
   {
     "PatternID": 17,
     "MonsterID": 1,
-    "MonsterName": "Lesser Zombie",
+    "MonsterName": "Skeleton",
     "Rate": 0.4,
     "maxOnScreen": 35
   },
   {
     "PatternID": 17,
     "MonsterID": 2,
-    "MonsterName": "Mutated Zombie",
+    "MonsterName": "Stone Golem",
     "Rate": 0.1,
     "maxOnScreen": 3
   },
@@ -401,21 +401,21 @@
   {
     "PatternID": 17,
     "MonsterID": 8,
-    "MonsterName": "Mutated Mole",
+    "MonsterName": "Teleport Wizard",
     "Rate": 0.25,
     "maxOnScreen": 3
   },
   {
     "PatternID": 18,
     "MonsterID": 1,
-    "MonsterName": "Lesser Zombie",
+    "MonsterName": "Skeleton",
     "Rate": 0.55,
     "maxOnScreen": 35
   },
   {
     "PatternID": 18,
     "MonsterID": 2,
-    "MonsterName": "Mutated Zombie",
+    "MonsterName": "Stone Golem",
     "Rate": 0.1,
     "maxOnScreen": 4
   },
@@ -436,14 +436,14 @@
   {
     "PatternID": 19,
     "MonsterID": 1,
-    "MonsterName": "Lesser Zombie",
+    "MonsterName": "Skeleton",
     "Rate": 0.35,
     "maxOnScreen": 35
   },
   {
     "PatternID": 19,
     "MonsterID": 2,
-    "MonsterName": "Mutated Zombie",
+    "MonsterName": "Stone Golem",
     "Rate": 0.1,
     "maxOnScreen": 4
   },
@@ -464,7 +464,7 @@
   {
     "PatternID": 20,
     "MonsterID": 1,
-    "MonsterName": "Lesser Zombie",
+    "MonsterName": "Skeleton",
     "Rate": 0.45,
     "maxOnScreen": 35
   },
@@ -485,14 +485,14 @@
   {
     "PatternID": 20,
     "MonsterID": 8,
-    "MonsterName": "Mutated Mole",
+    "MonsterName": "Teleport Wizard",
     "Rate": 0.2,
     "maxOnScreen": 3
   },
   {
     "PatternID": 21,
     "MonsterID": 1,
-    "MonsterName": "Lesser Zombie",
+    "MonsterName": "Skeleton",
     "Rate": 0.25,
     "maxOnScreen": 35
   },
@@ -513,21 +513,21 @@
   {
     "PatternID": 21,
     "MonsterID": 8,
-    "MonsterName": "Mutated Mole",
+    "MonsterName": "Teleport Wizard",
     "Rate": 0.25,
     "maxOnScreen": 3
   },
   {
     "PatternID": 22,
     "MonsterID": 1,
-    "MonsterName": "Lesser Zombie",
+    "MonsterName": "Skeleton",
     "Rate": 0.2,
     "maxOnScreen": 35
   },
   {
     "PatternID": 22,
     "MonsterID": 2,
-    "MonsterName": "Mutated Zombie",
+    "MonsterName": "Stone Golem",
     "Rate": 0.2,
     "maxOnScreen": 4
   },
@@ -548,21 +548,21 @@
   {
     "PatternID": 22,
     "MonsterID": 8,
-    "MonsterName": "Mutated Mole",
+    "MonsterName": "Teleport Wizard",
     "Rate": 0.2,
     "maxOnScreen": 3
   },
   {
     "PatternID": 23,
     "MonsterID": 1,
-    "MonsterName": "Lesser Zombie",
+    "MonsterName": "Skeleton",
     "Rate": 0.5,
     "maxOnScreen": 35
   },
   {
     "PatternID": 23,
     "MonsterID": 2,
-    "MonsterName": "Mutated Zombie",
+    "MonsterName": "Stone Golem",
     "Rate": 0.1,
     "maxOnScreen": 4
   },
@@ -583,7 +583,7 @@
   {
     "PatternID": 23,
     "MonsterID": 8,
-    "MonsterName": "Mutated Mole",
+    "MonsterName": "Teleport Wizard",
     "Rate": 0.15,
     "maxOnScreen": 3
   },
@@ -604,21 +604,21 @@
   {
     "PatternID": 24,
     "MonsterID": 8,
-    "MonsterName": "Mutated Mole",
+    "MonsterName": "Teleport Wizard",
     "Rate": 0.25,
     "maxOnScreen": 3
   },
   {
     "PatternID": 25,
     "MonsterID": 1,
-    "MonsterName": "Lesser Zombie",
+    "MonsterName": "Skeleton",
     "Rate": 0.3,
     "maxOnScreen": 35
   },
   {
     "PatternID": 25,
     "MonsterID": 2,
-    "MonsterName": "Mutated Zombie",
+    "MonsterName": "Stone Golem",
     "Rate": 0.1,
     "maxOnScreen": 4
   },
@@ -646,21 +646,21 @@
   {
     "PatternID": 25,
     "MonsterID": 8,
-    "MonsterName": "Mutated Mole",
+    "MonsterName": "Teleport Wizard",
     "Rate": 0.15,
     "maxOnScreen": 3
   },
   {
     "PatternID": 26,
     "MonsterID": 1,
-    "MonsterName": "Lesser Zombie",
+    "MonsterName": "Skeleton",
     "Rate": 0.45,
     "maxOnScreen": 40
   },
   {
     "PatternID": 26,
     "MonsterID": 2,
-    "MonsterName": "Mutated Zombie",
+    "MonsterName": "Stone Golem",
     "Rate": 0.1,
     "maxOnScreen": 4
   },
@@ -688,14 +688,14 @@
   {
     "PatternID": 27,
     "MonsterID": 1,
-    "MonsterName": "Lesser Zombie",
+    "MonsterName": "Skeleton",
     "Rate": 0.35,
     "maxOnScreen": 40
   },
   {
     "PatternID": 27,
     "MonsterID": 2,
-    "MonsterName": "Mutated Zombie",
+    "MonsterName": "Stone Golem",
     "Rate": 0.15,
     "maxOnScreen": 4
   },
@@ -716,14 +716,14 @@
   {
     "PatternID": 27,
     "MonsterID": 8,
-    "MonsterName": "Mutated Mole",
+    "MonsterName": "Teleport Wizard",
     "Rate": 0.15,
     "maxOnScreen": 3
   },
   {
     "PatternID": 28,
     "MonsterID": 2,
-    "MonsterName": "Mutated Zombie",
+    "MonsterName": "Stone Golem",
     "Rate": 0.1,
     "maxOnScreen": 4
   },
@@ -751,7 +751,7 @@
   {
     "PatternID": 28,
     "MonsterID": 8,
-    "MonsterName": "Mutated Mole",
+    "MonsterName": "Teleport Wizard",
     "Rate": 0.15,
     "maxOnScreen": 3
   },
@@ -786,14 +786,14 @@
   {
     "PatternID": 29,
     "MonsterID": 8,
-    "MonsterName": "Mutated Mole",
+    "MonsterName": "Teleport Wizard",
     "Rate": 0.1,
     "maxOnScreen": 3
   },
   {
     "PatternID": 30,
     "MonsterID": 2,
-    "MonsterName": "Mutated Zombie",
+    "MonsterName": "Stone Golem",
     "Rate": 0.1,
     "maxOnScreen": 4
   },
@@ -828,14 +828,14 @@
   {
     "PatternID": 30,
     "MonsterID": 8,
-    "MonsterName": "Mutated Mole",
+    "MonsterName": "Teleport Wizard",
     "Rate": 0.1,
     "maxOnScreen": 3
   },
   {
     "PatternID": 31,
     "MonsterID": 1,
-    "MonsterName": "Lesser Zombie",
+    "MonsterName": "Skeleton",
     "Rate": 0.35,
     "maxOnScreen": 40
   },
@@ -856,14 +856,14 @@
   {
     "PatternID": 31,
     "MonsterID": 8,
-    "MonsterName": "Mutated Mole",
+    "MonsterName": "Teleport Wizard",
     "Rate": 0.2,
     "maxOnScreen": 4
   },
   {
     "PatternID": 32,
     "MonsterID": 1,
-    "MonsterName": "Lesser Zombie",
+    "MonsterName": "Skeleton",
     "Rate": 0.2,
     "maxOnScreen": 40
   },
@@ -891,21 +891,21 @@
   {
     "PatternID": 32,
     "MonsterID": 8,
-    "MonsterName": "Mutated Mole",
+    "MonsterName": "Teleport Wizard",
     "Rate": 0.15,
     "maxOnScreen": 4
   },
   {
     "PatternID": 33,
     "MonsterID": 1,
-    "MonsterName": "Lesser Zombie",
+    "MonsterName": "Skeleton",
     "Rate": 0.2,
     "maxOnScreen": 40
   },
   {
     "PatternID": 33,
     "MonsterID": 2,
-    "MonsterName": "Mutated Zombie",
+    "MonsterName": "Stone Golem",
     "Rate": 0.25,
     "maxOnScreen": 4
   },
@@ -933,14 +933,14 @@
   {
     "PatternID": 34,
     "MonsterID": 1,
-    "MonsterName": "Lesser Zombie",
+    "MonsterName": "Skeleton",
     "Rate": 0.2,
     "maxOnScreen": 40
   },
   {
     "PatternID": 34,
     "MonsterID": 2,
-    "MonsterName": "Mutated Zombie",
+    "MonsterName": "Stone Golem",
     "Rate": 0.2,
     "maxOnScreen": 4
   },
@@ -975,7 +975,7 @@
   {
     "PatternID": 35,
     "MonsterID": 2,
-    "MonsterName": "Mutated Zombie",
+    "MonsterName": "Stone Golem",
     "Rate": 0.2,
     "maxOnScreen": 4
   },
@@ -1003,7 +1003,7 @@
   {
     "PatternID": 35,
     "MonsterID": 8,
-    "MonsterName": "Mutated Mole",
+    "MonsterName": "Teleport Wizard",
     "Rate": 0.1,
     "maxOnScreen": 4
   },
@@ -1017,7 +1017,7 @@
   {
     "PatternID": 36,
     "MonsterID": 2,
-    "MonsterName": "Mutated Zombie",
+    "MonsterName": "Stone Golem",
     "Rate": 0.2,
     "maxOnScreen": 4
   },
@@ -1045,7 +1045,7 @@
   {
     "PatternID": 36,
     "MonsterID": 8,
-    "MonsterName": "Mutated Mole",
+    "MonsterName": "Teleport Wizard",
     "Rate": 0.1,
     "maxOnScreen": 4
   },
@@ -1059,14 +1059,14 @@
   {
     "PatternID": 37,
     "MonsterID": 1,
-    "MonsterName": "Lesser Zombie",
+    "MonsterName": "Skeleton",
     "Rate": 0.3,
     "maxOnScreen": 40
   },
   {
     "PatternID": 37,
     "MonsterID": 2,
-    "MonsterName": "Mutated Zombie",
+    "MonsterName": "Stone Golem",
     "Rate": 0.15,
     "maxOnScreen": 5
   },
@@ -1087,7 +1087,7 @@
   {
     "PatternID": 37,
     "MonsterID": 8,
-    "MonsterName": "Mutated Mole",
+    "MonsterName": "Teleport Wizard",
     "Rate": 0.1,
     "maxOnScreen": 4
   },
@@ -1101,7 +1101,7 @@
   {
     "PatternID": 38,
     "MonsterID": 1,
-    "MonsterName": "Lesser Zombie",
+    "MonsterName": "Skeleton",
     "Rate": 0.35,
     "maxOnScreen": 40
   },
@@ -1122,7 +1122,7 @@
   {
     "PatternID": 38,
     "MonsterID": 8,
-    "MonsterName": "Mutated Mole",
+    "MonsterName": "Teleport Wizard",
     "Rate": 0.1,
     "maxOnScreen": 4
   },
@@ -1157,7 +1157,7 @@
   {
     "PatternID": 39,
     "MonsterID": 8,
-    "MonsterName": "Mutated Mole",
+    "MonsterName": "Teleport Wizard",
     "Rate": 0.1,
     "maxOnScreen": 4
   },
@@ -1171,7 +1171,7 @@
   {
     "PatternID": 40,
     "MonsterID": 1,
-    "MonsterName": "Lesser Zombie",
+    "MonsterName": "Skeleton",
     "Rate": 0.2,
     "maxOnScreen": 40
   },
@@ -1192,7 +1192,7 @@
   {
     "PatternID": 40,
     "MonsterID": 8,
-    "MonsterName": "Mutated Mole",
+    "MonsterName": "Teleport Wizard",
     "Rate": 0.15,
     "maxOnScreen": 4
   },
@@ -1234,7 +1234,7 @@
   {
     "PatternID": 41,
     "MonsterID": 8,
-    "MonsterName": "Mutated Mole",
+    "MonsterName": "Teleport Wizard",
     "Rate": 0.15,
     "maxOnScreen": 4
   },
@@ -1255,14 +1255,14 @@
   {
     "PatternID": 42,
     "MonsterID": 1,
-    "MonsterName": "Lesser Zombie",
+    "MonsterName": "Skeleton",
     "Rate": 0.2,
     "maxOnScreen": 45
   },
   {
     "PatternID": 42,
     "MonsterID": 2,
-    "MonsterName": "Mutated Zombie",
+    "MonsterName": "Stone Golem",
     "Rate": 0.2,
     "maxOnScreen": 5
   },
@@ -1290,14 +1290,14 @@
   {
     "PatternID": 43,
     "MonsterID": 1,
-    "MonsterName": "Lesser Zombie",
+    "MonsterName": "Skeleton",
     "Rate": 0.3,
     "maxOnScreen": 45
   },
   {
     "PatternID": 43,
     "MonsterID": 2,
-    "MonsterName": "Mutated Zombie",
+    "MonsterName": "Stone Golem",
     "Rate": 0.1,
     "maxOnScreen": 5
   },
@@ -1332,14 +1332,14 @@
   {
     "PatternID": 44,
     "MonsterID": 15,
-    "MonsterName": "Speed Zombie",
+    "MonsterName": "Speed Skeleton",
     "Rate": 0.3,
     "maxOnScreen": 45
   },
   {
     "PatternID": 44,
     "MonsterID": 2,
-    "MonsterName": "Mutated Zombie",
+    "MonsterName": "Stone Golem",
     "Rate": 0.15,
     "maxOnScreen": 5
   },
@@ -1360,7 +1360,7 @@
   {
     "PatternID": 44,
     "MonsterID": 8,
-    "MonsterName": "Mutated Mole",
+    "MonsterName": "Teleport Wizard",
     "Rate": 0.1,
     "maxOnScreen": 4
   },
@@ -1374,7 +1374,7 @@
   {
     "PatternID": 45,
     "MonsterID": 15,
-    "MonsterName": "Speed Zombie",
+    "MonsterName": "Speed Skeleton",
     "Rate": 0.35,
     "maxOnScreen": 45
   },
@@ -1395,7 +1395,7 @@
   {
     "PatternID": 45,
     "MonsterID": 8,
-    "MonsterName": "Mutated Mole",
+    "MonsterName": "Teleport Wizard",
     "Rate": 0.1,
     "maxOnScreen": 4
   },
@@ -1409,14 +1409,14 @@
   {
     "PatternID": 46,
     "MonsterID": 15,
-    "MonsterName": "Speed Zombie",
+    "MonsterName": "Speed Skeleton",
     "Rate": 0.3,
     "maxOnScreen": 45
   },
   {
     "PatternID": 46,
     "MonsterID": 2,
-    "MonsterName": "Mutated Zombie",
+    "MonsterName": "Stone Golem",
     "Rate": 0.1,
     "maxOnScreen": 5
   },
@@ -1465,7 +1465,7 @@
   {
     "PatternID": 47,
     "MonsterID": 8,
-    "MonsterName": "Mutated Mole",
+    "MonsterName": "Teleport Wizard",
     "Rate": 0.1,
     "maxOnScreen": 4
   },
@@ -1479,7 +1479,7 @@
   {
     "PatternID": 47,
     "MonsterID": 15,
-    "MonsterName": "Speed Zombie",
+    "MonsterName": "Speed Skeleton",
     "Rate": 0.4,
     "maxOnScreen": 45
   },
@@ -1493,7 +1493,7 @@
   {
     "PatternID": 48,
     "MonsterID": 2,
-    "MonsterName": "Mutated Zombie",
+    "MonsterName": "Stone Golem",
     "Rate": 0.1,
     "maxOnScreen": 8
   },
@@ -1507,7 +1507,7 @@
   {
     "PatternID": 48,
     "MonsterID": 8,
-    "MonsterName": "Mutated Mole",
+    "MonsterName": "Teleport Wizard",
     "Rate": 0.1,
     "maxOnScreen": 4
   },
@@ -1521,7 +1521,7 @@
   {
     "PatternID": 48,
     "MonsterID": 15,
-    "MonsterName": "Speed Zombie",
+    "MonsterName": "Speed Skeleton",
     "Rate": 0.4,
     "maxOnScreen": 45
   },
@@ -1535,7 +1535,7 @@
   {
     "PatternID": 49,
     "MonsterID": 15,
-    "MonsterName": "Speed Zombie",
+    "MonsterName": "Speed Skeleton",
     "Rate": 0.3,
     "maxOnScreen": 45
   },
@@ -1556,7 +1556,7 @@
   {
     "PatternID": 49,
     "MonsterID": 8,
-    "MonsterName": "Mutated Mole",
+    "MonsterName": "Teleport Wizard",
     "Rate": 0.1,
     "maxOnScreen": 4
   },
@@ -1570,14 +1570,14 @@
   {
     "PatternID": 49,
     "MonsterID": 31,
-    "MonsterName": "Enhanced Zombie",
+    "MonsterName": "Wrestling Golem",
     "Rate": 0.15,
     "maxOnScreen": 5
   },
   {
     "PatternID": 50,
     "MonsterID": 15,
-    "MonsterName": "Speed Zombie",
+    "MonsterName": "Speed Skeleton",
     "Rate": 0.3,
     "maxOnScreen": 45
   },
@@ -1612,14 +1612,14 @@
   {
     "PatternID": 50,
     "MonsterID": 31,
-    "MonsterName": "Enhanced Zombie",
+    "MonsterName": "Wrestling Golem",
     "Rate": 0.1,
     "maxOnScreen": 5
   },
   {
     "PatternID": 51,
     "MonsterID": 15,
-    "MonsterName": "Speed Zombie",
+    "MonsterName": "Speed Skeleton",
     "Rate": 0.3,
     "maxOnScreen": 45
   },
@@ -1633,7 +1633,7 @@
   {
     "PatternID": 51,
     "MonsterID": 8,
-    "MonsterName": "Mutated Mole",
+    "MonsterName": "Teleport Wizard",
     "Rate": 0.1,
     "maxOnScreen": 4
   },
@@ -1654,7 +1654,7 @@
   {
     "PatternID": 51,
     "MonsterID": 31,
-    "MonsterName": "Enhanced Zombie",
+    "MonsterName": "Wrestling Golem",
     "Rate": 0.25,
     "maxOnScreen": 5
   },
@@ -1675,7 +1675,7 @@
   {
     "PatternID": 52,
     "MonsterID": 8,
-    "MonsterName": "Mutated Mole",
+    "MonsterName": "Teleport Wizard",
     "Rate": 0.1,
     "maxOnScreen": 4
   },
@@ -1696,7 +1696,7 @@
   {
     "PatternID": 52,
     "MonsterID": 31,
-    "MonsterName": "Enhanced Zombie",
+    "MonsterName": "Wrestling Golem",
     "Rate": 0.2,
     "maxOnScreen": 5
   },
@@ -1731,14 +1731,14 @@
   {
     "PatternID": 53,
     "MonsterID": 15,
-    "MonsterName": "Speed Zombie",
+    "MonsterName": "Speed Skeleton",
     "Rate": 0.3,
     "maxOnScreen": 45
   },
   {
     "PatternID": 53,
     "MonsterID": 31,
-    "MonsterName": "Enhanced Zombie",
+    "MonsterName": "Wrestling Golem",
     "Rate": 0.2,
     "maxOnScreen": 5
   },
@@ -1773,7 +1773,7 @@
   {
     "PatternID": 54,
     "MonsterID": 15,
-    "MonsterName": "Speed Zombie",
+    "MonsterName": "Speed Skeleton",
     "Rate": 0.3,
     "maxOnScreen": 45
   },
@@ -1787,7 +1787,7 @@
   {
     "PatternID": 54,
     "MonsterID": 31,
-    "MonsterName": "Enhanced Zombie",
+    "MonsterName": "Wrestling Golem",
     "Rate": 0.15,
     "maxOnScreen": 5
   },
@@ -1815,21 +1815,21 @@
   {
     "PatternID": 55,
     "MonsterID": 8,
-    "MonsterName": "Mutated Mole",
+    "MonsterName": "Teleport Wizard",
     "Rate": 0.15,
     "maxOnScreen": 4
   },
   {
     "PatternID": 55,
     "MonsterID": 15,
-    "MonsterName": "Speed Zombie",
+    "MonsterName": "Speed Skeleton",
     "Rate": 0.3,
     "maxOnScreen": 45
   },
   {
     "PatternID": 55,
     "MonsterID": 31,
-    "MonsterName": "Enhanced Zombie",
+    "MonsterName": "Wrestling Golem",
     "Rate": 0.2,
     "maxOnScreen": 5
   },
@@ -1843,14 +1843,14 @@
   {
     "PatternID": 56,
     "MonsterID": 8,
-    "MonsterName": "Mutated Mole",
+    "MonsterName": "Teleport Wizard",
     "Rate": 0.15,
     "maxOnScreen": 4
   },
   {
     "PatternID": 56,
     "MonsterID": 15,
-    "MonsterName": "Speed Zombie",
+    "MonsterName": "Speed Skeleton",
     "Rate": 0.45,
     "maxOnScreen": 45
   },
@@ -1864,7 +1864,7 @@
   {
     "PatternID": 56,
     "MonsterID": 31,
-    "MonsterName": "Enhanced Zombie",
+    "MonsterName": "Wrestling Golem",
     "Rate": 0.2,
     "maxOnScreen": 5
   },
@@ -1899,14 +1899,14 @@
   {
     "PatternID": 57,
     "MonsterID": 15,
-    "MonsterName": "Speed Zombie",
+    "MonsterName": "Speed Skeleton",
     "Rate": 0.3,
     "maxOnScreen": 45
   },
   {
     "PatternID": 57,
     "MonsterID": 31,
-    "MonsterName": "Enhanced Zombie",
+    "MonsterName": "Wrestling Golem",
     "Rate": 0.2,
     "maxOnScreen": 5
   },
@@ -1927,7 +1927,7 @@
   {
     "PatternID": 58,
     "MonsterID": 15,
-    "MonsterName": "Speed Zombie",
+    "MonsterName": "Speed Skeleton",
     "Rate": 0.3,
     "maxOnScreen": 45
   },
@@ -1948,7 +1948,7 @@
   {
     "PatternID": 58,
     "MonsterID": 31,
-    "MonsterName": "Enhanced Zombie",
+    "MonsterName": "Wrestling Golem",
     "Rate": 0.2,
     "maxOnScreen": 5
   },
@@ -1976,7 +1976,7 @@
   {
     "PatternID": 59,
     "MonsterID": 15,
-    "MonsterName": "Speed Zombie",
+    "MonsterName": "Speed Skeleton",
     "Rate": 0.35,
     "maxOnScreen": 45
   },
@@ -2004,14 +2004,14 @@
   {
     "PatternID": 60,
     "MonsterID": 8,
-    "MonsterName": "Mutated Mole",
+    "MonsterName": "Teleport Wizard",
     "Rate": 0.15,
     "maxOnScreen": 4
   },
   {
     "PatternID": 60,
     "MonsterID": 15,
-    "MonsterName": "Speed Zombie",
+    "MonsterName": "Speed Skeleton",
     "Rate": 0.35,
     "maxOnScreen": 45
   },
@@ -2046,7 +2046,7 @@
   {
     "PatternID": 61,
     "MonsterID": 15,
-    "MonsterName": "Speed Zombie",
+    "MonsterName": "Speed Skeleton",
     "Rate": 0.25,
     "maxOnScreen": 45
   },
@@ -2067,7 +2067,7 @@
   {
     "PatternID": 61,
     "MonsterID": 31,
-    "MonsterName": "Enhanced Zombie",
+    "MonsterName": "Wrestling Golem",
     "Rate": 0.15,
     "maxOnScreen": 5
   },
@@ -2088,14 +2088,14 @@
   {
     "PatternID": 62,
     "MonsterID": 15,
-    "MonsterName": "Speed Zombie",
+    "MonsterName": "Speed Skeleton",
     "Rate": 0.25,
     "maxOnScreen": 45
   },
   {
     "PatternID": 62,
     "MonsterID": 19,
-    "MonsterName": "Erupting Tree",
+    "MonsterName": "Rock Thrower",
     "Rate": 0.25,
     "maxOnScreen": 5
   },
@@ -2109,7 +2109,7 @@
   {
     "PatternID": 62,
     "MonsterID": 31,
-    "MonsterName": "Enhanced Zombie",
+    "MonsterName": "Wrestling Golem",
     "Rate": 0.15,
     "maxOnScreen": 5
   },
@@ -2130,7 +2130,7 @@
   {
     "PatternID": 63,
     "MonsterID": 19,
-    "MonsterName": "Erupting Tree",
+    "MonsterName": "Rock Thrower",
     "Rate": 0.35,
     "maxOnScreen": 5
   },
@@ -2151,7 +2151,7 @@
   {
     "PatternID": 63,
     "MonsterID": 31,
-    "MonsterName": "Enhanced Zombie",
+    "MonsterName": "Wrestling Golem",
     "Rate": 0.15,
     "maxOnScreen": 5
   },
@@ -2179,14 +2179,14 @@
   {
     "PatternID": 64,
     "MonsterID": 19,
-    "MonsterName": "Erupting Tree",
+    "MonsterName": "Rock Thrower",
     "Rate": 0.15,
     "maxOnScreen": 5
   },
   {
     "PatternID": 64,
     "MonsterID": 15,
-    "MonsterName": "Speed Zombie",
+    "MonsterName": "Speed Skeleton",
     "Rate": 0.25,
     "maxOnScreen": 45
   },
@@ -2214,14 +2214,14 @@
   {
     "PatternID": 65,
     "MonsterID": 15,
-    "MonsterName": "Speed Zombie",
+    "MonsterName": "Speed Skeleton",
     "Rate": 0.35,
     "maxOnScreen": 45
   },
   {
     "PatternID": 65,
     "MonsterID": 19,
-    "MonsterName": "Erupting Tree",
+    "MonsterName": "Rock Thrower",
     "Rate": 0.15,
     "maxOnScreen": 5
   },
@@ -2242,7 +2242,7 @@
   {
     "PatternID": 65,
     "MonsterID": 31,
-    "MonsterName": "Enhanced Zombie",
+    "MonsterName": "Wrestling Golem",
     "Rate": 0.15,
     "maxOnScreen": 6
   },
@@ -2256,21 +2256,21 @@
   {
     "PatternID": 66,
     "MonsterID": 8,
-    "MonsterName": "Mutated Mole",
+    "MonsterName": "Teleport Wizard",
     "Rate": 0.1,
     "maxOnScreen": 4
   },
   {
     "PatternID": 66,
     "MonsterID": 15,
-    "MonsterName": "Speed Zombie",
+    "MonsterName": "Speed Skeleton",
     "Rate": 0.3,
     "maxOnScreen": 45
   },
   {
     "PatternID": 66,
     "MonsterID": 19,
-    "MonsterName": "Erupting Tree",
+    "MonsterName": "Rock Thrower",
     "Rate": 0.15,
     "maxOnScreen": 5
   },
@@ -2291,7 +2291,7 @@
   {
     "PatternID": 66,
     "MonsterID": 31,
-    "MonsterName": "Enhanced Zombie",
+    "MonsterName": "Wrestling Golem",
     "Rate": 0.15,
     "maxOnScreen": 6
   },
@@ -2319,14 +2319,14 @@
   {
     "PatternID": 67,
     "MonsterID": 15,
-    "MonsterName": "Speed Zombie",
+    "MonsterName": "Speed Skeleton",
     "Rate": 0.3,
     "maxOnScreen": 45
   },
   {
     "PatternID": 67,
     "MonsterID": 19,
-    "MonsterName": "Erupting Tree",
+    "MonsterName": "Rock Thrower",
     "Rate": 0.15,
     "maxOnScreen": 5
   },
@@ -2336,5 +2336,1762 @@
     "MonsterName": "Shotgun Skull",
     "Rate": 0.15,
     "maxOnScreen": 5
+  },
+  {
+    "PatternID": 68,
+    "MonsterID": 6,
+    "MonsterName": "Cheering Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 2
+  },
+  {
+    "PatternID": 68,
+    "MonsterID": 15,
+    "MonsterName": "Speed Skeleton",
+    "Rate": 0.3,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 68,
+    "MonsterID": 11,
+    "MonsterName": "Healing Spider",
+    "Rate": 0.1,
+    "maxOnScreen": 4
+  },
+  {
+    "PatternID": 68,
+    "MonsterID": 18,
+    "MonsterName": "Sniper Skull",
+    "Rate": 0.1,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 68,
+    "MonsterID": 19,
+    "MonsterName": "Rock Thrower",
+    "Rate": 0.1,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 68,
+    "MonsterID": 31,
+    "MonsterName": "Wrestling Golem",
+    "Rate": 0.15,
+    "maxOnScreen": 6
+  },
+  {
+    "PatternID": 68,
+    "MonsterID": 33,
+    "MonsterName": "Spidermum",
+    "Rate": 0.15,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 69,
+    "MonsterID": 15,
+    "MonsterName": "Speed Skeleton",
+    "Rate": 0.3,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 69,
+    "MonsterID": 11,
+    "MonsterName": "Healing Spider",
+    "Rate": 0.1,
+    "maxOnScreen": 4
+  },
+  {
+    "PatternID": 69,
+    "MonsterID": 18,
+    "MonsterName": "Sniper Skull",
+    "Rate": 0.1,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 69,
+    "MonsterID": 19,
+    "MonsterName": "Rock Thrower",
+    "Rate": 0.1,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 69,
+    "MonsterID": 21,
+    "MonsterName": "Fire Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 69,
+    "MonsterID": 31,
+    "MonsterName": "Wrestling Golem",
+    "Rate": 0.15,
+    "maxOnScreen": 6
+  },
+  {
+    "PatternID": 69,
+    "MonsterID": 33,
+    "MonsterName": "Spidermum",
+    "Rate": 0.15,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 70,
+    "MonsterID": 8,
+    "MonsterName": "Teleport Wizard",
+    "Rate": 0.1,
+    "maxOnScreen": 3
+  },
+  {
+    "PatternID": 70,
+    "MonsterID": 15,
+    "MonsterName": "Speed Skeleton",
+    "Rate": 0.3,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 70,
+    "MonsterID": 11,
+    "MonsterName": "Healing Spider",
+    "Rate": 0.1,
+    "maxOnScreen": 4
+  },
+  {
+    "PatternID": 70,
+    "MonsterID": 18,
+    "MonsterName": "Sniper Skull",
+    "Rate": 0.1,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 70,
+    "MonsterID": 21,
+    "MonsterName": "Fire Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 70,
+    "MonsterID": 31,
+    "MonsterName": "Wrestling Golem",
+    "Rate": 0.15,
+    "maxOnScreen": 6
+  },
+  {
+    "PatternID": 70,
+    "MonsterID": 33,
+    "MonsterName": "Spidermum",
+    "Rate": 0.15,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 71,
+    "MonsterID": 8,
+    "MonsterName": "Teleport Wizard",
+    "Rate": 0.1,
+    "maxOnScreen": 3
+  },
+  {
+    "PatternID": 71,
+    "MonsterID": 15,
+    "MonsterName": "Speed Skeleton",
+    "Rate": 0.3,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 71,
+    "MonsterID": 11,
+    "MonsterName": "Healing Spider",
+    "Rate": 0.1,
+    "maxOnScreen": 4
+  },
+  {
+    "PatternID": 71,
+    "MonsterID": 18,
+    "MonsterName": "Sniper Skull",
+    "Rate": 0.1,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 71,
+    "MonsterID": 19,
+    "MonsterName": "Rock Thrower",
+    "Rate": 0.1,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 71,
+    "MonsterID": 21,
+    "MonsterName": "Fire Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 71,
+    "MonsterID": 33,
+    "MonsterName": "Spidermum",
+    "Rate": 0.2,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 72,
+    "MonsterID": 7,
+    "MonsterName": "Jumping Spider",
+    "Rate": 0.1,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 72,
+    "MonsterID": 8,
+    "MonsterName": "Teleport Wizard",
+    "Rate": 0.1,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 72,
+    "MonsterID": 15,
+    "MonsterName": "Speed Skeleton",
+    "Rate": 0.3,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 72,
+    "MonsterID": 11,
+    "MonsterName": "Healing Spider",
+    "Rate": 0.1,
+    "maxOnScreen": 4
+  },
+  {
+    "PatternID": 72,
+    "MonsterID": 18,
+    "MonsterName": "Sniper Skull",
+    "Rate": 0.1,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 72,
+    "MonsterID": 19,
+    "MonsterName": "Rock Thrower",
+    "Rate": 0.1,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 72,
+    "MonsterID": 33,
+    "MonsterName": "Spidermum",
+    "Rate": 0.2,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 73,
+    "MonsterID": 6,
+    "MonsterName": "Cheering Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 2
+  },
+  {
+    "PatternID": 73,
+    "MonsterID": 7,
+    "MonsterName": "Jumping Spider",
+    "Rate": 0.1,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 73,
+    "MonsterID": 15,
+    "MonsterName": "Speed Skeleton",
+    "Rate": 0.3,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 73,
+    "MonsterID": 11,
+    "MonsterName": "Healing Spider",
+    "Rate": 0.1,
+    "maxOnScreen": 4
+  },
+  {
+    "PatternID": 73,
+    "MonsterID": 18,
+    "MonsterName": "Sniper Skull",
+    "Rate": 0.1,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 73,
+    "MonsterID": 19,
+    "MonsterName": "Rock Thrower",
+    "Rate": 0.1,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 73,
+    "MonsterID": 33,
+    "MonsterName": "Spidermum",
+    "Rate": 0.2,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 74,
+    "MonsterID": 6,
+    "MonsterName": "Cheering Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 2
+  },
+  {
+    "PatternID": 74,
+    "MonsterID": 7,
+    "MonsterName": "Jumping Spider",
+    "Rate": 0.1,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 74,
+    "MonsterID": 15,
+    "MonsterName": "Speed Skeleton",
+    "Rate": 0.3,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 74,
+    "MonsterID": 11,
+    "MonsterName": "Healing Spider",
+    "Rate": 0.1,
+    "maxOnScreen": 4
+  },
+  {
+    "PatternID": 74,
+    "MonsterID": 18,
+    "MonsterName": "Sniper Skull",
+    "Rate": 0.1,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 74,
+    "MonsterID": 31,
+    "MonsterName": "Wrestling Golem",
+    "Rate": 0.15,
+    "maxOnScreen": 6
+  },
+  {
+    "PatternID": 74,
+    "MonsterID": 33,
+    "MonsterName": "Spidermum",
+    "Rate": 0.15,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 75,
+    "MonsterID": 6,
+    "MonsterName": "Cheering Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 2
+  },
+  {
+    "PatternID": 75,
+    "MonsterID": 7,
+    "MonsterName": "Jumping Spider",
+    "Rate": 0.1,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 75,
+    "MonsterID": 15,
+    "MonsterName": "Speed Skeleton",
+    "Rate": 0.3,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 75,
+    "MonsterID": 18,
+    "MonsterName": "Sniper Skull",
+    "Rate": 0.1,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 75,
+    "MonsterID": 21,
+    "MonsterName": "Fire Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 75,
+    "MonsterID": 31,
+    "MonsterName": "Wrestling Golem",
+    "Rate": 0.15,
+    "maxOnScreen": 6
+  },
+  {
+    "PatternID": 75,
+    "MonsterID": 33,
+    "MonsterName": "Spidermum",
+    "Rate": 0.15,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 76,
+    "MonsterID": 15,
+    "MonsterName": "Speed Skeleton",
+    "Rate": 0.3,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 76,
+    "MonsterID": 11,
+    "MonsterName": "Healing Spider",
+    "Rate": 0.1,
+    "maxOnScreen": 4
+  },
+  {
+    "PatternID": 76,
+    "MonsterID": 18,
+    "MonsterName": "Sniper Skull",
+    "Rate": 0.1,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 76,
+    "MonsterID": 21,
+    "MonsterName": "Fire Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 76,
+    "MonsterID": 31,
+    "MonsterName": "Wrestling Golem",
+    "Rate": 0.15,
+    "maxOnScreen": 6
+  },
+  {
+    "PatternID": 76,
+    "MonsterID": 33,
+    "MonsterName": "Spidermum",
+    "Rate": 0.15,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 76,
+    "MonsterID": 34,
+    "MonsterName": "Teleport Wizard 2",
+    "Rate": 0.1,
+    "maxOnScreen": 3
+  },
+  {
+    "PatternID": 77,
+    "MonsterID": 15,
+    "MonsterName": "Speed Skeleton",
+    "Rate": 0.3,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 77,
+    "MonsterID": 11,
+    "MonsterName": "Healing Spider",
+    "Rate": 0.1,
+    "maxOnScreen": 4
+  },
+  {
+    "PatternID": 77,
+    "MonsterID": 18,
+    "MonsterName": "Sniper Skull",
+    "Rate": 0.1,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 77,
+    "MonsterID": 19,
+    "MonsterName": "Rock Thrower",
+    "Rate": 0.1,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 77,
+    "MonsterID": 21,
+    "MonsterName": "Fire Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 77,
+    "MonsterID": 33,
+    "MonsterName": "Spidermum",
+    "Rate": 0.2,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 77,
+    "MonsterID": 34,
+    "MonsterName": "Teleport Wizard 2",
+    "Rate": 0.1,
+    "maxOnScreen": 3
+  },
+  {
+    "PatternID": 78,
+    "MonsterID": 6,
+    "MonsterName": "Cheering Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 2
+  },
+  {
+    "PatternID": 78,
+    "MonsterID": 7,
+    "MonsterName": "Jumping Spider",
+    "Rate": 0.1,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 78,
+    "MonsterID": 15,
+    "MonsterName": "Speed Skeleton",
+    "Rate": 0.3,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 78,
+    "MonsterID": 18,
+    "MonsterName": "Sniper Skull",
+    "Rate": 0.1,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 78,
+    "MonsterID": 31,
+    "MonsterName": "Wrestling Golem",
+    "Rate": 0.15,
+    "maxOnScreen": 6
+  },
+  {
+    "PatternID": 78,
+    "MonsterID": 33,
+    "MonsterName": "Spidermum",
+    "Rate": 0.15,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 78,
+    "MonsterID": 34,
+    "MonsterName": "Teleport Wizard 2",
+    "Rate": 0.1,
+    "maxOnScreen": 3
+  },
+  {
+    "PatternID": 79,
+    "MonsterID": 6,
+    "MonsterName": "Cheering Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 2
+  },
+  {
+    "PatternID": 79,
+    "MonsterID": 7,
+    "MonsterName": "Jumping Spider",
+    "Rate": 0.1,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 79,
+    "MonsterID": 15,
+    "MonsterName": "Speed Skeleton",
+    "Rate": 0.3,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 79,
+    "MonsterID": 11,
+    "MonsterName": "Healing Spider",
+    "Rate": 0.1,
+    "maxOnScreen": 4
+  },
+  {
+    "PatternID": 79,
+    "MonsterID": 18,
+    "MonsterName": "Sniper Skull",
+    "Rate": 0.1,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 79,
+    "MonsterID": 31,
+    "MonsterName": "Wrestling Golem",
+    "Rate": 0.2,
+    "maxOnScreen": 6
+  },
+  {
+    "PatternID": 79,
+    "MonsterID": 34,
+    "MonsterName": "Teleport Wizard 2",
+    "Rate": 0.1,
+    "maxOnScreen": 3
+  },
+  {
+    "PatternID": 80,
+    "MonsterID": 6,
+    "MonsterName": "Cheering Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 2
+  },
+  {
+    "PatternID": 80,
+    "MonsterID": 7,
+    "MonsterName": "Jumping Spider",
+    "Rate": 0.1,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 80,
+    "MonsterID": 15,
+    "MonsterName": "Speed Skeleton",
+    "Rate": 0.3,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 80,
+    "MonsterID": 11,
+    "MonsterName": "Healing Spider",
+    "Rate": 0.1,
+    "maxOnScreen": 4
+  },
+  {
+    "PatternID": 80,
+    "MonsterID": 21,
+    "MonsterName": "Fire Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 80,
+    "MonsterID": 31,
+    "MonsterName": "Wrestling Golem",
+    "Rate": 0.2,
+    "maxOnScreen": 6
+  },
+  {
+    "PatternID": 80,
+    "MonsterID": 34,
+    "MonsterName": "Teleport Wizard 2",
+    "Rate": 0.1,
+    "maxOnScreen": 3
+  },
+  {
+    "PatternID": 81,
+    "MonsterID": 6,
+    "MonsterName": "Cheering Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 2
+  },
+  {
+    "PatternID": 81,
+    "MonsterID": 7,
+    "MonsterName": "Jumping Spider",
+    "Rate": 0.1,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 81,
+    "MonsterID": 15,
+    "MonsterName": "Speed Skeleton",
+    "Rate": 0.3,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 81,
+    "MonsterID": 21,
+    "MonsterName": "Fire Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 81,
+    "MonsterID": 31,
+    "MonsterName": "Wrestling Golem",
+    "Rate": 0.15,
+    "maxOnScreen": 6
+  },
+  {
+    "PatternID": 81,
+    "MonsterID": 33,
+    "MonsterName": "Spidermum",
+    "Rate": 0.15,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 81,
+    "MonsterID": 34,
+    "MonsterName": "Teleport Wizard 2",
+    "Rate": 0.1,
+    "maxOnScreen": 3
+  },
+  {
+    "PatternID": 82,
+    "MonsterID": 6,
+    "MonsterName": "Cheering Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 2
+  },
+  {
+    "PatternID": 82,
+    "MonsterID": 7,
+    "MonsterName": "Jumping Spider",
+    "Rate": 0.1,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 82,
+    "MonsterID": 16,
+    "MonsterName": "Persistent Skeleton",
+    "Rate": 0.3,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 82,
+    "MonsterID": 11,
+    "MonsterName": "Healing Spider",
+    "Rate": 0.1,
+    "maxOnScreen": 4
+  },
+  {
+    "PatternID": 82,
+    "MonsterID": 18,
+    "MonsterName": "Sniper Skull",
+    "Rate": 0.1,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 82,
+    "MonsterID": 31,
+    "MonsterName": "Wrestling Golem",
+    "Rate": 0.15,
+    "maxOnScreen": 6
+  },
+  {
+    "PatternID": 82,
+    "MonsterID": 33,
+    "MonsterName": "Spidermum",
+    "Rate": 0.15,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 83,
+    "MonsterID": 6,
+    "MonsterName": "Cheering Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 2
+  },
+  {
+    "PatternID": 83,
+    "MonsterID": 7,
+    "MonsterName": "Jumping Spider",
+    "Rate": 0.1,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 83,
+    "MonsterID": 16,
+    "MonsterName": "Persistent Skeleton",
+    "Rate": 0.3,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 83,
+    "MonsterID": 18,
+    "MonsterName": "Sniper Skull",
+    "Rate": 0.1,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 83,
+    "MonsterID": 21,
+    "MonsterName": "Fire Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 83,
+    "MonsterID": 31,
+    "MonsterName": "Wrestling Golem",
+    "Rate": 0.15,
+    "maxOnScreen": 6
+  },
+  {
+    "PatternID": 83,
+    "MonsterID": 33,
+    "MonsterName": "Spidermum",
+    "Rate": 0.15,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 84,
+    "MonsterID": 16,
+    "MonsterName": "Persistent Skeleton",
+    "Rate": 0.3,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 84,
+    "MonsterID": 11,
+    "MonsterName": "Healing Spider",
+    "Rate": 0.1,
+    "maxOnScreen": 4
+  },
+  {
+    "PatternID": 84,
+    "MonsterID": 18,
+    "MonsterName": "Sniper Skull",
+    "Rate": 0.1,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 84,
+    "MonsterID": 21,
+    "MonsterName": "Fire Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 84,
+    "MonsterID": 31,
+    "MonsterName": "Wrestling Golem",
+    "Rate": 0.15,
+    "maxOnScreen": 6
+  },
+  {
+    "PatternID": 84,
+    "MonsterID": 33,
+    "MonsterName": "Spidermum",
+    "Rate": 0.15,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 84,
+    "MonsterID": 34,
+    "MonsterName": "Teleport Wizard 2",
+    "Rate": 0.1,
+    "maxOnScreen": 3
+  },
+  {
+    "PatternID": 85,
+    "MonsterID": 16,
+    "MonsterName": "Persistent Skeleton",
+    "Rate": 0.3,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 85,
+    "MonsterID": 11,
+    "MonsterName": "Healing Spider",
+    "Rate": 0.1,
+    "maxOnScreen": 4
+  },
+  {
+    "PatternID": 85,
+    "MonsterID": 18,
+    "MonsterName": "Sniper Skull",
+    "Rate": 0.1,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 85,
+    "MonsterID": 19,
+    "MonsterName": "Rock Thrower",
+    "Rate": 0.1,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 85,
+    "MonsterID": 21,
+    "MonsterName": "Fire Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 85,
+    "MonsterID": 33,
+    "MonsterName": "Spidermum",
+    "Rate": 0.2,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 85,
+    "MonsterID": 34,
+    "MonsterName": "Teleport Wizard 2",
+    "Rate": 0.1,
+    "maxOnScreen": 3
+  },
+  {
+    "PatternID": 86,
+    "MonsterID": 6,
+    "MonsterName": "Cheering Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 2
+  },
+  {
+    "PatternID": 86,
+    "MonsterID": 7,
+    "MonsterName": "Jumping Spider",
+    "Rate": 0.1,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 86,
+    "MonsterID": 16,
+    "MonsterName": "Persistent Skeleton",
+    "Rate": 0.3,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 86,
+    "MonsterID": 18,
+    "MonsterName": "Sniper Skull",
+    "Rate": 0.1,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 86,
+    "MonsterID": 31,
+    "MonsterName": "Wrestling Golem",
+    "Rate": 0.15,
+    "maxOnScreen": 6
+  },
+  {
+    "PatternID": 86,
+    "MonsterID": 33,
+    "MonsterName": "Spidermum",
+    "Rate": 0.15,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 86,
+    "MonsterID": 34,
+    "MonsterName": "Teleport Wizard 2",
+    "Rate": 0.1,
+    "maxOnScreen": 3
+  },
+  {
+    "PatternID": 87,
+    "MonsterID": 6,
+    "MonsterName": "Cheering Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 2
+  },
+  {
+    "PatternID": 87,
+    "MonsterID": 7,
+    "MonsterName": "Jumping Spider",
+    "Rate": 0.1,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 87,
+    "MonsterID": 16,
+    "MonsterName": "Persistent Skeleton",
+    "Rate": 0.3,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 87,
+    "MonsterID": 11,
+    "MonsterName": "Healing Spider",
+    "Rate": 0.1,
+    "maxOnScreen": 4
+  },
+  {
+    "PatternID": 87,
+    "MonsterID": 18,
+    "MonsterName": "Sniper Skull",
+    "Rate": 0.1,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 87,
+    "MonsterID": 31,
+    "MonsterName": "Wrestling Golem",
+    "Rate": 0.2,
+    "maxOnScreen": 6
+  },
+  {
+    "PatternID": 87,
+    "MonsterID": 34,
+    "MonsterName": "Teleport Wizard 2",
+    "Rate": 0.1,
+    "maxOnScreen": 3
+  },
+  {
+    "PatternID": 88,
+    "MonsterID": 6,
+    "MonsterName": "Cheering Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 2
+  },
+  {
+    "PatternID": 88,
+    "MonsterID": 7,
+    "MonsterName": "Jumping Spider",
+    "Rate": 0.1,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 88,
+    "MonsterID": 16,
+    "MonsterName": "Persistent Skeleton",
+    "Rate": 0.3,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 88,
+    "MonsterID": 11,
+    "MonsterName": "Healing Spider",
+    "Rate": 0.1,
+    "maxOnScreen": 4
+  },
+  {
+    "PatternID": 88,
+    "MonsterID": 21,
+    "MonsterName": "Fire Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 88,
+    "MonsterID": 31,
+    "MonsterName": "Wrestling Golem",
+    "Rate": 0.2,
+    "maxOnScreen": 6
+  },
+  {
+    "PatternID": 88,
+    "MonsterID": 34,
+    "MonsterName": "Teleport Wizard 2",
+    "Rate": 0.1,
+    "maxOnScreen": 3
+  },
+  {
+    "PatternID": 89,
+    "MonsterID": 6,
+    "MonsterName": "Cheering Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 2
+  },
+  {
+    "PatternID": 89,
+    "MonsterID": 7,
+    "MonsterName": "Jumping Spider",
+    "Rate": 0.1,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 89,
+    "MonsterID": 16,
+    "MonsterName": "Persistent Skeleton",
+    "Rate": 0.3,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 89,
+    "MonsterID": 21,
+    "MonsterName": "Fire Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 89,
+    "MonsterID": 31,
+    "MonsterName": "Wrestling Golem",
+    "Rate": 0.15,
+    "maxOnScreen": 6
+  },
+  {
+    "PatternID": 89,
+    "MonsterID": 33,
+    "MonsterName": "Spidermum",
+    "Rate": 0.15,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 89,
+    "MonsterID": 34,
+    "MonsterName": "Teleport Wizard 2",
+    "Rate": 0.1,
+    "maxOnScreen": 3
+  },
+  {
+    "PatternID": 90,
+    "MonsterID": 6,
+    "MonsterName": "Cheering Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 2
+  },
+  {
+    "PatternID": 90,
+    "MonsterID": 7,
+    "MonsterName": "Jumping Spider",
+    "Rate": 0.1,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 90,
+    "MonsterID": 16,
+    "MonsterName": "Persistent Skeleton",
+    "Rate": 0.3,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 90,
+    "MonsterID": 11,
+    "MonsterName": "Healing Spider",
+    "Rate": 0.1,
+    "maxOnScreen": 4
+  },
+  {
+    "PatternID": 90,
+    "MonsterID": 18,
+    "MonsterName": "Sniper Skull",
+    "Rate": 0.1,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 90,
+    "MonsterID": 17,
+    "MonsterName": "Taunt Golem",
+    "Rate": 0.15,
+    "maxOnScreen": 6
+  },
+  {
+    "PatternID": 90,
+    "MonsterID": 33,
+    "MonsterName": "Spidermum",
+    "Rate": 0.15,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 91,
+    "MonsterID": 6,
+    "MonsterName": "Cheering Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 2
+  },
+  {
+    "PatternID": 91,
+    "MonsterID": 7,
+    "MonsterName": "Jumping Spider",
+    "Rate": 0.1,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 91,
+    "MonsterID": 16,
+    "MonsterName": "Persistent Skeleton",
+    "Rate": 0.3,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 91,
+    "MonsterID": 18,
+    "MonsterName": "Sniper Skull",
+    "Rate": 0.1,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 91,
+    "MonsterID": 21,
+    "MonsterName": "Fire Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 91,
+    "MonsterID": 17,
+    "MonsterName": "Taunt Golem",
+    "Rate": 0.15,
+    "maxOnScreen": 6
+  },
+  {
+    "PatternID": 91,
+    "MonsterID": 33,
+    "MonsterName": "Spidermum",
+    "Rate": 0.15,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 92,
+    "MonsterID": 16,
+    "MonsterName": "Persistent Skeleton",
+    "Rate": 0.3,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 92,
+    "MonsterID": 11,
+    "MonsterName": "Healing Spider",
+    "Rate": 0.1,
+    "maxOnScreen": 4
+  },
+  {
+    "PatternID": 92,
+    "MonsterID": 18,
+    "MonsterName": "Sniper Skull",
+    "Rate": 0.1,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 92,
+    "MonsterID": 21,
+    "MonsterName": "Fire Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 92,
+    "MonsterID": 17,
+    "MonsterName": "Taunt Golem",
+    "Rate": 0.15,
+    "maxOnScreen": 6
+  },
+  {
+    "PatternID": 92,
+    "MonsterID": 33,
+    "MonsterName": "Spidermum",
+    "Rate": 0.15,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 92,
+    "MonsterID": 34,
+    "MonsterName": "Teleport Wizard 2",
+    "Rate": 0.1,
+    "maxOnScreen": 3
+  },
+  {
+    "PatternID": 93,
+    "MonsterID": 6,
+    "MonsterName": "Cheering Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 2
+  },
+  {
+    "PatternID": 93,
+    "MonsterID": 7,
+    "MonsterName": "Jumping Spider",
+    "Rate": 0.1,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 93,
+    "MonsterID": 16,
+    "MonsterName": "Persistent Skeleton",
+    "Rate": 0.3,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 93,
+    "MonsterID": 18,
+    "MonsterName": "Sniper Skull",
+    "Rate": 0.1,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 93,
+    "MonsterID": 17,
+    "MonsterName": "Taunt Golem",
+    "Rate": 0.15,
+    "maxOnScreen": 6
+  },
+  {
+    "PatternID": 93,
+    "MonsterID": 33,
+    "MonsterName": "Spidermum",
+    "Rate": 0.15,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 93,
+    "MonsterID": 34,
+    "MonsterName": "Teleport Wizard 2",
+    "Rate": 0.1,
+    "maxOnScreen": 3
+  },
+  {
+    "PatternID": 94,
+    "MonsterID": 6,
+    "MonsterName": "Cheering Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 2
+  },
+  {
+    "PatternID": 94,
+    "MonsterID": 7,
+    "MonsterName": "Jumping Spider",
+    "Rate": 0.1,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 94,
+    "MonsterID": 16,
+    "MonsterName": "Persistent Skeleton",
+    "Rate": 0.3,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 94,
+    "MonsterID": 11,
+    "MonsterName": "Healing Spider",
+    "Rate": 0.1,
+    "maxOnScreen": 4
+  },
+  {
+    "PatternID": 94,
+    "MonsterID": 18,
+    "MonsterName": "Sniper Skull",
+    "Rate": 0.1,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 94,
+    "MonsterID": 17,
+    "MonsterName": "Taunt Golem",
+    "Rate": 0.2,
+    "maxOnScreen": 6
+  },
+  {
+    "PatternID": 94,
+    "MonsterID": 34,
+    "MonsterName": "Teleport Wizard 2",
+    "Rate": 0.1,
+    "maxOnScreen": 3
+  },
+  {
+    "PatternID": 95,
+    "MonsterID": 6,
+    "MonsterName": "Cheering Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 2
+  },
+  {
+    "PatternID": 95,
+    "MonsterID": 7,
+    "MonsterName": "Jumping Spider",
+    "Rate": 0.1,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 95,
+    "MonsterID": 16,
+    "MonsterName": "Persistent Skeleton",
+    "Rate": 0.3,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 95,
+    "MonsterID": 11,
+    "MonsterName": "Healing Spider",
+    "Rate": 0.1,
+    "maxOnScreen": 4
+  },
+  {
+    "PatternID": 95,
+    "MonsterID": 21,
+    "MonsterName": "Fire Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 95,
+    "MonsterID": 17,
+    "MonsterName": "Taunt Golem",
+    "Rate": 0.2,
+    "maxOnScreen": 6
+  },
+  {
+    "PatternID": 95,
+    "MonsterID": 34,
+    "MonsterName": "Teleport Wizard 2",
+    "Rate": 0.1,
+    "maxOnScreen": 3
+  },
+  {
+    "PatternID": 96,
+    "MonsterID": 6,
+    "MonsterName": "Cheering Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 96,
+    "MonsterID": 7,
+    "MonsterName": "Jumping Spider",
+    "Rate": 0.1,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 96,
+    "MonsterID": 16,
+    "MonsterName": "Persistent Skeleton",
+    "Rate": 0.3,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 96,
+    "MonsterID": 21,
+    "MonsterName": "Fire Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 96,
+    "MonsterID": 17,
+    "MonsterName": "Taunt Golem",
+    "Rate": 0.15,
+    "maxOnScreen": 6
+  },
+  {
+    "PatternID": 96,
+    "MonsterID": 33,
+    "MonsterName": "Spidermum",
+    "Rate": 0.15,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 96,
+    "MonsterID": 34,
+    "MonsterName": "Teleport Wizard 2",
+    "Rate": 0.1,
+    "maxOnScreen": 3
+  },
+  {
+    "PatternID": 97,
+    "MonsterID": 6,
+    "MonsterName": "Cheering Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 2
+  },
+  {
+    "PatternID": 97,
+    "MonsterID": 35,
+    "MonsterName": "Captured Hand",
+    "Rate": 0.1,
+    "maxOnScreen": 3
+  },
+  {
+    "PatternID": 97,
+    "MonsterID": 16,
+    "MonsterName": "Persistent Skeleton",
+    "Rate": 0.3,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 97,
+    "MonsterID": 21,
+    "MonsterName": "Fire Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 97,
+    "MonsterID": 17,
+    "MonsterName": "Taunt Golem",
+    "Rate": 0.15,
+    "maxOnScreen": 6
+  },
+  {
+    "PatternID": 97,
+    "MonsterID": 33,
+    "MonsterName": "Spidermum",
+    "Rate": 0.15,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 97,
+    "MonsterID": 34,
+    "MonsterName": "Teleport Wizard 2",
+    "Rate": 0.1,
+    "maxOnScreen": 3
+  },
+  {
+    "PatternID": 98,
+    "MonsterID": 11,
+    "MonsterName": "Healing Spider",
+    "Rate": 0.1,
+    "maxOnScreen": 4
+  },
+  {
+    "PatternID": 98,
+    "MonsterID": 35,
+    "MonsterName": "Captured Hand",
+    "Rate": 0.1,
+    "maxOnScreen": 3
+  },
+  {
+    "PatternID": 98,
+    "MonsterID": 16,
+    "MonsterName": "Persistent Skeleton",
+    "Rate": 0.3,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 98,
+    "MonsterID": 21,
+    "MonsterName": "Fire Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 98,
+    "MonsterID": 17,
+    "MonsterName": "Taunt Golem",
+    "Rate": 0.15,
+    "maxOnScreen": 6
+  },
+  {
+    "PatternID": 98,
+    "MonsterID": 33,
+    "MonsterName": "Spidermum",
+    "Rate": 0.15,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 98,
+    "MonsterID": 34,
+    "MonsterName": "Teleport Wizard 2",
+    "Rate": 0.1,
+    "maxOnScreen": 3
+  },
+  {
+    "PatternID": 99,
+    "MonsterID": 11,
+    "MonsterName": "Healing Spider",
+    "Rate": 0.1,
+    "maxOnScreen": 4
+  },
+  {
+    "PatternID": 99,
+    "MonsterID": 35,
+    "MonsterName": "Captured Hand",
+    "Rate": 0.1,
+    "maxOnScreen": 3
+  },
+  {
+    "PatternID": 99,
+    "MonsterID": 16,
+    "MonsterName": "Persistent Skeleton",
+    "Rate": 0.3,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 99,
+    "MonsterID": 21,
+    "MonsterName": "Fire Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 99,
+    "MonsterID": 17,
+    "MonsterName": "Taunt Golem",
+    "Rate": 0.2,
+    "maxOnScreen": 6
+  },
+  {
+    "PatternID": 99,
+    "MonsterID": 6,
+    "MonsterName": "Cheering Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 2
+  },
+  {
+    "PatternID": 99,
+    "MonsterID": 34,
+    "MonsterName": "Teleport Wizard 2",
+    "Rate": 0.1,
+    "maxOnScreen": 3
+  },
+  {
+    "PatternID": 100,
+    "MonsterID": 11,
+    "MonsterName": "Healing Spider",
+    "Rate": 0.1,
+    "maxOnScreen": 4
+  },
+  {
+    "PatternID": 100,
+    "MonsterID": 35,
+    "MonsterName": "Captured Hand",
+    "Rate": 0.1,
+    "maxOnScreen": 3
+  },
+  {
+    "PatternID": 100,
+    "MonsterID": 16,
+    "MonsterName": "Persistent Skeleton",
+    "Rate": 0.3,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 100,
+    "MonsterID": 17,
+    "MonsterName": "Taunt Golem",
+    "Rate": 0.3,
+    "maxOnScreen": 6
+  },
+  {
+    "PatternID": 100,
+    "MonsterID": 6,
+    "MonsterName": "Cheering Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 2
+  },
+  {
+    "PatternID": 100,
+    "MonsterID": 34,
+    "MonsterName": "Teleport Wizard 2",
+    "Rate": 0.1,
+    "maxOnScreen": 3
+  },
+  {
+    "PatternID": 101,
+    "MonsterID": 11,
+    "MonsterName": "Healing Spider",
+    "Rate": 0.1,
+    "maxOnScreen": 4
+  },
+  {
+    "PatternID": 101,
+    "MonsterID": 35,
+    "MonsterName": "Captured Hand",
+    "Rate": 0.1,
+    "maxOnScreen": 3
+  },
+  {
+    "PatternID": 101,
+    "MonsterID": 16,
+    "MonsterName": "Persistent Skeleton",
+    "Rate": 0.3,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 101,
+    "MonsterID": 33,
+    "MonsterName": "Spidermum",
+    "Rate": 0.1,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 101,
+    "MonsterID": 17,
+    "MonsterName": "Taunt Golem",
+    "Rate": 0.2,
+    "maxOnScreen": 6
+  },
+  {
+    "PatternID": 101,
+    "MonsterID": 6,
+    "MonsterName": "Cheering Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 2
+  },
+  {
+    "PatternID": 101,
+    "MonsterID": 34,
+    "MonsterName": "Teleport Wizard 2",
+    "Rate": 0.1,
+    "maxOnScreen": 3
+  },
+  {
+    "PatternID": 102,
+    "MonsterID": 11,
+    "MonsterName": "Healing Spider",
+    "Rate": 0.1,
+    "maxOnScreen": 4
+  },
+  {
+    "PatternID": 102,
+    "MonsterID": 35,
+    "MonsterName": "Captured Hand",
+    "Rate": 0.1,
+    "maxOnScreen": 3
+  },
+  {
+    "PatternID": 102,
+    "MonsterID": 16,
+    "MonsterName": "Persistent Skeleton",
+    "Rate": 0.3,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 102,
+    "MonsterID": 33,
+    "MonsterName": "Spidermum",
+    "Rate": 0.1,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 102,
+    "MonsterID": 17,
+    "MonsterName": "Taunt Golem",
+    "Rate": 0.2,
+    "maxOnScreen": 6
+  },
+  {
+    "PatternID": 102,
+    "MonsterID": 18,
+    "MonsterName": "Sniper Skull",
+    "Rate": 0.1,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 102,
+    "MonsterID": 34,
+    "MonsterName": "Teleport Wizard 2",
+    "Rate": 0.1,
+    "maxOnScreen": 3
+  },
+  {
+    "PatternID": 103,
+    "MonsterID": 6,
+    "MonsterName": "Cheering Boar",
+    "Rate": 0.1,
+    "maxOnScreen": 2
+  },
+  {
+    "PatternID": 103,
+    "MonsterID": 35,
+    "MonsterName": "Captured Hand",
+    "Rate": 0.1,
+    "maxOnScreen": 3
+  },
+  {
+    "PatternID": 103,
+    "MonsterID": 16,
+    "MonsterName": "Persistent Skeleton",
+    "Rate": 0.3,
+    "maxOnScreen": 45
+  },
+  {
+    "PatternID": 103,
+    "MonsterID": 33,
+    "MonsterName": "Spidermum",
+    "Rate": 0.1,
+    "maxOnScreen": 7
+  },
+  {
+    "PatternID": 103,
+    "MonsterID": 17,
+    "MonsterName": "Taunt Golem",
+    "Rate": 0.2,
+    "maxOnScreen": 6
+  },
+  {
+    "PatternID": 103,
+    "MonsterID": 18,
+    "MonsterName": "Sniper Skull",
+    "Rate": 0.1,
+    "maxOnScreen": 5
+  },
+  {
+    "PatternID": 103,
+    "MonsterID": 34,
+    "MonsterName": "Teleport Wizard 2",
+    "Rate": 0.1,
+    "maxOnScreen": 3
   }
 ]
