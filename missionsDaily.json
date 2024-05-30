@@ -15,72 +15,65 @@
   },
   {
     "Id": 3,
-    "Description": "Use energy",
-    "TrackId": 3,
-    "CompleteProgress": 8,
-    "Points": 10
-  },
-  {
-    "Id": 4,
     "Description": "Play Main stage ",
     "TrackId": 4,
     "CompleteProgress": 1,
     "Points": 10
   },
   {
-    "Id": 5,
+    "Id": 4,
     "Description": "Defeat enemies",
     "TrackId": 5,
-    "CompleteProgress": 500,
+    "CompleteProgress": 1000,
     "Points": 10
   },
   {
-    "Id": 6,
+    "Id": 5,
     "Description": "Upgrade Weapon or Character ",
     "TrackId": 6,
     "CompleteProgress": 1,
     "Points": 10
   },
   {
-    "Id": 7,
+    "Id": 6,
     "Description": "Pick a level 3 skill",
     "TrackId": 7,
     "CompleteProgress": 1,
     "Points": 10
   },
   {
-    "Id": 8,
-    "Description": "Purchase Daily Shop items",
-    "TrackId": 8,
+    "Id": 7,
+    "Description": "Purchase a Cash Item",
+    "TrackId": 15,
     "CompleteProgress": 1,
     "Points": 10
   },
   {
-    "Id": 9,
+    "Id": 8,
     "Description": "Reset the Daily Shop",
     "TrackId": 9,
     "CompleteProgress": 1,
     "Points": 10
   },
   {
-    "Id": 10,
+    "Id": 9,
     "Description": "Play Tower Mode ",
     "TrackId": 10,
     "CompleteProgress": 1,
     "Points": 10
   },
   {
-    "Id": 11,
+    "Id": 10,
     "Description": "Watch Ad",
     "TrackId": 11,
     "CompleteProgress": 1,
     "Points": 10
   },
   {
-    "Id": 12,
-    "Description": "Use Crystals",
-    "TrackId": 12,
-    "CompleteProgress": 30,
+    "Id": 11,
+    "Description": "Defeat enemies using Rare+ Weapon",
+    "TrackId": 3,
+    "CompleteProgress": 500,
     "Points": 20
   }
 ]
