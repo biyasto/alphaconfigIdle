@@ -1,7 +1,7 @@
 [
   {
     "Id": 201,
-    "Description": "Finish Countryside fgned",
+    "Description": "Finish Countryside",
     "TrackId": 16,
     "TrackValue": 1,
     "CompleteProgress": 1
@@ -25,13 +25,6 @@
     "Description": "Finish Underground Labratory",
     "TrackId": 16,
     "TrackValue": 4,
-    "CompleteProgress": 1
-  },
-  {
-    "Id": 205,
-    "Description": "lol",
-    "TrackId": 16,
-    "TrackValue": 5,
     "CompleteProgress": 1
   }
 ]
