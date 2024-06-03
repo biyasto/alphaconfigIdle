@@ -24,7 +24,7 @@
     "Id": 104,
     "Description": "Defeat enemies",
     "TrackId": 5,
-    "CompleteProgress": 7000,
+    "CompleteProgress": 6000,
     "Points": 10
   },
   {
@@ -36,14 +36,14 @@
   },
   {
     "Id": 106,
-    "Description": "Purchase Daily Shop items",
+    "Description": "Purchase Daily Shop items (chưa track)",
     "TrackId": 8,
     "CompleteProgress": 10,
     "Points": 10
   },
   {
     "Id": 107,
-    "Description": "Reset the Daily Shop",
+    "Description": "Reset the Daily Shop (chưa track)",
     "TrackId": 9,
     "CompleteProgress": 5,
     "Points": 10
@@ -57,23 +57,23 @@
   },
   {
     "Id": 109,
-    "Description": "Watch Ads",
+    "Description": "Watch Ads (chưa track)",
     "TrackId": 11,
     "CompleteProgress": 5,
     "Points": 10
   },
   {
     "Id": 110,
-    "Description": "Purchase Cash Items",
+    "Description": "Purchase Cash Items (chưa track)",
     "TrackId": 15,
     "CompleteProgress": 5,
     "Points": 20
   },
   {
     "Id": 111,
-    "Description": "Defeat enemies using Rare+ Weapon",
+    "Description": "Defeat enemies using Rare+ Weapon ",
     "TrackId": 3,
-    "CompleteProgress": 7000,
+    "CompleteProgress": 6000,
     "Points": 20
   }
 ]
