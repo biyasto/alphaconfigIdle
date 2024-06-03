@@ -8,7 +8,7 @@
   },
   {
     "Id": 2,
-    "Description": "Gacha",
+    "Description": "Gacha ",
     "TrackId": 2,
     "CompleteProgress": 1,
     "Points": 10
@@ -29,7 +29,7 @@
   },
   {
     "Id": 5,
-    "Description": "Upgrade Weapon or Character ",
+    "Description": "Upgrade Weapon or Character (chưa track)",
     "TrackId": 6,
     "CompleteProgress": 1,
     "Points": 10
@@ -43,14 +43,14 @@
   },
   {
     "Id": 7,
-    "Description": "Purchase a Cash Item",
+    "Description": "Purchase a Cash Item (chưa track)",
     "TrackId": 15,
     "CompleteProgress": 1,
     "Points": 10
   },
   {
     "Id": 8,
-    "Description": "Reset the Daily Shop",
+    "Description": "Reset the Daily Shop (chưa track)",
     "TrackId": 9,
     "CompleteProgress": 1,
     "Points": 10
@@ -64,7 +64,7 @@
   },
   {
     "Id": 10,
-    "Description": "Watch Ad",
+    "Description": "Watch Ad (chưa track)",
     "TrackId": 11,
     "CompleteProgress": 1,
     "Points": 10
