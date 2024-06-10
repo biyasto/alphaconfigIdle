@@ -161,7 +161,7 @@
     "movementspeed": 2.8,
     "attackRange": 1.5,
     "atkFactorTouch": 1.2,
-    "atkFactorProjectile": 0,
+    "atkFactorProjectile": 1.2,
     "attackInterval": 0,
     "attackspeed": 2,
     "detectRange": 0,
@@ -1539,7 +1539,7 @@
     "model": "IceCrystal",
     "behaviorTree": "67_IceCrystal",
     "lives": 1,
-    "hpFactor": 10,
+    "hpFactor": 9999,
     "movementspeed": 3,
     "attackRange": 0,
     "atkFactorTouch": 0,
@@ -1556,7 +1556,7 @@
     "isBoss": false,
     "isElite": false,
     "weight": 100000,
-    "dmgResistance": 1
+    "dmgResistance": 0
   },
   {
     "id": 68,
