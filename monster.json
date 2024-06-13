@@ -1416,7 +1416,7 @@
   {
     "id": 62,
     "name": "[Boss] Spider Queen",
-    "model": "CuteSpider",
+    "model": "SpiderQueen",
     "behaviorTree": "SpiderQueenTree",
     "lives": 1,
     "hpFactor": 8,
